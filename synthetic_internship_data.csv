@@ -1,0 +1,5001 @@
+intern_id,department,location,duration,mentor_meetings,status
+1,Design,Washington,3,4,Dropped Out
+2,Engineering,Texas,3,5,Completed
+3,Marketing,Michigan,3,5,Dropped Out
+4,Engineering,Michigan,3,10,Completed
+5,Engineering,Washington,6,8,Completed
+6,Web Dev,Illinois,3,6,Dropped Out
+7,Marketing,Alaska,3,10,Completed
+8,Marketing,Alaska,6,7,Dropped Out
+9,Marketing,New Jersey,9,6,Dropped Out
+10,Engineering,Michigan,6,5,Dropped Out
+11,Design,Hawaii,3,5,Dropped Out
+12,Marketing,California,3,3,Dropped Out
+13,HR,California,9,7,Dropped Out
+14,Engineering,California,3,10,Completed
+15,Web Dev,New Jersey,6,5,Dropped Out
+16,Design,Texas,3,7,Dropped Out
+17,HR,New York,3,2,Dropped Out
+18,HR,Michigan,9,9,Completed
+19,Web Dev,Michigan,6,8,Dropped Out
+20,Design,Hawaii,6,5,Dropped Out
+21,Engineering,Alaska,3,2,Dropped Out
+22,Data Science,Illinois,3,6,Completed
+23,Design,Washington,6,8,Dropped Out
+24,Web Dev,Alaska,6,7,Completed
+25,HR,Texas,3,8,Completed
+26,Engineering,Washington,3,4,Dropped Out
+27,Design,Michigan,3,3,Dropped Out
+28,Data Science,Texas,9,7,Completed
+29,Data Science,Washington,6,2,Dropped Out
+30,Marketing,Hawaii,9,5,Dropped Out
+31,Marketing,Hawaii,3,7,Completed
+32,Web Dev,Nebraska,9,1,Dropped Out
+33,Design,New York,3,4,Dropped Out
+34,Design,Hawaii,6,2,Dropped Out
+35,HR,Michigan,9,6,Completed
+36,HR,Illinois,3,1,Dropped Out
+37,HR,California,3,7,Completed
+38,Marketing,Nebraska,3,3,Dropped Out
+39,Design,California,3,1,Dropped Out
+40,Design,New York,6,8,Dropped Out
+41,Data Science,Washington,6,7,Completed
+42,Marketing,New Jersey,6,2,Dropped Out
+43,Engineering,Hawaii,6,7,Dropped Out
+44,Marketing,Illinois,6,3,Completed
+45,Engineering,New York,3,9,Completed
+46,Data Science,California,3,8,Completed
+47,Web Dev,Nebraska,9,5,Completed
+48,Design,Hawaii,3,7,Dropped Out
+49,Data Science,Michigan,6,3,Dropped Out
+50,Design,Hawaii,3,1,Completed
+51,HR,Nebraska,6,1,Completed
+52,Web Dev,Nebraska,6,2,Dropped Out
+53,Web Dev,New Jersey,3,8,Completed
+54,Data Science,Hawaii,3,1,Dropped Out
+55,Web Dev,Hawaii,6,5,Completed
+56,Engineering,New Jersey,3,9,Dropped Out
+57,Web Dev,Texas,3,9,Completed
+58,Design,Texas,6,2,Completed
+59,Design,Washington,3,7,Completed
+60,Design,Texas,9,1,Dropped Out
+61,Design,Alaska,6,3,Dropped Out
+62,Engineering,Hawaii,3,6,Completed
+63,Marketing,Illinois,6,9,Completed
+64,HR,Hawaii,6,10,Completed
+65,Data Science,Alaska,3,2,Dropped Out
+66,Design,Alaska,3,7,Dropped Out
+67,Web Dev,California,3,4,Completed
+68,Design,Hawaii,3,2,Completed
+69,Web Dev,New York,3,3,Completed
+70,HR,Alaska,3,6,Completed
+71,HR,Illinois,3,10,Completed
+72,HR,New Jersey,6,9,Completed
+73,Web Dev,Washington,6,8,Dropped Out
+74,Design,California,6,10,Completed
+75,HR,New Jersey,6,9,Dropped Out
+76,Engineering,California,9,4,Completed
+77,Web Dev,Illinois,6,4,Completed
+78,Web Dev,Nebraska,6,9,Completed
+79,Design,Hawaii,3,8,Dropped Out
+80,Web Dev,Michigan,9,2,Dropped Out
+81,Web Dev,New York,3,8,Dropped Out
+82,HR,New Jersey,3,1,Completed
+83,Design,Hawaii,6,9,Completed
+84,HR,New York,3,9,Dropped Out
+85,HR,Nebraska,3,8,Completed
+86,Design,Michigan,6,5,Completed
+87,Data Science,New York,6,5,Completed
+88,HR,New York,6,3,Dropped Out
+89,Engineering,New Jersey,9,5,Dropped Out
+90,Engineering,Texas,3,4,Completed
+91,Web Dev,Michigan,3,1,Completed
+92,Engineering,Hawaii,6,9,Dropped Out
+93,Web Dev,Nebraska,3,10,Dropped Out
+94,Data Science,Michigan,6,4,Completed
+95,Design,Illinois,3,3,Dropped Out
+96,Design,Texas,3,6,Completed
+97,Design,Illinois,6,1,Dropped Out
+98,Engineering,Nebraska,6,5,Completed
+99,Data Science,New Jersey,6,7,Completed
+100,Engineering,New Jersey,3,2,Completed
+101,Engineering,Nebraska,3,10,Dropped Out
+102,Data Science,California,3,9,Completed
+103,Data Science,Nebraska,3,6,Completed
+104,Data Science,Texas,3,2,Completed
+105,Data Science,Alaska,3,8,Completed
+106,Design,New Jersey,6,8,Dropped Out
+107,Marketing,Washington,3,1,Completed
+108,Marketing,Texas,6,1,Dropped Out
+109,Data Science,Texas,9,1,Completed
+110,Marketing,Texas,3,4,Completed
+111,Marketing,New York,3,4,Completed
+112,Data Science,Texas,3,8,Completed
+113,Marketing,New Jersey,6,1,Dropped Out
+114,Engineering,Alaska,3,10,Completed
+115,Web Dev,Alaska,3,3,Completed
+116,Web Dev,Texas,6,1,Dropped Out
+117,Data Science,Illinois,3,9,Completed
+118,Design,New Jersey,6,10,Dropped Out
+119,Data Science,New Jersey,6,9,Completed
+120,Design,Michigan,6,7,Dropped Out
+121,Web Dev,Hawaii,3,8,Completed
+122,Data Science,California,9,1,Completed
+123,HR,California,6,5,Completed
+124,Engineering,Illinois,3,2,Dropped Out
+125,Marketing,California,3,1,Completed
+126,Design,Michigan,3,3,Dropped Out
+127,HR,Nebraska,9,7,Dropped Out
+128,Marketing,California,9,1,Dropped Out
+129,Marketing,New Jersey,6,2,Dropped Out
+130,Data Science,Nebraska,9,2,Completed
+131,Marketing,California,3,4,Completed
+132,Engineering,New Jersey,3,3,Completed
+133,HR,New Jersey,9,3,Dropped Out
+134,Marketing,Texas,6,10,Completed
+135,Data Science,Alaska,3,5,Completed
+136,Engineering,Illinois,6,3,Completed
+137,Web Dev,Michigan,9,7,Dropped Out
+138,HR,New York,6,5,Completed
+139,Marketing,Hawaii,9,4,Completed
+140,Data Science,California,6,3,Completed
+141,Web Dev,California,3,4,Dropped Out
+142,Web Dev,Nebraska,9,2,Dropped Out
+143,Design,Nebraska,3,1,Dropped Out
+144,Engineering,Hawaii,9,3,Dropped Out
+145,Marketing,California,3,2,Dropped Out
+146,Data Science,Washington,6,1,Dropped Out
+147,Design,Michigan,3,1,Dropped Out
+148,Engineering,California,3,2,Dropped Out
+149,Design,Alaska,3,9,Dropped Out
+150,HR,Hawaii,9,5,Dropped Out
+151,Engineering,Washington,9,9,Completed
+152,Engineering,Michigan,3,8,Completed
+153,Marketing,California,9,6,Dropped Out
+154,Engineering,New York,9,1,Dropped Out
+155,Design,Texas,6,10,Completed
+156,Engineering,Alaska,3,5,Completed
+157,Marketing,New York,9,1,Dropped Out
+158,Marketing,Nebraska,6,7,Completed
+159,HR,Nebraska,9,10,Dropped Out
+160,Design,California,9,8,Dropped Out
+161,Web Dev,Nebraska,9,8,Dropped Out
+162,Web Dev,Alaska,6,7,Completed
+163,Engineering,Michigan,3,2,Dropped Out
+164,HR,New Jersey,3,5,Dropped Out
+165,Data Science,Illinois,3,4,Completed
+166,Engineering,Hawaii,3,5,Dropped Out
+167,HR,Michigan,6,10,Completed
+168,Design,New Jersey,6,9,Completed
+169,Design,Washington,9,4,Dropped Out
+170,Design,Alaska,3,8,Completed
+171,Design,New York,6,8,Dropped Out
+172,Design,New Jersey,3,2,Dropped Out
+173,HR,Alaska,3,6,Completed
+174,HR,Texas,3,5,Completed
+175,Marketing,New York,6,2,Dropped Out
+176,Web Dev,Nebraska,3,10,Completed
+177,Design,Nebraska,6,4,Dropped Out
+178,Data Science,New York,3,7,Completed
+179,HR,Washington,9,1,Dropped Out
+180,Data Science,Washington,9,9,Completed
+181,Data Science,Washington,9,10,Completed
+182,Data Science,New Jersey,9,1,Dropped Out
+183,Marketing,Hawaii,9,5,Completed
+184,HR,New Jersey,9,7,Dropped Out
+185,Data Science,California,6,8,Completed
+186,Design,Illinois,3,2,Completed
+187,Engineering,New York,3,4,Completed
+188,Data Science,Michigan,3,2,Completed
+189,Marketing,Illinois,6,4,Dropped Out
+190,HR,Texas,6,6,Dropped Out
+191,Marketing,New Jersey,9,6,Dropped Out
+192,Data Science,New Jersey,9,2,Completed
+193,HR,Alaska,3,4,Dropped Out
+194,Engineering,Illinois,6,4,Dropped Out
+195,Data Science,Alaska,9,1,Dropped Out
+196,Marketing,Michigan,3,2,Dropped Out
+197,Web Dev,Alaska,6,3,Dropped Out
+198,Design,Illinois,3,5,Dropped Out
+199,Marketing,New York,6,8,Completed
+200,HR,Texas,3,6,Completed
+201,Data Science,New Jersey,9,3,Dropped Out
+202,Design,Michigan,6,6,Completed
+203,Data Science,New Jersey,3,7,Completed
+204,HR,California,3,6,Dropped Out
+205,Data Science,Texas,3,10,Completed
+206,Web Dev,Hawaii,9,6,Dropped Out
+207,Design,Alaska,6,1,Dropped Out
+208,Design,Nebraska,3,3,Dropped Out
+209,HR,Illinois,3,7,Completed
+210,Web Dev,New Jersey,6,4,Dropped Out
+211,Marketing,Alaska,6,4,Completed
+212,Data Science,Michigan,6,7,Completed
+213,Engineering,New Jersey,3,9,Completed
+214,Data Science,Hawaii,6,2,Dropped Out
+215,Data Science,Texas,6,9,Completed
+216,Marketing,Texas,9,3,Dropped Out
+217,Data Science,New Jersey,9,6,Completed
+218,Web Dev,Michigan,6,4,Completed
+219,Web Dev,Texas,6,1,Dropped Out
+220,Design,Texas,3,9,Dropped Out
+221,HR,Hawaii,9,6,Completed
+222,Engineering,Illinois,3,8,Completed
+223,Data Science,Michigan,3,2,Dropped Out
+224,Data Science,Michigan,3,7,Completed
+225,Marketing,New York,9,6,Dropped Out
+226,HR,New York,3,2,Completed
+227,Web Dev,Texas,3,2,Completed
+228,Engineering,Nebraska,3,4,Completed
+229,Design,New York,3,4,Dropped Out
+230,Web Dev,Texas,3,3,Dropped Out
+231,HR,Washington,9,8,Dropped Out
+232,Design,California,9,7,Completed
+233,Marketing,California,3,2,Dropped Out
+234,Marketing,Michigan,9,3,Dropped Out
+235,Data Science,Nebraska,6,10,Completed
+236,HR,Hawaii,3,9,Completed
+237,Engineering,Illinois,6,5,Completed
+238,Design,New York,9,2,Dropped Out
+239,Web Dev,Washington,3,3,Dropped Out
+240,HR,Texas,3,8,Completed
+241,HR,Nebraska,9,4,Dropped Out
+242,Marketing,Michigan,6,2,Dropped Out
+243,Data Science,New York,3,2,Completed
+244,Data Science,Nebraska,6,6,Completed
+245,Design,New York,6,8,Dropped Out
+246,Marketing,Illinois,9,7,Completed
+247,HR,Illinois,6,4,Completed
+248,Engineering,Hawaii,3,2,Completed
+249,Marketing,California,6,9,Completed
+250,Design,Alaska,6,4,Dropped Out
+251,Design,Alaska,3,9,Completed
+252,Marketing,New York,6,5,Completed
+253,Design,Hawaii,9,7,Dropped Out
+254,Marketing,Alaska,3,5,Completed
+255,Web Dev,Michigan,6,2,Dropped Out
+256,Marketing,Alaska,3,6,Dropped Out
+257,Marketing,New Jersey,3,7,Dropped Out
+258,Design,Texas,3,6,Dropped Out
+259,Design,Hawaii,3,3,Completed
+260,Data Science,Michigan,9,10,Completed
+261,Data Science,Nebraska,3,8,Completed
+262,Web Dev,Michigan,6,3,Dropped Out
+263,Data Science,California,3,5,Completed
+264,Marketing,Nebraska,9,9,Completed
+265,Design,Washington,6,5,Dropped Out
+266,Data Science,Texas,6,7,Completed
+267,Data Science,Texas,3,7,Completed
+268,Web Dev,Texas,3,5,Completed
+269,HR,Texas,3,2,Completed
+270,Web Dev,New York,9,5,Completed
+271,Marketing,Texas,3,7,Completed
+272,Design,Texas,6,7,Dropped Out
+273,Web Dev,Texas,6,4,Completed
+274,Data Science,Hawaii,3,1,Completed
+275,Design,New York,6,6,Dropped Out
+276,Design,Illinois,6,3,Dropped Out
+277,Data Science,Michigan,6,5,Completed
+278,Web Dev,Michigan,3,4,Completed
+279,Data Science,Nebraska,3,2,Completed
+280,HR,Hawaii,3,7,Completed
+281,Design,New Jersey,9,5,Dropped Out
+282,Engineering,Michigan,6,7,Dropped Out
+283,Engineering,Alaska,3,9,Completed
+284,Marketing,New Jersey,9,4,Completed
+285,Data Science,Texas,3,5,Completed
+286,Data Science,Texas,9,9,Completed
+287,Marketing,New York,9,10,Completed
+288,Marketing,New Jersey,9,4,Completed
+289,Marketing,Alaska,9,5,Dropped Out
+290,Design,New York,3,5,Completed
+291,HR,Nebraska,3,8,Completed
+292,Data Science,New Jersey,6,4,Completed
+293,Design,Hawaii,3,4,Completed
+294,Marketing,Texas,3,7,Completed
+295,Data Science,Texas,6,5,Dropped Out
+296,Design,California,3,6,Completed
+297,HR,New York,9,6,Dropped Out
+298,Design,Illinois,9,6,Dropped Out
+299,HR,Illinois,9,10,Dropped Out
+300,Marketing,New York,6,5,Dropped Out
+301,HR,Hawaii,9,5,Completed
+302,Data Science,Washington,9,9,Completed
+303,Marketing,New York,6,8,Completed
+304,Data Science,Hawaii,3,4,Completed
+305,Engineering,Nebraska,9,7,Dropped Out
+306,Web Dev,Texas,9,8,Completed
+307,HR,Alaska,3,9,Completed
+308,Web Dev,Washington,3,5,Completed
+309,Web Dev,New Jersey,6,3,Dropped Out
+310,HR,Washington,3,4,Completed
+311,Marketing,Alaska,9,10,Completed
+312,Engineering,California,9,6,Dropped Out
+313,Data Science,Texas,3,10,Completed
+314,Design,Illinois,6,5,Dropped Out
+315,Data Science,Hawaii,3,9,Completed
+316,Design,New York,6,3,Dropped Out
+317,Data Science,New York,3,2,Completed
+318,HR,Illinois,6,6,Dropped Out
+319,Engineering,Washington,3,7,Dropped Out
+320,Design,Texas,3,5,Dropped Out
+321,Marketing,Michigan,3,1,Dropped Out
+322,Data Science,Hawaii,3,3,Completed
+323,Data Science,Nebraska,6,3,Completed
+324,Design,Alaska,3,4,Completed
+325,Marketing,Washington,6,10,Dropped Out
+326,Marketing,New Jersey,9,6,Dropped Out
+327,HR,California,9,5,Completed
+328,HR,New York,9,1,Completed
+329,HR,Washington,9,6,Completed
+330,HR,California,3,9,Completed
+331,HR,Alaska,3,1,Completed
+332,HR,New York,6,8,Completed
+333,Engineering,New York,9,8,Completed
+334,Marketing,Michigan,9,3,Dropped Out
+335,HR,Washington,3,9,Completed
+336,Marketing,Texas,3,8,Completed
+337,Marketing,Illinois,3,3,Completed
+338,Web Dev,Illinois,6,10,Dropped Out
+339,Engineering,Nebraska,6,5,Completed
+340,HR,New Jersey,3,3,Completed
+341,Data Science,California,3,5,Completed
+342,Design,Washington,6,9,Completed
+343,Data Science,Hawaii,6,4,Completed
+344,Engineering,New Jersey,3,6,Completed
+345,Design,Michigan,9,3,Dropped Out
+346,Engineering,New York,6,3,Dropped Out
+347,Marketing,Texas,9,5,Dropped Out
+348,Design,Washington,9,8,Dropped Out
+349,Marketing,New Jersey,3,8,Completed
+350,Data Science,New Jersey,3,3,Completed
+351,Data Science,Texas,6,8,Completed
+352,Design,Nebraska,3,8,Completed
+353,Design,California,9,3,Dropped Out
+354,HR,California,6,10,Completed
+355,Engineering,New Jersey,9,10,Dropped Out
+356,HR,Alaska,3,2,Dropped Out
+357,Engineering,New Jersey,3,10,Completed
+358,HR,New Jersey,6,2,Dropped Out
+359,Marketing,Texas,3,9,Completed
+360,Design,New York,6,7,Completed
+361,Data Science,Texas,9,6,Completed
+362,Engineering,Washington,3,7,Dropped Out
+363,Engineering,New Jersey,6,8,Completed
+364,Data Science,California,3,1,Dropped Out
+365,HR,Hawaii,3,8,Completed
+366,Engineering,California,9,3,Dropped Out
+367,Marketing,Illinois,9,3,Dropped Out
+368,Design,Nebraska,6,6,Dropped Out
+369,Data Science,Michigan,9,4,Dropped Out
+370,Design,Washington,6,4,Completed
+371,Engineering,Washington,3,4,Completed
+372,Engineering,Nebraska,3,10,Completed
+373,Data Science,Hawaii,9,9,Completed
+374,Marketing,Michigan,3,8,Dropped Out
+375,Web Dev,New York,6,3,Completed
+376,Data Science,New Jersey,6,1,Completed
+377,Web Dev,Michigan,6,1,Completed
+378,HR,Hawaii,3,1,Dropped Out
+379,Web Dev,Alaska,3,4,Dropped Out
+380,Marketing,Illinois,3,6,Completed
+381,HR,Michigan,6,4,Dropped Out
+382,Web Dev,Michigan,6,3,Dropped Out
+383,HR,Illinois,6,8,Completed
+384,Web Dev,New Jersey,6,8,Completed
+385,Marketing,Michigan,3,6,Completed
+386,Web Dev,Illinois,9,9,Completed
+387,Web Dev,Illinois,6,10,Completed
+388,Web Dev,Illinois,3,1,Completed
+389,Data Science,Texas,3,8,Completed
+390,Data Science,Hawaii,9,6,Dropped Out
+391,Data Science,Texas,9,1,Dropped Out
+392,Marketing,Alaska,3,4,Dropped Out
+393,HR,New York,6,5,Dropped Out
+394,Engineering,Texas,3,7,Completed
+395,Web Dev,Texas,3,8,Completed
+396,Web Dev,Hawaii,6,9,Dropped Out
+397,Marketing,New York,6,6,Completed
+398,Web Dev,Nebraska,6,10,Completed
+399,Data Science,Illinois,3,9,Completed
+400,Engineering,Washington,3,4,Dropped Out
+401,Design,New York,3,8,Dropped Out
+402,Web Dev,Alaska,3,3,Completed
+403,Data Science,New Jersey,3,4,Completed
+404,Design,Alaska,3,10,Completed
+405,Engineering,Illinois,3,4,Dropped Out
+406,Design,New York,3,6,Dropped Out
+407,Data Science,Alaska,6,9,Completed
+408,HR,Alaska,3,6,Dropped Out
+409,HR,Nebraska,3,1,Dropped Out
+410,Design,Nebraska,6,5,Dropped Out
+411,Marketing,New York,3,9,Completed
+412,Design,Illinois,6,5,Completed
+413,Web Dev,Texas,3,6,Completed
+414,Web Dev,California,3,3,Completed
+415,HR,Michigan,3,8,Dropped Out
+416,Marketing,Washington,3,10,Completed
+417,Data Science,Michigan,6,4,Completed
+418,Web Dev,Hawaii,9,4,Dropped Out
+419,HR,Nebraska,3,5,Completed
+420,Engineering,New York,3,10,Completed
+421,HR,Michigan,6,9,Completed
+422,Web Dev,Illinois,3,8,Completed
+423,Web Dev,Washington,9,7,Completed
+424,HR,Michigan,3,5,Completed
+425,Data Science,Washington,9,9,Completed
+426,Design,New Jersey,3,9,Dropped Out
+427,Web Dev,Illinois,3,10,Completed
+428,HR,California,9,10,Completed
+429,HR,Alaska,6,2,Completed
+430,Marketing,Washington,6,4,Dropped Out
+431,Design,Illinois,6,8,Dropped Out
+432,Engineering,Washington,6,1,Completed
+433,Data Science,Washington,3,5,Completed
+434,Engineering,Texas,6,8,Dropped Out
+435,Design,Texas,3,2,Dropped Out
+436,Design,Illinois,9,2,Dropped Out
+437,Design,Texas,9,8,Dropped Out
+438,Engineering,Hawaii,3,10,Completed
+439,Design,California,3,9,Dropped Out
+440,HR,New York,3,7,Dropped Out
+441,Engineering,Illinois,3,8,Completed
+442,Design,Illinois,9,5,Dropped Out
+443,HR,Hawaii,3,1,Dropped Out
+444,Marketing,Nebraska,3,4,Completed
+445,Design,Nebraska,9,2,Dropped Out
+446,Engineering,Texas,9,3,Dropped Out
+447,Web Dev,New York,6,3,Dropped Out
+448,Design,Texas,6,9,Dropped Out
+449,Web Dev,New Jersey,6,10,Completed
+450,HR,New Jersey,9,4,Completed
+451,Marketing,Alaska,6,2,Dropped Out
+452,Data Science,New Jersey,6,3,Dropped Out
+453,Marketing,Nebraska,3,3,Completed
+454,Design,California,3,7,Dropped Out
+455,Web Dev,New Jersey,6,8,Completed
+456,Web Dev,Texas,9,6,Dropped Out
+457,Engineering,Washington,9,4,Dropped Out
+458,Web Dev,Illinois,9,6,Dropped Out
+459,Engineering,California,6,1,Dropped Out
+460,HR,California,6,10,Dropped Out
+461,Data Science,Texas,9,8,Completed
+462,Design,Illinois,6,1,Dropped Out
+463,Engineering,Nebraska,3,5,Completed
+464,Data Science,California,3,2,Completed
+465,Web Dev,Alaska,9,6,Dropped Out
+466,Web Dev,Texas,3,9,Completed
+467,Data Science,California,9,5,Dropped Out
+468,Web Dev,New York,3,4,Completed
+469,HR,Illinois,6,2,Dropped Out
+470,HR,New Jersey,6,3,Completed
+471,Data Science,California,6,6,Completed
+472,Engineering,Texas,3,8,Completed
+473,Engineering,New Jersey,9,8,Dropped Out
+474,Data Science,Alaska,6,5,Completed
+475,Engineering,New Jersey,3,5,Completed
+476,Engineering,New York,6,10,Dropped Out
+477,HR,Nebraska,3,3,Dropped Out
+478,Engineering,California,3,7,Dropped Out
+479,Marketing,Michigan,3,6,Completed
+480,Design,Michigan,9,1,Dropped Out
+481,Web Dev,New Jersey,6,4,Dropped Out
+482,Marketing,Hawaii,6,6,Completed
+483,Engineering,Illinois,3,6,Completed
+484,HR,Michigan,3,3,Completed
+485,Data Science,Hawaii,9,6,Dropped Out
+486,Engineering,Michigan,6,10,Completed
+487,HR,Hawaii,9,6,Dropped Out
+488,Design,Illinois,3,9,Completed
+489,Engineering,Washington,3,9,Completed
+490,Data Science,Michigan,9,2,Dropped Out
+491,HR,New York,6,4,Completed
+492,HR,California,3,9,Completed
+493,HR,Hawaii,3,4,Dropped Out
+494,Design,California,9,8,Dropped Out
+495,Engineering,Texas,3,10,Completed
+496,Design,Texas,6,3,Dropped Out
+497,Web Dev,Illinois,3,3,Dropped Out
+498,Web Dev,Hawaii,3,9,Completed
+499,Engineering,Alaska,9,10,Completed
+500,Design,Texas,3,8,Dropped Out
+501,Data Science,Illinois,6,1,Completed
+502,HR,Texas,9,10,Dropped Out
+503,HR,Texas,3,2,Dropped Out
+504,Engineering,Alaska,3,3,Completed
+505,Web Dev,Michigan,6,2,Completed
+506,Web Dev,New Jersey,3,3,Completed
+507,HR,Washington,3,8,Dropped Out
+508,Engineering,Texas,3,6,Completed
+509,Design,Texas,6,7,Completed
+510,Web Dev,New York,6,10,Completed
+511,Design,Washington,6,10,Completed
+512,Web Dev,Alaska,3,6,Completed
+513,Web Dev,California,6,1,Completed
+514,Marketing,Hawaii,9,3,Dropped Out
+515,Web Dev,Texas,6,1,Completed
+516,Data Science,New Jersey,6,10,Completed
+517,Engineering,Hawaii,6,9,Dropped Out
+518,Engineering,Washington,9,9,Dropped Out
+519,Design,Hawaii,9,5,Dropped Out
+520,Web Dev,Michigan,3,4,Completed
+521,Data Science,Texas,3,9,Completed
+522,Design,Hawaii,3,9,Completed
+523,Marketing,California,3,3,Dropped Out
+524,Design,California,3,5,Completed
+525,Design,Texas,9,3,Dropped Out
+526,Web Dev,Nebraska,3,10,Completed
+527,Marketing,California,6,2,Completed
+528,Design,Hawaii,6,1,Dropped Out
+529,Data Science,Illinois,3,10,Completed
+530,Data Science,California,9,2,Completed
+531,Engineering,Washington,9,8,Dropped Out
+532,Marketing,Nebraska,3,8,Completed
+533,Marketing,Hawaii,3,3,Completed
+534,Engineering,Alaska,3,7,Dropped Out
+535,Design,New York,6,7,Completed
+536,Marketing,Alaska,3,2,Completed
+537,Data Science,Michigan,6,9,Completed
+538,Data Science,New York,9,3,Dropped Out
+539,Web Dev,Michigan,3,2,Dropped Out
+540,Marketing,New York,9,3,Dropped Out
+541,Design,New York,3,2,Dropped Out
+542,Engineering,Illinois,9,8,Dropped Out
+543,Engineering,New Jersey,3,5,Completed
+544,Design,Washington,6,3,Dropped Out
+545,HR,Alaska,3,5,Completed
+546,Web Dev,California,9,8,Dropped Out
+547,Engineering,Hawaii,6,7,Dropped Out
+548,Marketing,Nebraska,3,6,Completed
+549,Web Dev,Washington,6,1,Completed
+550,Marketing,Michigan,3,10,Completed
+551,Data Science,Illinois,6,1,Dropped Out
+552,Web Dev,Michigan,9,1,Dropped Out
+553,Engineering,New Jersey,3,10,Completed
+554,Web Dev,Nebraska,3,8,Completed
+555,Web Dev,Illinois,3,8,Completed
+556,Web Dev,Michigan,6,7,Dropped Out
+557,HR,New Jersey,3,6,Completed
+558,Web Dev,Hawaii,3,4,Dropped Out
+559,Marketing,Hawaii,3,1,Completed
+560,Data Science,Michigan,3,9,Completed
+561,Design,Washington,9,1,Dropped Out
+562,Web Dev,Nebraska,3,4,Dropped Out
+563,Engineering,Texas,6,3,Completed
+564,Web Dev,Washington,6,7,Completed
+565,Engineering,Hawaii,6,5,Completed
+566,Marketing,Nebraska,3,5,Completed
+567,Engineering,New Jersey,6,4,Completed
+568,Design,Illinois,9,1,Dropped Out
+569,Data Science,New York,3,5,Completed
+570,Engineering,Michigan,3,4,Dropped Out
+571,Engineering,Alaska,3,10,Completed
+572,Data Science,Nebraska,3,8,Completed
+573,Design,California,3,2,Completed
+574,Web Dev,New Jersey,6,8,Dropped Out
+575,Engineering,Texas,3,1,Completed
+576,Data Science,New York,6,4,Dropped Out
+577,Marketing,California,6,3,Dropped Out
+578,Data Science,Texas,3,5,Completed
+579,Marketing,Alaska,6,5,Completed
+580,Design,Hawaii,3,5,Dropped Out
+581,Web Dev,Washington,9,4,Dropped Out
+582,Data Science,Michigan,3,8,Completed
+583,HR,Illinois,6,3,Dropped Out
+584,Engineering,Texas,9,4,Dropped Out
+585,Design,New York,3,1,Completed
+586,Data Science,Nebraska,3,7,Completed
+587,Engineering,Hawaii,6,1,Dropped Out
+588,Data Science,Nebraska,3,2,Completed
+589,Marketing,New York,9,7,Completed
+590,Data Science,Nebraska,9,1,Dropped Out
+591,HR,Texas,3,3,Dropped Out
+592,Data Science,New Jersey,3,6,Completed
+593,Data Science,Nebraska,3,6,Completed
+594,HR,Washington,3,6,Completed
+595,Design,Alaska,6,2,Dropped Out
+596,Data Science,Illinois,6,2,Completed
+597,HR,Texas,3,6,Completed
+598,Engineering,California,3,10,Completed
+599,Marketing,New York,3,5,Completed
+600,Marketing,Hawaii,3,7,Completed
+601,Data Science,Texas,9,7,Dropped Out
+602,Design,New Jersey,3,5,Dropped Out
+603,Design,Hawaii,9,8,Dropped Out
+604,Engineering,Washington,6,10,Dropped Out
+605,Data Science,New York,6,6,Completed
+606,Marketing,Hawaii,3,5,Completed
+607,Design,Nebraska,6,4,Dropped Out
+608,Data Science,Texas,6,7,Dropped Out
+609,Design,Alaska,6,4,Dropped Out
+610,HR,New York,3,5,Dropped Out
+611,Design,Michigan,3,5,Dropped Out
+612,Marketing,Washington,6,1,Dropped Out
+613,Web Dev,Illinois,3,1,Completed
+614,Engineering,New York,3,3,Completed
+615,Engineering,New Jersey,9,3,Dropped Out
+616,Marketing,Texas,3,2,Dropped Out
+617,Design,Nebraska,3,2,Dropped Out
+618,Data Science,Illinois,3,6,Completed
+619,Design,Illinois,6,1,Dropped Out
+620,Marketing,Washington,3,6,Dropped Out
+621,Engineering,Hawaii,6,5,Dropped Out
+622,Design,New Jersey,3,6,Completed
+623,Engineering,Hawaii,3,5,Completed
+624,Data Science,Nebraska,6,7,Completed
+625,Engineering,Illinois,3,1,Dropped Out
+626,Engineering,New Jersey,9,3,Dropped Out
+627,Web Dev,New Jersey,3,6,Dropped Out
+628,Web Dev,California,3,1,Completed
+629,HR,Texas,3,7,Completed
+630,Web Dev,Illinois,3,4,Completed
+631,Engineering,Illinois,9,3,Dropped Out
+632,Marketing,New Jersey,9,10,Dropped Out
+633,Engineering,Hawaii,3,9,Completed
+634,Marketing,Illinois,6,1,Dropped Out
+635,Marketing,New Jersey,6,8,Dropped Out
+636,Web Dev,Illinois,3,1,Completed
+637,Design,New Jersey,3,5,Dropped Out
+638,Data Science,California,9,10,Completed
+639,Web Dev,Texas,9,8,Completed
+640,Web Dev,New Jersey,9,6,Dropped Out
+641,Design,Illinois,6,7,Completed
+642,Data Science,Nebraska,6,8,Completed
+643,Engineering,Texas,3,6,Completed
+644,HR,California,3,6,Completed
+645,HR,New Jersey,3,6,Dropped Out
+646,Engineering,Nebraska,6,5,Dropped Out
+647,Web Dev,New Jersey,6,8,Completed
+648,Data Science,Hawaii,9,2,Dropped Out
+649,Web Dev,Illinois,9,7,Dropped Out
+650,Marketing,New York,9,4,Dropped Out
+651,Web Dev,Washington,9,1,Dropped Out
+652,Web Dev,Alaska,3,5,Dropped Out
+653,Engineering,Hawaii,6,3,Dropped Out
+654,Engineering,Nebraska,6,4,Dropped Out
+655,Engineering,Hawaii,3,7,Dropped Out
+656,HR,Michigan,9,5,Completed
+657,Marketing,New Jersey,9,4,Completed
+658,Engineering,New Jersey,3,1,Completed
+659,Data Science,Alaska,3,6,Completed
+660,HR,Alaska,6,10,Completed
+661,Design,Michigan,6,6,Dropped Out
+662,Data Science,Illinois,9,7,Completed
+663,Data Science,Washington,3,1,Completed
+664,Engineering,New York,3,4,Completed
+665,Design,New York,3,9,Completed
+666,Design,California,3,10,Completed
+667,HR,California,3,6,Completed
+668,Design,Illinois,9,2,Dropped Out
+669,Marketing,California,3,4,Dropped Out
+670,Engineering,California,3,6,Completed
+671,Design,Michigan,3,4,Dropped Out
+672,HR,Michigan,3,10,Completed
+673,Marketing,California,9,7,Dropped Out
+674,Web Dev,Hawaii,6,3,Dropped Out
+675,Web Dev,Texas,6,6,Dropped Out
+676,Marketing,Texas,3,4,Dropped Out
+677,HR,Illinois,3,3,Dropped Out
+678,Marketing,New York,3,3,Dropped Out
+679,Engineering,Alaska,3,2,Dropped Out
+680,Engineering,Illinois,9,3,Dropped Out
+681,Web Dev,California,3,10,Completed
+682,Design,Michigan,6,1,Dropped Out
+683,HR,New Jersey,3,3,Completed
+684,Web Dev,Hawaii,6,9,Dropped Out
+685,Design,Nebraska,9,4,Dropped Out
+686,Design,Michigan,6,3,Dropped Out
+687,Engineering,Texas,6,8,Completed
+688,Data Science,Michigan,9,1,Dropped Out
+689,Data Science,Hawaii,6,5,Completed
+690,Marketing,Alaska,3,1,Dropped Out
+691,Engineering,California,3,7,Completed
+692,Design,New Jersey,6,5,Completed
+693,HR,Texas,6,2,Completed
+694,Data Science,Texas,3,1,Completed
+695,Design,Washington,3,7,Completed
+696,Data Science,New York,9,1,Dropped Out
+697,Data Science,Alaska,3,3,Completed
+698,Data Science,Texas,3,6,Completed
+699,HR,New York,3,6,Completed
+700,Engineering,Texas,9,7,Completed
+701,HR,California,3,1,Dropped Out
+702,Web Dev,New York,6,7,Completed
+703,Design,Hawaii,3,2,Completed
+704,Engineering,Washington,6,6,Dropped Out
+705,Engineering,California,9,8,Dropped Out
+706,Engineering,Hawaii,3,5,Completed
+707,Engineering,New Jersey,6,10,Completed
+708,HR,Alaska,3,3,Dropped Out
+709,Engineering,Alaska,3,8,Completed
+710,Marketing,Nebraska,9,8,Completed
+711,Design,Nebraska,3,4,Completed
+712,Engineering,New York,6,8,Completed
+713,Design,Alaska,3,5,Dropped Out
+714,Marketing,New York,3,5,Completed
+715,Marketing,Nebraska,3,3,Completed
+716,Design,New Jersey,6,7,Completed
+717,Data Science,Texas,3,9,Completed
+718,Web Dev,Hawaii,6,9,Completed
+719,Data Science,Michigan,3,1,Dropped Out
+720,Data Science,New York,3,1,Completed
+721,HR,New Jersey,6,10,Completed
+722,Data Science,Hawaii,9,5,Completed
+723,Engineering,Alaska,3,1,Dropped Out
+724,HR,Texas,6,4,Dropped Out
+725,HR,Hawaii,3,1,Dropped Out
+726,Marketing,Washington,6,2,Completed
+727,Data Science,Nebraska,9,2,Completed
+728,Marketing,Hawaii,9,4,Dropped Out
+729,Design,Michigan,6,8,Dropped Out
+730,Web Dev,New Jersey,3,2,Dropped Out
+731,HR,Texas,9,9,Completed
+732,Design,California,6,9,Completed
+733,Design,Hawaii,3,2,Completed
+734,Engineering,Illinois,3,1,Dropped Out
+735,Web Dev,Michigan,9,10,Completed
+736,Design,Michigan,9,10,Dropped Out
+737,Design,Illinois,3,9,Completed
+738,Web Dev,Washington,6,2,Dropped Out
+739,Web Dev,California,9,8,Completed
+740,Design,Nebraska,3,3,Completed
+741,Web Dev,New Jersey,3,1,Dropped Out
+742,Design,Texas,6,1,Dropped Out
+743,Design,New Jersey,3,10,Completed
+744,Engineering,California,3,2,Dropped Out
+745,Data Science,New Jersey,6,7,Completed
+746,Design,Illinois,9,6,Dropped Out
+747,Marketing,Michigan,6,2,Dropped Out
+748,HR,New Jersey,6,4,Completed
+749,Data Science,New York,3,2,Completed
+750,Data Science,Hawaii,3,1,Dropped Out
+751,Data Science,California,6,3,Completed
+752,Engineering,Washington,3,4,Completed
+753,Design,New York,9,10,Completed
+754,Engineering,Illinois,3,5,Completed
+755,Design,Alaska,3,5,Dropped Out
+756,Engineering,Illinois,3,7,Completed
+757,Engineering,Washington,9,10,Completed
+758,HR,Washington,3,8,Completed
+759,Marketing,New York,3,9,Completed
+760,Engineering,Hawaii,3,7,Completed
+761,HR,California,9,5,Dropped Out
+762,Web Dev,Nebraska,3,9,Completed
+763,Marketing,Michigan,3,8,Completed
+764,Engineering,New York,3,10,Completed
+765,Data Science,Washington,6,9,Completed
+766,Web Dev,Alaska,3,10,Completed
+767,Web Dev,Texas,3,8,Dropped Out
+768,HR,Washington,3,6,Completed
+769,Web Dev,Hawaii,6,4,Completed
+770,Marketing,Hawaii,6,9,Completed
+771,Engineering,Washington,6,9,Dropped Out
+772,Engineering,Hawaii,9,10,Completed
+773,Data Science,New York,9,10,Completed
+774,HR,Washington,3,9,Completed
+775,Data Science,Washington,6,10,Completed
+776,Web Dev,California,6,3,Completed
+777,Data Science,Michigan,9,3,Completed
+778,Marketing,Alaska,3,6,Completed
+779,Engineering,Hawaii,6,6,Completed
+780,Web Dev,California,3,6,Dropped Out
+781,Data Science,Nebraska,9,5,Completed
+782,HR,Nebraska,3,5,Completed
+783,Marketing,New Jersey,3,2,Completed
+784,Marketing,New York,3,7,Completed
+785,Data Science,New York,3,4,Completed
+786,Engineering,Illinois,6,3,Dropped Out
+787,Data Science,Alaska,3,8,Completed
+788,Web Dev,Washington,3,4,Completed
+789,Data Science,Hawaii,9,4,Dropped Out
+790,Marketing,Alaska,3,8,Completed
+791,Data Science,New Jersey,6,1,Completed
+792,Engineering,Illinois,3,9,Dropped Out
+793,HR,California,3,7,Completed
+794,Design,Alaska,9,2,Dropped Out
+795,Data Science,California,6,6,Dropped Out
+796,Engineering,Nebraska,3,8,Completed
+797,Engineering,Hawaii,9,5,Completed
+798,HR,New Jersey,9,6,Completed
+799,Marketing,Washington,9,10,Completed
+800,Engineering,Hawaii,3,8,Completed
+801,Engineering,Michigan,3,6,Dropped Out
+802,Engineering,New York,6,9,Dropped Out
+803,Engineering,New Jersey,6,9,Dropped Out
+804,Web Dev,Alaska,3,9,Completed
+805,Web Dev,Hawaii,6,6,Dropped Out
+806,Marketing,Texas,3,9,Completed
+807,Data Science,New York,3,3,Completed
+808,Engineering,New York,3,5,Completed
+809,HR,Texas,6,2,Completed
+810,Data Science,Illinois,3,8,Completed
+811,HR,Illinois,9,4,Dropped Out
+812,Data Science,Texas,6,6,Completed
+813,Marketing,Michigan,6,6,Dropped Out
+814,Engineering,Nebraska,9,5,Dropped Out
+815,Engineering,Texas,6,1,Completed
+816,Design,Nebraska,9,7,Dropped Out
+817,HR,Hawaii,3,10,Completed
+818,Data Science,Michigan,3,8,Completed
+819,Data Science,New Jersey,3,1,Dropped Out
+820,Web Dev,Nebraska,3,10,Completed
+821,Design,New York,9,7,Dropped Out
+822,Web Dev,Hawaii,3,4,Completed
+823,Web Dev,New York,6,6,Dropped Out
+824,Web Dev,Michigan,6,9,Completed
+825,HR,Nebraska,6,5,Dropped Out
+826,HR,California,3,8,Completed
+827,Marketing,Michigan,6,5,Dropped Out
+828,Marketing,Michigan,3,2,Completed
+829,Web Dev,California,3,4,Completed
+830,Design,Hawaii,6,2,Completed
+831,Data Science,Nebraska,6,7,Completed
+832,HR,Nebraska,3,7,Completed
+833,Design,New York,9,3,Dropped Out
+834,Engineering,Michigan,3,7,Completed
+835,HR,Michigan,3,1,Completed
+836,HR,Washington,3,1,Completed
+837,Marketing,New Jersey,6,9,Completed
+838,Data Science,Michigan,6,6,Completed
+839,Data Science,Alaska,3,5,Completed
+840,Engineering,New Jersey,3,6,Completed
+841,Engineering,Alaska,6,6,Completed
+842,HR,Nebraska,3,1,Dropped Out
+843,Web Dev,New Jersey,3,5,Dropped Out
+844,Marketing,Michigan,6,9,Completed
+845,Marketing,California,3,4,Completed
+846,HR,New York,9,3,Dropped Out
+847,Design,Alaska,3,1,Completed
+848,Web Dev,New Jersey,6,2,Completed
+849,HR,Michigan,3,3,Dropped Out
+850,Web Dev,New Jersey,9,4,Completed
+851,Web Dev,Michigan,3,7,Dropped Out
+852,Web Dev,Michigan,6,6,Completed
+853,HR,Michigan,6,8,Dropped Out
+854,Marketing,Washington,3,9,Completed
+855,Marketing,New York,3,6,Completed
+856,Web Dev,California,6,7,Completed
+857,Design,California,9,4,Dropped Out
+858,Data Science,New Jersey,3,2,Dropped Out
+859,HR,New Jersey,3,9,Completed
+860,Data Science,Michigan,9,9,Completed
+861,Design,Washington,3,4,Completed
+862,HR,Michigan,9,3,Dropped Out
+863,Web Dev,Washington,6,10,Dropped Out
+864,Marketing,Michigan,6,6,Dropped Out
+865,Data Science,Alaska,3,3,Completed
+866,Engineering,Alaska,3,1,Completed
+867,Engineering,Nebraska,6,4,Completed
+868,Design,Michigan,9,1,Dropped Out
+869,Web Dev,New York,9,2,Dropped Out
+870,Data Science,Nebraska,3,3,Completed
+871,Web Dev,New Jersey,3,8,Completed
+872,Data Science,Hawaii,3,10,Completed
+873,Design,Michigan,9,4,Dropped Out
+874,Design,Alaska,3,4,Completed
+875,Engineering,Hawaii,3,10,Completed
+876,Web Dev,Washington,3,9,Completed
+877,HR,Hawaii,3,7,Completed
+878,Engineering,New York,9,2,Dropped Out
+879,Web Dev,Michigan,6,3,Dropped Out
+880,Engineering,California,3,4,Completed
+881,HR,Hawaii,3,4,Completed
+882,Marketing,California,3,10,Completed
+883,Marketing,Washington,3,8,Completed
+884,Marketing,Nebraska,3,10,Completed
+885,Marketing,California,6,10,Completed
+886,Data Science,Nebraska,3,6,Completed
+887,Marketing,Alaska,3,3,Completed
+888,HR,Michigan,3,9,Completed
+889,Design,Hawaii,6,10,Completed
+890,Design,Alaska,6,8,Completed
+891,Data Science,Alaska,6,9,Completed
+892,Marketing,Texas,6,5,Dropped Out
+893,Marketing,Illinois,6,3,Completed
+894,Marketing,New York,3,4,Completed
+895,Engineering,Nebraska,9,5,Dropped Out
+896,Web Dev,Texas,3,9,Completed
+897,Engineering,Illinois,3,9,Completed
+898,Web Dev,New York,6,3,Dropped Out
+899,Marketing,Nebraska,3,7,Completed
+900,Marketing,Michigan,9,6,Dropped Out
+901,Engineering,New York,3,4,Completed
+902,Engineering,Hawaii,9,5,Dropped Out
+903,Web Dev,Alaska,9,10,Dropped Out
+904,Design,Illinois,9,2,Dropped Out
+905,Web Dev,Illinois,9,7,Dropped Out
+906,Engineering,Illinois,9,4,Dropped Out
+907,HR,Nebraska,6,2,Dropped Out
+908,Engineering,Hawaii,3,6,Completed
+909,HR,New York,3,2,Completed
+910,Data Science,Alaska,6,10,Completed
+911,Engineering,Hawaii,9,2,Dropped Out
+912,Data Science,Texas,6,7,Completed
+913,Design,Michigan,9,1,Dropped Out
+914,Web Dev,California,9,7,Completed
+915,HR,Hawaii,3,10,Completed
+916,Web Dev,Texas,3,5,Completed
+917,Data Science,Alaska,3,1,Completed
+918,HR,California,3,6,Completed
+919,Web Dev,California,6,7,Completed
+920,Engineering,Hawaii,9,1,Completed
+921,Marketing,Illinois,6,9,Completed
+922,Data Science,New Jersey,3,7,Completed
+923,Web Dev,Alaska,3,1,Completed
+924,Data Science,Illinois,3,3,Completed
+925,Data Science,Alaska,6,5,Completed
+926,HR,New Jersey,3,4,Completed
+927,HR,Michigan,3,2,Dropped Out
+928,Marketing,New Jersey,3,1,Dropped Out
+929,Engineering,Washington,3,4,Completed
+930,Data Science,Hawaii,9,7,Completed
+931,Web Dev,Hawaii,3,4,Completed
+932,Design,Texas,3,9,Completed
+933,Data Science,Illinois,3,8,Completed
+934,Data Science,Texas,3,8,Completed
+935,Marketing,Washington,6,5,Dropped Out
+936,Engineering,New Jersey,6,1,Dropped Out
+937,Design,Hawaii,3,9,Completed
+938,HR,Nebraska,6,2,Completed
+939,HR,New Jersey,3,6,Completed
+940,Web Dev,New Jersey,6,10,Completed
+941,Design,Washington,3,5,Completed
+942,HR,Michigan,3,10,Completed
+943,Web Dev,Alaska,6,8,Completed
+944,Engineering,Washington,9,3,Completed
+945,Web Dev,Alaska,6,6,Dropped Out
+946,HR,Hawaii,3,6,Completed
+947,Marketing,Washington,3,10,Completed
+948,Marketing,Alaska,9,3,Dropped Out
+949,Marketing,Texas,3,7,Completed
+950,HR,Washington,3,4,Completed
+951,Marketing,Hawaii,3,5,Dropped Out
+952,Design,Washington,3,9,Completed
+953,Engineering,Hawaii,3,6,Completed
+954,Web Dev,Washington,3,10,Completed
+955,Web Dev,Alaska,3,4,Dropped Out
+956,HR,Michigan,9,8,Dropped Out
+957,Marketing,New York,3,9,Dropped Out
+958,Marketing,Alaska,3,10,Completed
+959,Data Science,Illinois,6,5,Dropped Out
+960,Engineering,California,6,2,Dropped Out
+961,Design,Michigan,3,6,Dropped Out
+962,Web Dev,Texas,9,8,Completed
+963,Data Science,New Jersey,3,5,Completed
+964,Data Science,Alaska,9,1,Completed
+965,HR,Washington,3,8,Completed
+966,Web Dev,Alaska,3,9,Completed
+967,HR,Nebraska,9,1,Dropped Out
+968,Design,Michigan,6,8,Dropped Out
+969,Data Science,New York,3,10,Completed
+970,Data Science,Texas,3,2,Completed
+971,Engineering,Nebraska,3,4,Completed
+972,Design,Hawaii,6,2,Dropped Out
+973,Data Science,Nebraska,3,2,Completed
+974,Design,Alaska,3,10,Completed
+975,Web Dev,Texas,3,3,Dropped Out
+976,Marketing,Alaska,6,8,Completed
+977,Data Science,Hawaii,9,4,Dropped Out
+978,Engineering,New Jersey,6,7,Completed
+979,Web Dev,Texas,3,10,Completed
+980,Design,New Jersey,9,3,Dropped Out
+981,HR,Michigan,6,10,Completed
+982,Web Dev,Michigan,9,3,Dropped Out
+983,Data Science,New Jersey,3,2,Completed
+984,Design,Michigan,3,6,Completed
+985,Marketing,Texas,6,6,Completed
+986,Web Dev,Washington,3,1,Dropped Out
+987,Data Science,Illinois,6,7,Completed
+988,Engineering,Michigan,9,4,Dropped Out
+989,HR,Michigan,9,3,Dropped Out
+990,Design,Alaska,9,8,Dropped Out
+991,Web Dev,New Jersey,6,2,Dropped Out
+992,Web Dev,California,3,9,Completed
+993,Marketing,New York,3,8,Dropped Out
+994,Marketing,Nebraska,3,8,Completed
+995,Engineering,Michigan,6,3,Completed
+996,HR,Nebraska,3,4,Completed
+997,Engineering,Texas,3,2,Dropped Out
+998,Data Science,California,6,2,Completed
+999,Data Science,New York,6,4,Completed
+1000,Engineering,New Jersey,9,6,Dropped Out
+1001,HR,Illinois,6,5,Dropped Out
+1002,Engineering,New York,6,1,Dropped Out
+1003,HR,New York,6,10,Completed
+1004,HR,Illinois,9,1,Dropped Out
+1005,Design,Washington,6,6,Completed
+1006,HR,New Jersey,9,3,Dropped Out
+1007,Marketing,Alaska,9,3,Dropped Out
+1008,HR,Nebraska,9,7,Dropped Out
+1009,HR,Michigan,3,1,Completed
+1010,HR,New York,3,1,Completed
+1011,Data Science,Texas,3,10,Completed
+1012,Marketing,Illinois,3,3,Completed
+1013,Marketing,Nebraska,3,8,Completed
+1014,Engineering,California,3,1,Dropped Out
+1015,Design,Illinois,3,10,Completed
+1016,HR,California,6,4,Dropped Out
+1017,Web Dev,New Jersey,6,9,Dropped Out
+1018,Design,New York,3,4,Completed
+1019,Design,Texas,6,10,Dropped Out
+1020,Marketing,Michigan,6,8,Completed
+1021,Design,California,6,7,Dropped Out
+1022,HR,Nebraska,9,3,Dropped Out
+1023,HR,Washington,3,7,Completed
+1024,Data Science,New Jersey,3,7,Completed
+1025,HR,Washington,3,10,Completed
+1026,HR,New Jersey,3,3,Dropped Out
+1027,Marketing,Alaska,6,2,Completed
+1028,HR,Nebraska,3,9,Completed
+1029,Data Science,Washington,3,1,Completed
+1030,Web Dev,Texas,3,7,Completed
+1031,Marketing,New York,3,4,Dropped Out
+1032,Web Dev,Illinois,6,2,Dropped Out
+1033,Marketing,Michigan,6,2,Completed
+1034,Engineering,New York,3,8,Completed
+1035,Design,New York,3,7,Dropped Out
+1036,Engineering,New Jersey,3,7,Completed
+1037,HR,Texas,3,5,Dropped Out
+1038,Web Dev,New Jersey,9,10,Completed
+1039,HR,Hawaii,3,8,Completed
+1040,Design,California,6,2,Dropped Out
+1041,Marketing,Michigan,9,2,Dropped Out
+1042,Design,California,3,5,Completed
+1043,Data Science,Illinois,3,1,Completed
+1044,Design,Hawaii,9,6,Dropped Out
+1045,Data Science,Nebraska,9,4,Dropped Out
+1046,Design,Illinois,3,6,Completed
+1047,Data Science,Illinois,6,7,Completed
+1048,Web Dev,Alaska,9,3,Completed
+1049,HR,Michigan,3,8,Completed
+1050,HR,New Jersey,9,7,Dropped Out
+1051,Engineering,Texas,3,1,Completed
+1052,HR,California,6,6,Dropped Out
+1053,Marketing,Illinois,9,7,Dropped Out
+1054,Design,California,9,4,Dropped Out
+1055,Engineering,California,3,2,Dropped Out
+1056,Marketing,Nebraska,3,10,Completed
+1057,Marketing,Michigan,6,9,Completed
+1058,Data Science,Michigan,6,7,Completed
+1059,HR,Washington,6,1,Completed
+1060,Web Dev,New York,9,8,Completed
+1061,Web Dev,Michigan,9,3,Dropped Out
+1062,Engineering,California,3,4,Completed
+1063,Web Dev,New Jersey,3,5,Completed
+1064,Design,California,3,1,Dropped Out
+1065,Web Dev,New Jersey,6,6,Completed
+1066,Engineering,Washington,6,10,Completed
+1067,Web Dev,New Jersey,6,6,Completed
+1068,Design,Michigan,3,2,Dropped Out
+1069,Data Science,Nebraska,3,10,Completed
+1070,Engineering,New Jersey,3,6,Completed
+1071,Data Science,California,6,8,Completed
+1072,Data Science,Texas,3,6,Completed
+1073,Data Science,Michigan,3,4,Completed
+1074,Marketing,Texas,3,4,Completed
+1075,HR,Hawaii,6,9,Completed
+1076,Marketing,Hawaii,3,6,Completed
+1077,HR,California,9,8,Dropped Out
+1078,Data Science,Hawaii,6,8,Completed
+1079,Engineering,New York,6,7,Completed
+1080,HR,Washington,6,3,Dropped Out
+1081,Design,Michigan,3,10,Completed
+1082,Design,Texas,3,1,Dropped Out
+1083,Web Dev,California,9,5,Dropped Out
+1084,HR,New York,6,10,Dropped Out
+1085,Engineering,California,9,10,Dropped Out
+1086,Marketing,New York,6,2,Dropped Out
+1087,Data Science,Hawaii,3,10,Completed
+1088,Web Dev,Hawaii,3,2,Completed
+1089,Design,New Jersey,6,7,Dropped Out
+1090,Marketing,Alaska,3,3,Completed
+1091,Marketing,California,3,8,Completed
+1092,Data Science,New Jersey,9,9,Completed
+1093,HR,Michigan,3,8,Completed
+1094,Design,New Jersey,3,6,Completed
+1095,Engineering,Illinois,9,5,Completed
+1096,Marketing,Hawaii,9,3,Completed
+1097,Data Science,Illinois,3,3,Completed
+1098,Engineering,California,9,7,Completed
+1099,HR,Texas,9,5,Dropped Out
+1100,Design,Texas,3,6,Dropped Out
+1101,HR,Michigan,3,6,Completed
+1102,Marketing,New Jersey,3,9,Completed
+1103,Engineering,Texas,6,1,Dropped Out
+1104,Engineering,New York,3,8,Completed
+1105,Engineering,New York,9,10,Completed
+1106,Marketing,Michigan,6,5,Completed
+1107,Marketing,Washington,6,6,Completed
+1108,HR,Hawaii,9,6,Completed
+1109,Web Dev,New Jersey,9,1,Dropped Out
+1110,HR,California,3,3,Completed
+1111,Design,Nebraska,3,6,Dropped Out
+1112,Data Science,Nebraska,6,9,Completed
+1113,Engineering,Nebraska,3,6,Dropped Out
+1114,Web Dev,Texas,3,6,Completed
+1115,Data Science,Washington,6,1,Dropped Out
+1116,Web Dev,Washington,9,9,Completed
+1117,HR,New Jersey,3,4,Dropped Out
+1118,Marketing,New Jersey,6,2,Completed
+1119,Engineering,Washington,3,1,Dropped Out
+1120,HR,Michigan,6,3,Completed
+1121,Data Science,New Jersey,3,3,Completed
+1122,Data Science,Michigan,9,5,Completed
+1123,Data Science,Illinois,3,1,Completed
+1124,Data Science,New York,6,7,Completed
+1125,Data Science,Hawaii,3,1,Completed
+1126,Web Dev,New Jersey,3,4,Completed
+1127,HR,Washington,3,6,Completed
+1128,Engineering,New York,3,1,Dropped Out
+1129,Marketing,New York,3,7,Dropped Out
+1130,Marketing,Alaska,3,10,Completed
+1131,HR,Washington,6,7,Dropped Out
+1132,HR,Hawaii,6,3,Dropped Out
+1133,Marketing,Washington,3,4,Completed
+1134,Marketing,New Jersey,6,6,Completed
+1135,Web Dev,California,3,7,Completed
+1136,Design,Illinois,6,4,Dropped Out
+1137,Engineering,Michigan,3,10,Completed
+1138,Data Science,California,6,9,Completed
+1139,Design,Illinois,3,9,Completed
+1140,HR,California,9,9,Completed
+1141,Marketing,Michigan,3,10,Completed
+1142,Design,Texas,3,6,Dropped Out
+1143,Engineering,Washington,3,2,Completed
+1144,HR,California,9,2,Dropped Out
+1145,Data Science,New Jersey,6,4,Completed
+1146,Data Science,Hawaii,6,9,Completed
+1147,Engineering,Nebraska,9,3,Dropped Out
+1148,Engineering,New Jersey,9,6,Dropped Out
+1149,Marketing,Michigan,6,2,Completed
+1150,Data Science,Hawaii,3,1,Completed
+1151,HR,New Jersey,9,5,Dropped Out
+1152,Design,New York,3,8,Dropped Out
+1153,HR,Washington,6,10,Completed
+1154,Web Dev,Hawaii,6,10,Completed
+1155,Web Dev,New York,6,2,Completed
+1156,Engineering,New Jersey,6,10,Completed
+1157,Marketing,Illinois,6,9,Completed
+1158,Web Dev,Alaska,9,8,Dropped Out
+1159,Data Science,Illinois,3,3,Completed
+1160,HR,Washington,3,1,Completed
+1161,HR,Hawaii,6,4,Dropped Out
+1162,Engineering,Hawaii,9,8,Dropped Out
+1163,Design,Washington,3,3,Completed
+1164,Engineering,New York,3,10,Completed
+1165,Design,Alaska,3,2,Dropped Out
+1166,Engineering,New Jersey,3,7,Completed
+1167,Engineering,Michigan,9,4,Dropped Out
+1168,Engineering,Illinois,6,6,Completed
+1169,Design,Illinois,6,5,Dropped Out
+1170,Design,Nebraska,6,2,Dropped Out
+1171,Engineering,Alaska,6,10,Completed
+1172,Web Dev,Michigan,3,2,Completed
+1173,Marketing,Illinois,3,9,Completed
+1174,Marketing,Michigan,3,10,Completed
+1175,Marketing,New Jersey,3,2,Dropped Out
+1176,Design,Hawaii,3,8,Completed
+1177,Design,Michigan,3,8,Completed
+1178,Web Dev,Illinois,3,1,Completed
+1179,Marketing,New York,3,1,Completed
+1180,Marketing,Alaska,6,4,Dropped Out
+1181,Engineering,Washington,3,2,Completed
+1182,Design,California,9,1,Dropped Out
+1183,Marketing,Texas,3,9,Completed
+1184,HR,Texas,6,3,Dropped Out
+1185,Web Dev,California,9,1,Dropped Out
+1186,HR,Michigan,9,2,Dropped Out
+1187,HR,Alaska,9,8,Completed
+1188,Web Dev,Michigan,3,5,Completed
+1189,HR,Washington,3,7,Completed
+1190,Marketing,Alaska,3,6,Completed
+1191,Design,California,3,1,Completed
+1192,Web Dev,Michigan,3,6,Completed
+1193,Engineering,Nebraska,9,7,Dropped Out
+1194,HR,Illinois,6,4,Completed
+1195,Web Dev,New York,6,8,Dropped Out
+1196,Data Science,Hawaii,9,8,Completed
+1197,Data Science,New York,6,7,Dropped Out
+1198,Design,Washington,6,2,Dropped Out
+1199,Marketing,Michigan,6,6,Completed
+1200,Design,New Jersey,3,6,Completed
+1201,Design,Alaska,3,7,Dropped Out
+1202,Design,Michigan,9,6,Dropped Out
+1203,Design,Alaska,9,2,Dropped Out
+1204,Engineering,Hawaii,9,8,Completed
+1205,Engineering,Nebraska,3,4,Completed
+1206,Web Dev,New York,9,9,Dropped Out
+1207,Data Science,Illinois,3,8,Completed
+1208,Design,Hawaii,3,3,Dropped Out
+1209,Web Dev,Hawaii,3,3,Dropped Out
+1210,Data Science,New York,3,8,Completed
+1211,HR,Hawaii,3,2,Dropped Out
+1212,Marketing,New Jersey,3,9,Completed
+1213,Engineering,New Jersey,3,4,Dropped Out
+1214,HR,Texas,3,6,Completed
+1215,Data Science,Texas,6,3,Completed
+1216,HR,New Jersey,6,3,Dropped Out
+1217,Marketing,California,3,3,Completed
+1218,Data Science,Nebraska,3,10,Completed
+1219,HR,Alaska,6,2,Completed
+1220,Engineering,Nebraska,6,8,Completed
+1221,Engineering,Washington,3,9,Completed
+1222,Web Dev,Hawaii,6,8,Completed
+1223,HR,Illinois,9,10,Completed
+1224,Design,Hawaii,3,3,Dropped Out
+1225,HR,Nebraska,3,7,Completed
+1226,Data Science,New Jersey,3,10,Completed
+1227,Data Science,New York,6,2,Completed
+1228,HR,Washington,3,4,Dropped Out
+1229,Marketing,New Jersey,3,6,Dropped Out
+1230,Engineering,Nebraska,3,5,Dropped Out
+1231,Data Science,New York,9,9,Dropped Out
+1232,Engineering,Illinois,6,10,Completed
+1233,Data Science,Nebraska,6,4,Completed
+1234,Web Dev,Alaska,9,5,Dropped Out
+1235,Design,Michigan,3,4,Dropped Out
+1236,Data Science,New York,9,8,Completed
+1237,Engineering,Nebraska,6,8,Completed
+1238,Web Dev,New Jersey,3,3,Completed
+1239,Data Science,Alaska,9,1,Dropped Out
+1240,Marketing,California,9,6,Dropped Out
+1241,Design,New York,9,2,Dropped Out
+1242,Data Science,Alaska,3,2,Completed
+1243,Web Dev,New Jersey,9,3,Dropped Out
+1244,Marketing,Nebraska,9,8,Completed
+1245,HR,Hawaii,3,3,Completed
+1246,Web Dev,Illinois,3,7,Completed
+1247,Web Dev,Hawaii,3,10,Completed
+1248,Marketing,Michigan,9,10,Completed
+1249,Web Dev,Alaska,6,9,Completed
+1250,Marketing,Michigan,3,8,Completed
+1251,Data Science,Illinois,3,1,Completed
+1252,Marketing,Alaska,3,7,Completed
+1253,Marketing,Texas,6,7,Dropped Out
+1254,Design,New Jersey,3,8,Completed
+1255,Marketing,Alaska,9,10,Dropped Out
+1256,Marketing,New Jersey,6,5,Dropped Out
+1257,HR,Hawaii,6,10,Dropped Out
+1258,Data Science,Washington,3,9,Completed
+1259,Design,New York,3,9,Dropped Out
+1260,HR,Washington,3,8,Completed
+1261,Engineering,Nebraska,3,6,Completed
+1262,Data Science,New York,3,6,Completed
+1263,Data Science,New York,9,1,Dropped Out
+1264,Engineering,California,3,6,Completed
+1265,Marketing,New York,3,4,Dropped Out
+1266,HR,Illinois,3,4,Dropped Out
+1267,Web Dev,Washington,3,2,Completed
+1268,Design,Hawaii,9,4,Dropped Out
+1269,Web Dev,New Jersey,3,5,Completed
+1270,Engineering,Nebraska,3,5,Completed
+1271,Data Science,New York,6,5,Completed
+1272,Data Science,Nebraska,3,4,Completed
+1273,Design,Hawaii,3,1,Dropped Out
+1274,Data Science,Nebraska,3,10,Completed
+1275,Data Science,Hawaii,3,8,Completed
+1276,Design,New York,3,3,Completed
+1277,HR,Hawaii,3,2,Completed
+1278,HR,New York,9,9,Completed
+1279,Design,California,3,7,Dropped Out
+1280,Engineering,California,6,9,Completed
+1281,Data Science,Hawaii,6,2,Completed
+1282,Data Science,California,6,9,Completed
+1283,Engineering,New Jersey,3,10,Completed
+1284,HR,New Jersey,3,9,Completed
+1285,Marketing,California,6,9,Completed
+1286,Marketing,California,6,10,Dropped Out
+1287,Marketing,Texas,6,10,Completed
+1288,HR,Texas,3,4,Completed
+1289,HR,New York,9,10,Dropped Out
+1290,Engineering,Hawaii,3,3,Dropped Out
+1291,Data Science,Michigan,3,6,Completed
+1292,Engineering,Michigan,3,3,Completed
+1293,Engineering,California,3,9,Completed
+1294,HR,Nebraska,3,3,Dropped Out
+1295,Marketing,California,6,2,Completed
+1296,Web Dev,Texas,9,8,Dropped Out
+1297,Data Science,New York,9,6,Dropped Out
+1298,HR,California,3,8,Dropped Out
+1299,Marketing,Washington,6,7,Dropped Out
+1300,Web Dev,Nebraska,3,3,Completed
+1301,Web Dev,Washington,3,8,Completed
+1302,HR,New York,3,10,Completed
+1303,Design,New York,3,1,Completed
+1304,Data Science,New Jersey,3,1,Completed
+1305,Web Dev,Alaska,3,10,Completed
+1306,HR,Washington,6,8,Dropped Out
+1307,HR,New Jersey,9,9,Dropped Out
+1308,Marketing,Texas,3,10,Completed
+1309,Design,Illinois,9,6,Dropped Out
+1310,Data Science,Nebraska,6,5,Dropped Out
+1311,Engineering,Illinois,6,2,Dropped Out
+1312,Marketing,Hawaii,6,9,Dropped Out
+1313,Web Dev,Texas,3,6,Completed
+1314,Web Dev,Texas,9,8,Dropped Out
+1315,Marketing,Illinois,6,9,Completed
+1316,HR,Washington,9,9,Dropped Out
+1317,Web Dev,Alaska,6,8,Dropped Out
+1318,Design,Washington,9,10,Dropped Out
+1319,Data Science,Illinois,6,8,Completed
+1320,Design,Hawaii,3,3,Dropped Out
+1321,Web Dev,Washington,3,3,Completed
+1322,Engineering,Michigan,3,2,Dropped Out
+1323,Data Science,Washington,3,1,Dropped Out
+1324,Data Science,New York,3,4,Completed
+1325,Marketing,New Jersey,9,2,Dropped Out
+1326,Marketing,Nebraska,6,2,Dropped Out
+1327,Engineering,Washington,9,5,Dropped Out
+1328,HR,Alaska,9,4,Dropped Out
+1329,Data Science,Alaska,6,1,Completed
+1330,Engineering,Washington,9,9,Dropped Out
+1331,Marketing,California,6,4,Completed
+1332,Marketing,Texas,9,5,Dropped Out
+1333,Data Science,Washington,3,7,Completed
+1334,Design,Texas,3,2,Dropped Out
+1335,Web Dev,Michigan,3,8,Completed
+1336,Marketing,Illinois,6,2,Dropped Out
+1337,HR,Michigan,6,10,Completed
+1338,HR,Washington,3,5,Completed
+1339,Marketing,Alaska,3,2,Completed
+1340,Design,California,9,2,Dropped Out
+1341,Design,Hawaii,6,4,Dropped Out
+1342,Engineering,Texas,3,4,Completed
+1343,HR,New Jersey,6,8,Completed
+1344,Engineering,Texas,6,6,Dropped Out
+1345,HR,New York,9,10,Completed
+1346,Web Dev,Nebraska,3,8,Completed
+1347,Web Dev,Washington,3,7,Completed
+1348,Data Science,Michigan,3,10,Completed
+1349,Engineering,New Jersey,3,4,Completed
+1350,Marketing,Alaska,9,2,Dropped Out
+1351,Engineering,Alaska,3,9,Dropped Out
+1352,Marketing,Alaska,9,2,Dropped Out
+1353,Design,Hawaii,3,1,Dropped Out
+1354,Engineering,New York,9,8,Dropped Out
+1355,Design,Alaska,3,10,Dropped Out
+1356,Web Dev,Alaska,9,9,Dropped Out
+1357,Web Dev,Washington,9,1,Dropped Out
+1358,Data Science,New York,9,7,Completed
+1359,Engineering,California,3,2,Completed
+1360,Design,California,3,6,Dropped Out
+1361,Marketing,New York,6,5,Completed
+1362,Web Dev,Nebraska,3,1,Dropped Out
+1363,Web Dev,Hawaii,3,2,Completed
+1364,Marketing,New Jersey,3,2,Completed
+1365,Design,Texas,6,10,Completed
+1366,Design,Washington,6,10,Completed
+1367,Engineering,Illinois,3,6,Dropped Out
+1368,Engineering,California,3,1,Completed
+1369,HR,New York,3,4,Completed
+1370,HR,New Jersey,6,10,Completed
+1371,Data Science,New York,3,5,Completed
+1372,Web Dev,Texas,3,2,Completed
+1373,Engineering,New Jersey,9,2,Completed
+1374,Design,California,9,7,Completed
+1375,Marketing,Alaska,9,7,Dropped Out
+1376,Design,New York,9,6,Completed
+1377,Web Dev,Illinois,3,1,Completed
+1378,HR,California,6,3,Dropped Out
+1379,Design,Michigan,3,9,Completed
+1380,Data Science,Illinois,6,10,Completed
+1381,Web Dev,Nebraska,3,1,Completed
+1382,HR,Hawaii,6,2,Completed
+1383,Marketing,California,6,8,Completed
+1384,HR,Alaska,3,7,Dropped Out
+1385,Data Science,California,6,9,Completed
+1386,Web Dev,Texas,3,10,Completed
+1387,Marketing,New Jersey,3,4,Completed
+1388,Data Science,New York,3,4,Completed
+1389,HR,New Jersey,3,7,Dropped Out
+1390,Data Science,New Jersey,3,1,Completed
+1391,Web Dev,California,9,10,Dropped Out
+1392,Engineering,Texas,3,9,Completed
+1393,Data Science,New York,3,2,Dropped Out
+1394,Data Science,New York,3,1,Completed
+1395,HR,New Jersey,6,7,Dropped Out
+1396,HR,Nebraska,6,6,Completed
+1397,Marketing,Hawaii,6,3,Dropped Out
+1398,HR,Texas,6,1,Dropped Out
+1399,Design,Nebraska,9,5,Dropped Out
+1400,Web Dev,Washington,9,10,Dropped Out
+1401,Web Dev,Washington,6,4,Dropped Out
+1402,Engineering,Illinois,3,5,Dropped Out
+1403,Engineering,New Jersey,6,1,Dropped Out
+1404,Web Dev,New York,6,1,Dropped Out
+1405,Engineering,California,6,5,Dropped Out
+1406,Marketing,New York,9,6,Completed
+1407,HR,New York,6,5,Completed
+1408,Web Dev,Alaska,9,2,Dropped Out
+1409,Engineering,New York,3,9,Completed
+1410,Web Dev,Illinois,3,5,Completed
+1411,Design,Nebraska,3,5,Completed
+1412,Data Science,Washington,9,10,Dropped Out
+1413,HR,New York,9,9,Dropped Out
+1414,Web Dev,New York,6,3,Dropped Out
+1415,Data Science,Alaska,6,5,Completed
+1416,Engineering,Texas,6,5,Dropped Out
+1417,Data Science,California,9,2,Completed
+1418,HR,Texas,9,4,Completed
+1419,Web Dev,California,6,2,Completed
+1420,Design,Hawaii,6,5,Completed
+1421,Engineering,New York,3,10,Completed
+1422,Web Dev,Alaska,6,2,Dropped Out
+1423,HR,Michigan,3,10,Completed
+1424,Engineering,New Jersey,3,9,Dropped Out
+1425,Marketing,Washington,9,10,Dropped Out
+1426,Data Science,Nebraska,6,6,Completed
+1427,HR,Washington,9,8,Dropped Out
+1428,Marketing,Nebraska,3,9,Completed
+1429,Web Dev,Hawaii,3,8,Completed
+1430,Design,Texas,3,5,Completed
+1431,Engineering,Illinois,3,5,Completed
+1432,Data Science,New York,3,6,Completed
+1433,Engineering,Michigan,3,1,Completed
+1434,Web Dev,Nebraska,3,8,Completed
+1435,Engineering,New Jersey,3,2,Dropped Out
+1436,Data Science,Nebraska,3,6,Completed
+1437,Web Dev,Illinois,6,9,Completed
+1438,Engineering,Washington,3,3,Completed
+1439,Design,Alaska,6,2,Dropped Out
+1440,HR,Washington,6,10,Completed
+1441,Web Dev,Hawaii,3,5,Dropped Out
+1442,HR,Alaska,9,9,Completed
+1443,Web Dev,Washington,6,6,Completed
+1444,Design,New Jersey,6,8,Completed
+1445,HR,Washington,3,8,Completed
+1446,Marketing,New Jersey,6,7,Dropped Out
+1447,Data Science,New Jersey,9,5,Completed
+1448,Marketing,Alaska,3,2,Completed
+1449,Engineering,Texas,3,10,Completed
+1450,Design,California,3,10,Dropped Out
+1451,Marketing,New York,6,5,Completed
+1452,Web Dev,Nebraska,3,7,Completed
+1453,Engineering,California,6,7,Completed
+1454,Engineering,Illinois,3,2,Dropped Out
+1455,Marketing,Texas,9,7,Dropped Out
+1456,Marketing,California,3,6,Completed
+1457,Design,Alaska,3,7,Completed
+1458,Data Science,Illinois,6,8,Completed
+1459,Marketing,Michigan,3,4,Completed
+1460,Marketing,Texas,3,1,Completed
+1461,HR,California,3,8,Completed
+1462,Web Dev,Illinois,6,8,Completed
+1463,HR,Michigan,9,3,Dropped Out
+1464,HR,Washington,9,3,Dropped Out
+1465,Engineering,Illinois,3,5,Dropped Out
+1466,Data Science,Alaska,3,3,Completed
+1467,Web Dev,Washington,6,5,Dropped Out
+1468,Design,Alaska,6,8,Dropped Out
+1469,Design,California,3,1,Dropped Out
+1470,Marketing,New York,3,2,Dropped Out
+1471,Marketing,California,3,2,Completed
+1472,Design,Washington,6,4,Completed
+1473,Marketing,New Jersey,3,9,Dropped Out
+1474,Data Science,California,9,2,Dropped Out
+1475,HR,Washington,3,9,Completed
+1476,Marketing,Illinois,3,7,Completed
+1477,Engineering,Hawaii,3,10,Completed
+1478,Marketing,California,3,8,Completed
+1479,Web Dev,Illinois,3,1,Dropped Out
+1480,Data Science,Alaska,3,5,Completed
+1481,Web Dev,Texas,3,9,Completed
+1482,Web Dev,New York,3,4,Completed
+1483,Engineering,Alaska,3,2,Completed
+1484,Data Science,Alaska,9,6,Completed
+1485,Data Science,Washington,6,2,Completed
+1486,Data Science,New Jersey,6,3,Completed
+1487,Data Science,Nebraska,3,8,Completed
+1488,Data Science,Hawaii,3,3,Completed
+1489,Engineering,New Jersey,3,2,Dropped Out
+1490,Marketing,Washington,6,6,Dropped Out
+1491,Web Dev,New York,3,3,Dropped Out
+1492,Data Science,Hawaii,3,1,Completed
+1493,Marketing,Hawaii,6,3,Dropped Out
+1494,Marketing,Washington,3,6,Completed
+1495,Web Dev,Michigan,3,3,Dropped Out
+1496,Engineering,Alaska,3,9,Completed
+1497,Design,Texas,6,7,Dropped Out
+1498,Design,Michigan,6,5,Completed
+1499,Marketing,Washington,3,2,Completed
+1500,HR,Michigan,3,9,Completed
+1501,HR,Texas,6,5,Dropped Out
+1502,Web Dev,Washington,3,7,Completed
+1503,Design,Washington,6,9,Dropped Out
+1504,Marketing,Hawaii,6,4,Dropped Out
+1505,Engineering,Michigan,3,9,Completed
+1506,Design,Illinois,3,1,Dropped Out
+1507,Marketing,California,6,6,Completed
+1508,Marketing,Washington,3,2,Dropped Out
+1509,Data Science,Michigan,3,8,Completed
+1510,Engineering,Nebraska,6,5,Completed
+1511,Data Science,New York,3,3,Dropped Out
+1512,Web Dev,Nebraska,3,2,Dropped Out
+1513,Data Science,Michigan,3,8,Completed
+1514,Data Science,Alaska,6,7,Completed
+1515,Design,Alaska,3,9,Dropped Out
+1516,HR,Michigan,9,8,Completed
+1517,Marketing,Hawaii,6,4,Completed
+1518,Engineering,Hawaii,3,2,Completed
+1519,Data Science,Washington,3,2,Dropped Out
+1520,Engineering,Texas,3,2,Completed
+1521,HR,California,6,6,Dropped Out
+1522,HR,Washington,9,7,Completed
+1523,Data Science,Nebraska,6,6,Completed
+1524,Web Dev,California,3,2,Completed
+1525,Data Science,Nebraska,6,4,Completed
+1526,Design,Hawaii,3,3,Dropped Out
+1527,Marketing,Michigan,6,4,Completed
+1528,Web Dev,Texas,6,5,Dropped Out
+1529,Data Science,Nebraska,3,7,Completed
+1530,Engineering,Hawaii,3,9,Completed
+1531,Web Dev,Texas,6,2,Completed
+1532,Web Dev,Washington,6,8,Completed
+1533,Data Science,Michigan,3,3,Completed
+1534,Web Dev,New York,3,9,Completed
+1535,Engineering,Alaska,6,10,Completed
+1536,HR,New Jersey,3,4,Completed
+1537,Web Dev,Texas,3,3,Dropped Out
+1538,HR,New York,3,10,Completed
+1539,Engineering,New York,3,6,Dropped Out
+1540,Data Science,Texas,6,10,Completed
+1541,Marketing,New York,9,9,Dropped Out
+1542,Web Dev,Nebraska,6,7,Completed
+1543,Marketing,New York,3,4,Completed
+1544,Engineering,Hawaii,6,3,Completed
+1545,Web Dev,California,3,10,Completed
+1546,HR,Nebraska,3,4,Dropped Out
+1547,Design,New York,9,3,Dropped Out
+1548,Marketing,Washington,3,3,Completed
+1549,Web Dev,Alaska,9,9,Dropped Out
+1550,Marketing,Michigan,3,4,Dropped Out
+1551,Web Dev,New York,6,9,Completed
+1552,Data Science,Illinois,3,10,Completed
+1553,HR,Alaska,3,5,Dropped Out
+1554,Marketing,Washington,3,7,Completed
+1555,Design,Hawaii,9,5,Dropped Out
+1556,Design,New York,6,1,Dropped Out
+1557,Engineering,Hawaii,9,2,Dropped Out
+1558,Web Dev,New York,6,5,Completed
+1559,Marketing,New Jersey,9,6,Dropped Out
+1560,Engineering,California,3,7,Completed
+1561,Marketing,Hawaii,3,2,Completed
+1562,Web Dev,California,6,10,Dropped Out
+1563,Design,Alaska,6,9,Completed
+1564,Data Science,New Jersey,6,6,Completed
+1565,Design,Michigan,3,2,Dropped Out
+1566,Engineering,Nebraska,3,2,Completed
+1567,HR,California,9,3,Dropped Out
+1568,Data Science,New Jersey,6,1,Completed
+1569,Engineering,California,3,9,Completed
+1570,Web Dev,Texas,6,10,Completed
+1571,Data Science,Washington,9,4,Dropped Out
+1572,Engineering,Michigan,3,5,Dropped Out
+1573,Web Dev,Washington,9,7,Completed
+1574,Design,New York,9,1,Dropped Out
+1575,HR,California,9,3,Dropped Out
+1576,Web Dev,New York,9,3,Dropped Out
+1577,Marketing,Illinois,6,2,Dropped Out
+1578,Web Dev,California,3,8,Completed
+1579,Web Dev,New Jersey,3,5,Completed
+1580,HR,Michigan,3,1,Dropped Out
+1581,Marketing,New York,3,2,Dropped Out
+1582,Engineering,California,3,1,Dropped Out
+1583,Engineering,Illinois,3,6,Completed
+1584,Web Dev,Washington,3,9,Completed
+1585,Marketing,New Jersey,3,7,Completed
+1586,Marketing,Texas,9,5,Dropped Out
+1587,HR,California,3,3,Completed
+1588,Design,Texas,6,8,Dropped Out
+1589,Engineering,Alaska,6,10,Completed
+1590,HR,Michigan,3,4,Dropped Out
+1591,Data Science,California,9,9,Dropped Out
+1592,Engineering,Hawaii,6,5,Completed
+1593,HR,Illinois,3,6,Completed
+1594,Engineering,New York,3,5,Dropped Out
+1595,Design,Hawaii,3,10,Completed
+1596,Data Science,Alaska,3,7,Completed
+1597,Design,Michigan,3,7,Completed
+1598,Data Science,Washington,6,1,Dropped Out
+1599,Web Dev,New Jersey,9,2,Dropped Out
+1600,HR,Texas,6,7,Completed
+1601,Data Science,Alaska,3,8,Completed
+1602,Design,New York,3,4,Completed
+1603,Engineering,New Jersey,3,6,Completed
+1604,Data Science,Washington,3,10,Completed
+1605,HR,New York,3,3,Completed
+1606,Data Science,Illinois,9,7,Completed
+1607,Marketing,Texas,3,3,Completed
+1608,Engineering,Hawaii,9,7,Dropped Out
+1609,HR,California,3,8,Completed
+1610,HR,Alaska,9,3,Dropped Out
+1611,Web Dev,California,6,2,Dropped Out
+1612,Design,New Jersey,6,6,Completed
+1613,Web Dev,California,3,4,Completed
+1614,HR,Hawaii,9,8,Completed
+1615,Engineering,Nebraska,9,2,Dropped Out
+1616,Data Science,New Jersey,6,4,Dropped Out
+1617,Data Science,Texas,6,2,Completed
+1618,Engineering,New York,6,2,Completed
+1619,HR,Texas,3,2,Dropped Out
+1620,Data Science,California,6,1,Completed
+1621,Data Science,Michigan,9,4,Completed
+1622,Data Science,New Jersey,3,2,Dropped Out
+1623,Design,New York,3,9,Completed
+1624,Design,Washington,3,9,Dropped Out
+1625,Marketing,Illinois,6,7,Completed
+1626,Web Dev,Texas,3,6,Completed
+1627,Engineering,Texas,3,3,Dropped Out
+1628,Engineering,New Jersey,3,7,Completed
+1629,Engineering,Michigan,6,1,Dropped Out
+1630,Marketing,California,3,9,Completed
+1631,Design,California,6,4,Dropped Out
+1632,HR,New Jersey,3,6,Completed
+1633,HR,Texas,6,6,Completed
+1634,Marketing,New York,9,3,Dropped Out
+1635,HR,Illinois,3,4,Dropped Out
+1636,Engineering,New Jersey,3,10,Dropped Out
+1637,Web Dev,New York,9,3,Completed
+1638,Data Science,New York,3,6,Completed
+1639,Design,Washington,3,1,Dropped Out
+1640,Design,Hawaii,9,8,Dropped Out
+1641,Marketing,Nebraska,9,8,Completed
+1642,Design,Illinois,6,9,Completed
+1643,Engineering,Alaska,3,6,Completed
+1644,HR,Michigan,3,1,Dropped Out
+1645,Engineering,Nebraska,3,3,Completed
+1646,Marketing,Washington,6,1,Dropped Out
+1647,Engineering,Illinois,6,5,Dropped Out
+1648,HR,California,9,3,Completed
+1649,Web Dev,Nebraska,3,2,Completed
+1650,Marketing,California,6,3,Dropped Out
+1651,Web Dev,Michigan,3,9,Completed
+1652,Data Science,California,3,8,Completed
+1653,Web Dev,Michigan,6,3,Completed
+1654,Data Science,Illinois,3,2,Completed
+1655,Data Science,Texas,6,5,Completed
+1656,Web Dev,Michigan,6,1,Completed
+1657,Marketing,New York,9,4,Dropped Out
+1658,HR,Alaska,6,8,Completed
+1659,Engineering,Alaska,9,1,Dropped Out
+1660,Engineering,New Jersey,6,5,Completed
+1661,HR,Alaska,3,4,Completed
+1662,Data Science,New Jersey,3,6,Completed
+1663,Data Science,Alaska,6,7,Completed
+1664,Marketing,Michigan,6,9,Completed
+1665,Design,New York,6,1,Dropped Out
+1666,Web Dev,Texas,3,10,Completed
+1667,Data Science,California,3,4,Completed
+1668,Engineering,Washington,3,6,Completed
+1669,Marketing,Alaska,6,10,Completed
+1670,Web Dev,Texas,6,7,Completed
+1671,Marketing,Texas,6,7,Completed
+1672,Web Dev,Michigan,3,8,Completed
+1673,Web Dev,Illinois,3,10,Completed
+1674,HR,Illinois,6,8,Dropped Out
+1675,Data Science,Alaska,6,8,Completed
+1676,Marketing,Washington,3,8,Dropped Out
+1677,Marketing,Alaska,6,8,Completed
+1678,HR,Alaska,3,6,Dropped Out
+1679,Engineering,New Jersey,6,9,Completed
+1680,Engineering,New York,9,3,Dropped Out
+1681,Data Science,New York,6,6,Completed
+1682,Data Science,Washington,6,5,Completed
+1683,Design,New Jersey,3,8,Dropped Out
+1684,HR,Texas,6,4,Completed
+1685,Engineering,New Jersey,6,4,Dropped Out
+1686,Web Dev,Alaska,6,10,Completed
+1687,Marketing,Illinois,6,10,Completed
+1688,Data Science,Nebraska,3,5,Completed
+1689,Marketing,Washington,9,6,Completed
+1690,Marketing,Texas,6,4,Completed
+1691,Design,Michigan,3,2,Completed
+1692,Engineering,Nebraska,6,2,Dropped Out
+1693,Data Science,Nebraska,3,3,Completed
+1694,Marketing,New Jersey,3,2,Completed
+1695,Data Science,California,3,1,Completed
+1696,Web Dev,Nebraska,6,8,Dropped Out
+1697,Design,Alaska,9,5,Dropped Out
+1698,Web Dev,Hawaii,6,10,Completed
+1699,Data Science,Illinois,6,1,Completed
+1700,Data Science,Illinois,3,9,Completed
+1701,Engineering,Hawaii,3,8,Completed
+1702,Marketing,New York,3,4,Completed
+1703,Marketing,Alaska,6,8,Completed
+1704,Web Dev,Michigan,9,10,Completed
+1705,Design,Nebraska,3,7,Dropped Out
+1706,HR,New York,6,7,Dropped Out
+1707,Marketing,Alaska,9,1,Dropped Out
+1708,Engineering,New Jersey,3,6,Completed
+1709,Web Dev,Illinois,6,4,Completed
+1710,Web Dev,New York,6,10,Completed
+1711,HR,Washington,6,10,Completed
+1712,Engineering,Nebraska,3,10,Completed
+1713,Design,Nebraska,6,2,Dropped Out
+1714,Engineering,Michigan,6,10,Completed
+1715,Design,California,3,7,Completed
+1716,Engineering,Washington,6,9,Completed
+1717,Engineering,Nebraska,3,5,Completed
+1718,Data Science,Texas,9,8,Completed
+1719,Web Dev,Washington,6,5,Dropped Out
+1720,Engineering,Nebraska,9,7,Completed
+1721,HR,Hawaii,3,7,Completed
+1722,Engineering,Washington,3,9,Completed
+1723,Marketing,Alaska,3,3,Dropped Out
+1724,Web Dev,Washington,3,1,Dropped Out
+1725,Marketing,Michigan,3,2,Completed
+1726,Web Dev,New Jersey,6,6,Completed
+1727,Marketing,New Jersey,3,10,Completed
+1728,Engineering,New Jersey,6,10,Completed
+1729,Engineering,Alaska,3,9,Completed
+1730,Data Science,New York,6,3,Completed
+1731,HR,New Jersey,6,10,Completed
+1732,Marketing,Illinois,6,2,Dropped Out
+1733,Design,Alaska,9,1,Dropped Out
+1734,Data Science,New York,3,2,Dropped Out
+1735,Marketing,Illinois,3,3,Completed
+1736,Marketing,Illinois,3,7,Completed
+1737,Data Science,Illinois,3,2,Completed
+1738,Engineering,Texas,6,5,Completed
+1739,Marketing,Michigan,3,2,Dropped Out
+1740,Engineering,Michigan,6,7,Completed
+1741,Data Science,Alaska,3,10,Completed
+1742,Engineering,Illinois,9,8,Completed
+1743,Web Dev,Hawaii,9,8,Completed
+1744,Design,Washington,3,8,Completed
+1745,Marketing,New York,3,10,Dropped Out
+1746,HR,Michigan,9,9,Completed
+1747,Design,New Jersey,9,1,Dropped Out
+1748,Engineering,Alaska,3,1,Completed
+1749,Marketing,New York,3,10,Completed
+1750,Engineering,Alaska,9,2,Dropped Out
+1751,Web Dev,Hawaii,6,6,Completed
+1752,Data Science,Texas,3,1,Dropped Out
+1753,Marketing,Texas,6,5,Dropped Out
+1754,Web Dev,Illinois,9,5,Dropped Out
+1755,Web Dev,Texas,9,4,Dropped Out
+1756,Marketing,Alaska,6,5,Dropped Out
+1757,Engineering,New Jersey,6,1,Dropped Out
+1758,HR,Illinois,3,6,Completed
+1759,Web Dev,Nebraska,9,7,Dropped Out
+1760,Design,New York,3,8,Completed
+1761,Web Dev,Hawaii,9,2,Dropped Out
+1762,HR,Illinois,3,7,Completed
+1763,Engineering,Alaska,9,6,Completed
+1764,Engineering,New York,3,9,Completed
+1765,Design,New Jersey,6,8,Dropped Out
+1766,Web Dev,California,3,4,Completed
+1767,Engineering,Hawaii,6,9,Completed
+1768,HR,Alaska,9,1,Dropped Out
+1769,Marketing,Hawaii,6,6,Dropped Out
+1770,Data Science,Michigan,6,8,Completed
+1771,Data Science,California,3,4,Dropped Out
+1772,Data Science,New York,9,2,Dropped Out
+1773,Web Dev,Texas,6,2,Dropped Out
+1774,Design,Alaska,6,10,Completed
+1775,Engineering,Hawaii,6,1,Dropped Out
+1776,Marketing,New York,6,5,Dropped Out
+1777,HR,Texas,3,6,Dropped Out
+1778,Marketing,New Jersey,6,4,Dropped Out
+1779,HR,New Jersey,6,4,Dropped Out
+1780,Web Dev,Hawaii,9,5,Dropped Out
+1781,Data Science,Illinois,9,5,Completed
+1782,Web Dev,Michigan,3,9,Completed
+1783,Design,Illinois,3,8,Dropped Out
+1784,Design,Michigan,3,9,Completed
+1785,HR,Alaska,3,3,Completed
+1786,Engineering,Nebraska,6,3,Dropped Out
+1787,Engineering,Hawaii,9,1,Dropped Out
+1788,HR,Washington,3,10,Completed
+1789,Design,Hawaii,3,6,Completed
+1790,Design,California,9,4,Dropped Out
+1791,Design,Texas,9,8,Completed
+1792,Web Dev,California,6,2,Dropped Out
+1793,Design,New Jersey,6,2,Dropped Out
+1794,Marketing,Michigan,6,7,Dropped Out
+1795,Data Science,Texas,3,5,Completed
+1796,Design,New Jersey,3,1,Dropped Out
+1797,HR,Texas,3,7,Dropped Out
+1798,Data Science,Illinois,3,7,Completed
+1799,Web Dev,New Jersey,9,10,Dropped Out
+1800,HR,Illinois,6,6,Completed
+1801,Data Science,Illinois,3,4,Completed
+1802,HR,Texas,3,8,Dropped Out
+1803,Web Dev,New York,3,2,Completed
+1804,Marketing,California,6,2,Completed
+1805,Web Dev,New Jersey,9,2,Dropped Out
+1806,Web Dev,Washington,3,3,Dropped Out
+1807,HR,New York,3,6,Completed
+1808,Engineering,California,6,1,Dropped Out
+1809,Design,New Jersey,6,2,Dropped Out
+1810,Design,Michigan,3,10,Completed
+1811,Marketing,California,6,2,Dropped Out
+1812,Marketing,Washington,6,1,Completed
+1813,Design,Hawaii,3,3,Dropped Out
+1814,Engineering,Alaska,3,10,Dropped Out
+1815,Design,Illinois,3,7,Completed
+1816,Engineering,Alaska,9,1,Dropped Out
+1817,Marketing,New York,9,7,Completed
+1818,Data Science,Hawaii,9,5,Dropped Out
+1819,HR,Illinois,6,9,Dropped Out
+1820,Marketing,New Jersey,6,2,Dropped Out
+1821,Marketing,New York,6,1,Dropped Out
+1822,Web Dev,Washington,9,9,Dropped Out
+1823,Web Dev,Texas,3,8,Dropped Out
+1824,Web Dev,New Jersey,6,10,Completed
+1825,HR,California,6,6,Completed
+1826,Web Dev,Texas,6,5,Completed
+1827,Engineering,New York,3,8,Completed
+1828,Design,California,6,8,Dropped Out
+1829,Data Science,Washington,6,5,Completed
+1830,Marketing,Alaska,3,7,Completed
+1831,Engineering,California,6,1,Dropped Out
+1832,Data Science,Alaska,3,4,Completed
+1833,Engineering,Illinois,9,2,Dropped Out
+1834,Engineering,Michigan,6,10,Completed
+1835,Marketing,Nebraska,6,3,Dropped Out
+1836,Design,New Jersey,3,1,Dropped Out
+1837,Web Dev,Nebraska,3,2,Completed
+1838,HR,Illinois,6,1,Completed
+1839,Design,California,3,8,Dropped Out
+1840,HR,Illinois,6,4,Completed
+1841,Marketing,Nebraska,3,3,Dropped Out
+1842,Marketing,Nebraska,9,1,Dropped Out
+1843,Marketing,New Jersey,6,2,Dropped Out
+1844,Data Science,Texas,3,3,Completed
+1845,HR,Hawaii,6,3,Completed
+1846,Design,Illinois,9,6,Dropped Out
+1847,Design,Michigan,6,10,Dropped Out
+1848,Engineering,Hawaii,3,8,Completed
+1849,Engineering,Illinois,6,6,Dropped Out
+1850,Engineering,Washington,3,2,Dropped Out
+1851,Marketing,New York,3,2,Completed
+1852,Design,New York,3,7,Dropped Out
+1853,HR,Nebraska,6,1,Dropped Out
+1854,Marketing,New York,3,1,Dropped Out
+1855,Data Science,Alaska,9,7,Completed
+1856,Engineering,Michigan,3,9,Completed
+1857,Marketing,New York,3,5,Dropped Out
+1858,Marketing,California,3,1,Dropped Out
+1859,Data Science,Alaska,3,5,Completed
+1860,Web Dev,Hawaii,6,1,Dropped Out
+1861,Design,Alaska,3,10,Completed
+1862,HR,Illinois,3,9,Completed
+1863,Web Dev,Nebraska,3,4,Completed
+1864,Engineering,New Jersey,3,9,Completed
+1865,Marketing,New Jersey,3,2,Completed
+1866,Data Science,Washington,6,7,Dropped Out
+1867,Data Science,Michigan,6,2,Dropped Out
+1868,Design,Illinois,6,4,Completed
+1869,Web Dev,New Jersey,6,6,Completed
+1870,Design,Nebraska,6,2,Completed
+1871,Marketing,Hawaii,9,2,Dropped Out
+1872,Design,New Jersey,3,2,Dropped Out
+1873,HR,California,3,3,Dropped Out
+1874,Data Science,Alaska,3,5,Completed
+1875,Data Science,New Jersey,3,9,Completed
+1876,Engineering,Illinois,3,6,Completed
+1877,Engineering,New York,6,9,Completed
+1878,Marketing,New York,3,10,Completed
+1879,HR,Hawaii,9,5,Dropped Out
+1880,Web Dev,New York,3,6,Dropped Out
+1881,Design,Hawaii,3,10,Completed
+1882,Marketing,Illinois,9,8,Completed
+1883,Engineering,Michigan,9,3,Dropped Out
+1884,Design,New York,3,2,Completed
+1885,Engineering,Washington,6,3,Completed
+1886,Design,Nebraska,9,9,Dropped Out
+1887,Web Dev,Alaska,3,6,Dropped Out
+1888,Marketing,New York,3,10,Completed
+1889,Design,Hawaii,9,4,Dropped Out
+1890,HR,Illinois,6,10,Completed
+1891,Data Science,New York,3,3,Completed
+1892,HR,New Jersey,6,2,Dropped Out
+1893,HR,New York,3,4,Dropped Out
+1894,Data Science,Hawaii,9,9,Dropped Out
+1895,HR,California,3,4,Dropped Out
+1896,Design,California,9,5,Dropped Out
+1897,Design,New York,6,8,Dropped Out
+1898,Design,Alaska,3,2,Completed
+1899,Data Science,Illinois,3,3,Completed
+1900,HR,Washington,6,6,Completed
+1901,Data Science,Washington,9,7,Completed
+1902,Design,New York,3,4,Dropped Out
+1903,HR,New York,3,1,Completed
+1904,HR,California,6,7,Dropped Out
+1905,Engineering,Hawaii,6,9,Dropped Out
+1906,Engineering,Alaska,3,1,Dropped Out
+1907,Web Dev,New York,6,1,Completed
+1908,Marketing,Washington,6,1,Dropped Out
+1909,Engineering,Illinois,3,10,Dropped Out
+1910,Data Science,Michigan,3,7,Completed
+1911,Engineering,New Jersey,3,9,Completed
+1912,Web Dev,New York,6,3,Dropped Out
+1913,HR,Hawaii,6,8,Completed
+1914,Web Dev,New York,6,9,Completed
+1915,HR,Hawaii,3,3,Completed
+1916,HR,Alaska,3,3,Dropped Out
+1917,Marketing,Michigan,9,1,Dropped Out
+1918,Engineering,Nebraska,3,2,Completed
+1919,Data Science,Illinois,6,7,Completed
+1920,Data Science,Illinois,6,3,Completed
+1921,Design,Hawaii,3,7,Dropped Out
+1922,HR,California,3,5,Dropped Out
+1923,Data Science,Hawaii,3,10,Completed
+1924,Marketing,California,3,8,Completed
+1925,HR,Texas,6,5,Completed
+1926,Marketing,Washington,3,3,Completed
+1927,Data Science,Illinois,3,9,Completed
+1928,Data Science,Alaska,6,7,Completed
+1929,Design,Hawaii,3,5,Completed
+1930,Data Science,Alaska,6,7,Completed
+1931,HR,Michigan,3,10,Completed
+1932,HR,Alaska,3,9,Completed
+1933,HR,New York,3,5,Completed
+1934,Design,Washington,3,7,Dropped Out
+1935,Design,New York,9,9,Dropped Out
+1936,Data Science,New Jersey,6,1,Completed
+1937,Web Dev,Hawaii,3,4,Completed
+1938,Web Dev,Illinois,3,1,Completed
+1939,Design,Hawaii,3,8,Completed
+1940,Data Science,Washington,3,3,Completed
+1941,Web Dev,Nebraska,3,2,Dropped Out
+1942,Data Science,Nebraska,6,4,Completed
+1943,Data Science,New Jersey,9,3,Completed
+1944,Data Science,Washington,3,5,Completed
+1945,Engineering,Texas,6,8,Completed
+1946,HR,Texas,9,10,Completed
+1947,Data Science,Texas,3,8,Completed
+1948,Engineering,Illinois,9,7,Completed
+1949,Design,Illinois,6,8,Dropped Out
+1950,Web Dev,Texas,3,5,Completed
+1951,HR,Nebraska,9,10,Completed
+1952,Web Dev,Washington,3,10,Completed
+1953,HR,Alaska,3,6,Completed
+1954,Web Dev,Washington,6,8,Dropped Out
+1955,HR,Texas,3,1,Completed
+1956,Web Dev,Washington,3,6,Completed
+1957,Web Dev,Michigan,3,6,Completed
+1958,Web Dev,Illinois,6,5,Completed
+1959,Web Dev,Illinois,6,4,Dropped Out
+1960,Design,Nebraska,6,1,Dropped Out
+1961,Data Science,Alaska,9,10,Completed
+1962,Marketing,Texas,3,8,Completed
+1963,Engineering,Hawaii,3,6,Completed
+1964,Marketing,Nebraska,6,3,Completed
+1965,Marketing,Nebraska,6,3,Completed
+1966,HR,Alaska,3,6,Dropped Out
+1967,Data Science,New York,3,7,Completed
+1968,HR,Texas,9,8,Dropped Out
+1969,Data Science,Hawaii,9,5,Completed
+1970,Data Science,Illinois,6,10,Completed
+1971,Web Dev,Alaska,3,6,Dropped Out
+1972,Design,Hawaii,9,1,Dropped Out
+1973,Web Dev,Michigan,9,6,Dropped Out
+1974,Design,Nebraska,6,9,Dropped Out
+1975,HR,Alaska,9,10,Completed
+1976,Design,Illinois,9,4,Dropped Out
+1977,HR,Washington,9,10,Completed
+1978,Marketing,Illinois,9,1,Dropped Out
+1979,Marketing,Michigan,6,9,Dropped Out
+1980,Design,Alaska,6,4,Dropped Out
+1981,Design,Michigan,3,2,Dropped Out
+1982,HR,Texas,6,1,Completed
+1983,Web Dev,Texas,6,3,Dropped Out
+1984,HR,Washington,9,7,Dropped Out
+1985,Web Dev,Nebraska,3,10,Completed
+1986,Marketing,New York,6,2,Dropped Out
+1987,Data Science,California,3,9,Completed
+1988,Design,Hawaii,6,2,Dropped Out
+1989,Web Dev,Michigan,6,5,Dropped Out
+1990,HR,Hawaii,3,8,Completed
+1991,Marketing,Washington,6,10,Completed
+1992,Web Dev,Hawaii,3,8,Completed
+1993,HR,Hawaii,3,3,Completed
+1994,Design,Illinois,6,2,Dropped Out
+1995,Design,Alaska,3,9,Completed
+1996,Engineering,Nebraska,3,3,Dropped Out
+1997,Data Science,California,3,8,Completed
+1998,Engineering,Alaska,3,2,Completed
+1999,Marketing,Illinois,6,3,Completed
+2000,Web Dev,Hawaii,3,1,Dropped Out
+2001,Marketing,California,9,6,Dropped Out
+2002,HR,Illinois,3,7,Completed
+2003,Design,Illinois,3,4,Completed
+2004,Engineering,Illinois,3,1,Dropped Out
+2005,Engineering,Texas,6,3,Dropped Out
+2006,Engineering,California,6,9,Completed
+2007,Marketing,Illinois,9,5,Dropped Out
+2008,Design,New York,6,6,Dropped Out
+2009,Web Dev,Hawaii,3,4,Completed
+2010,HR,California,6,1,Dropped Out
+2011,Web Dev,Texas,9,5,Completed
+2012,Marketing,Michigan,3,5,Completed
+2013,HR,Michigan,3,5,Completed
+2014,Engineering,Nebraska,6,6,Completed
+2015,Data Science,New Jersey,3,2,Dropped Out
+2016,Marketing,New York,9,1,Dropped Out
+2017,Marketing,Michigan,3,2,Completed
+2018,Design,Texas,3,10,Completed
+2019,Web Dev,New Jersey,9,6,Dropped Out
+2020,Marketing,Illinois,9,5,Completed
+2021,Marketing,Illinois,3,5,Completed
+2022,Engineering,Washington,9,6,Dropped Out
+2023,Engineering,Hawaii,3,10,Dropped Out
+2024,HR,New Jersey,3,7,Completed
+2025,Data Science,Hawaii,9,9,Completed
+2026,Design,Texas,6,7,Completed
+2027,Data Science,New York,3,2,Completed
+2028,HR,New Jersey,3,6,Completed
+2029,Engineering,Michigan,6,9,Dropped Out
+2030,Web Dev,New York,3,7,Completed
+2031,Engineering,Washington,6,2,Dropped Out
+2032,Design,Hawaii,6,3,Dropped Out
+2033,Engineering,Hawaii,3,8,Completed
+2034,Design,New York,6,9,Dropped Out
+2035,Design,Illinois,9,4,Dropped Out
+2036,Design,Hawaii,3,9,Completed
+2037,HR,Washington,3,2,Dropped Out
+2038,Design,Michigan,3,5,Completed
+2039,Design,California,6,2,Dropped Out
+2040,Web Dev,Michigan,9,1,Dropped Out
+2041,Data Science,Michigan,3,5,Completed
+2042,Marketing,Hawaii,3,2,Completed
+2043,Data Science,Alaska,3,7,Completed
+2044,Design,Illinois,6,8,Completed
+2045,Web Dev,Hawaii,3,2,Dropped Out
+2046,Engineering,Illinois,9,7,Dropped Out
+2047,Web Dev,Texas,3,4,Completed
+2048,Design,Alaska,6,1,Dropped Out
+2049,Web Dev,Hawaii,6,3,Completed
+2050,Web Dev,Nebraska,6,1,Completed
+2051,Design,Michigan,3,5,Completed
+2052,HR,Texas,6,8,Completed
+2053,Web Dev,Alaska,3,1,Dropped Out
+2054,Marketing,Hawaii,3,9,Dropped Out
+2055,Marketing,Washington,6,3,Completed
+2056,Web Dev,New York,6,5,Completed
+2057,HR,New York,3,9,Completed
+2058,Engineering,Illinois,3,5,Dropped Out
+2059,Design,Alaska,9,9,Dropped Out
+2060,Marketing,Michigan,9,10,Completed
+2061,Engineering,Michigan,3,8,Completed
+2062,Web Dev,California,6,7,Completed
+2063,Engineering,New York,3,1,Dropped Out
+2064,Data Science,Texas,6,4,Completed
+2065,Marketing,Alaska,9,9,Dropped Out
+2066,Web Dev,Michigan,3,10,Completed
+2067,Design,California,6,8,Completed
+2068,HR,Alaska,3,4,Dropped Out
+2069,Web Dev,New Jersey,6,1,Dropped Out
+2070,Design,Michigan,6,10,Dropped Out
+2071,HR,New Jersey,9,4,Dropped Out
+2072,HR,Alaska,3,3,Dropped Out
+2073,Web Dev,Michigan,3,6,Completed
+2074,Engineering,New Jersey,3,5,Completed
+2075,Engineering,Nebraska,9,5,Dropped Out
+2076,HR,California,6,2,Dropped Out
+2077,Engineering,Texas,6,3,Dropped Out
+2078,Data Science,New York,3,6,Completed
+2079,HR,California,9,2,Dropped Out
+2080,HR,New Jersey,9,4,Completed
+2081,Design,Michigan,6,2,Dropped Out
+2082,Engineering,Nebraska,3,9,Completed
+2083,HR,Nebraska,3,3,Dropped Out
+2084,Data Science,New York,6,10,Completed
+2085,Design,Nebraska,6,10,Dropped Out
+2086,Web Dev,California,3,6,Completed
+2087,HR,Hawaii,6,1,Dropped Out
+2088,Data Science,Nebraska,3,10,Completed
+2089,Marketing,New York,6,3,Dropped Out
+2090,Data Science,Nebraska,6,8,Completed
+2091,Data Science,Nebraska,3,5,Completed
+2092,Design,Washington,6,8,Dropped Out
+2093,Web Dev,California,3,2,Completed
+2094,Marketing,New Jersey,3,7,Completed
+2095,Engineering,Illinois,9,9,Dropped Out
+2096,Engineering,Hawaii,3,7,Completed
+2097,Data Science,Nebraska,3,3,Completed
+2098,Design,Texas,3,7,Completed
+2099,Design,Nebraska,3,8,Completed
+2100,Engineering,Washington,3,1,Dropped Out
+2101,Marketing,New Jersey,3,3,Completed
+2102,Web Dev,Texas,6,5,Completed
+2103,Marketing,Hawaii,3,6,Completed
+2104,HR,Texas,6,3,Dropped Out
+2105,HR,California,3,4,Completed
+2106,Web Dev,New York,3,5,Dropped Out
+2107,Engineering,New York,3,3,Completed
+2108,Web Dev,Hawaii,9,4,Completed
+2109,Design,New Jersey,6,5,Dropped Out
+2110,HR,New York,6,2,Completed
+2111,Data Science,Alaska,3,10,Completed
+2112,Data Science,Washington,9,9,Completed
+2113,Engineering,Hawaii,3,10,Completed
+2114,Design,Hawaii,3,8,Completed
+2115,Marketing,Illinois,6,6,Dropped Out
+2116,Design,Illinois,3,10,Completed
+2117,Data Science,California,9,3,Completed
+2118,Data Science,California,3,2,Completed
+2119,HR,Illinois,9,7,Dropped Out
+2120,Design,New York,6,8,Dropped Out
+2121,Design,Michigan,6,10,Dropped Out
+2122,Data Science,Hawaii,3,1,Completed
+2123,Marketing,Alaska,3,6,Completed
+2124,Engineering,Hawaii,9,7,Completed
+2125,Engineering,Nebraska,3,9,Completed
+2126,Design,New Jersey,6,3,Dropped Out
+2127,Engineering,Washington,9,2,Dropped Out
+2128,Data Science,Michigan,3,5,Completed
+2129,Data Science,Alaska,6,10,Completed
+2130,Design,Nebraska,6,1,Dropped Out
+2131,Design,California,3,6,Completed
+2132,HR,Alaska,3,9,Dropped Out
+2133,Design,Illinois,3,10,Completed
+2134,Marketing,Hawaii,3,9,Completed
+2135,Engineering,Alaska,6,7,Completed
+2136,Design,New Jersey,3,7,Completed
+2137,Web Dev,Texas,9,8,Completed
+2138,HR,California,3,10,Completed
+2139,Web Dev,Washington,6,2,Dropped Out
+2140,Data Science,Washington,6,6,Completed
+2141,Engineering,Alaska,3,5,Dropped Out
+2142,Design,Texas,3,5,Completed
+2143,Web Dev,Hawaii,6,3,Dropped Out
+2144,Engineering,Nebraska,9,3,Completed
+2145,Data Science,Michigan,3,6,Completed
+2146,Marketing,Hawaii,3,10,Completed
+2147,HR,Nebraska,3,10,Completed
+2148,Engineering,Michigan,3,7,Dropped Out
+2149,Engineering,Texas,6,1,Dropped Out
+2150,Marketing,Michigan,9,3,Dropped Out
+2151,Engineering,Hawaii,3,1,Dropped Out
+2152,Data Science,New Jersey,9,10,Completed
+2153,Data Science,Alaska,3,3,Dropped Out
+2154,Marketing,Nebraska,6,5,Dropped Out
+2155,HR,New Jersey,3,9,Completed
+2156,Design,Nebraska,3,3,Completed
+2157,Web Dev,Alaska,3,10,Completed
+2158,Design,New York,3,10,Completed
+2159,Engineering,Michigan,6,9,Dropped Out
+2160,Web Dev,Texas,6,1,Completed
+2161,Marketing,New York,3,6,Completed
+2162,Marketing,New York,9,9,Dropped Out
+2163,HR,Washington,3,5,Completed
+2164,Web Dev,Illinois,6,10,Completed
+2165,Data Science,Hawaii,3,2,Completed
+2166,Web Dev,New Jersey,3,5,Completed
+2167,Engineering,New Jersey,3,1,Dropped Out
+2168,Data Science,New Jersey,6,9,Completed
+2169,Marketing,New Jersey,6,10,Dropped Out
+2170,Web Dev,Hawaii,3,10,Completed
+2171,Design,New York,3,9,Dropped Out
+2172,HR,Hawaii,3,6,Dropped Out
+2173,Design,New Jersey,6,9,Completed
+2174,HR,Illinois,6,3,Dropped Out
+2175,Engineering,California,3,4,Completed
+2176,Design,Alaska,3,6,Completed
+2177,Web Dev,New Jersey,6,4,Dropped Out
+2178,Web Dev,Texas,3,1,Completed
+2179,Design,California,3,7,Completed
+2180,Web Dev,Hawaii,3,5,Completed
+2181,Engineering,Texas,3,8,Completed
+2182,Data Science,Texas,6,9,Completed
+2183,Engineering,Nebraska,6,5,Completed
+2184,HR,Texas,3,8,Dropped Out
+2185,Engineering,New Jersey,6,1,Dropped Out
+2186,HR,Nebraska,3,1,Dropped Out
+2187,Web Dev,Washington,9,7,Completed
+2188,Data Science,New York,6,6,Completed
+2189,Web Dev,Texas,6,5,Dropped Out
+2190,Marketing,Illinois,3,5,Completed
+2191,Web Dev,Alaska,3,9,Dropped Out
+2192,HR,Texas,3,1,Completed
+2193,Web Dev,Washington,6,8,Completed
+2194,Web Dev,Michigan,3,2,Dropped Out
+2195,Data Science,Hawaii,9,7,Dropped Out
+2196,Web Dev,Hawaii,9,6,Completed
+2197,Data Science,Washington,6,10,Completed
+2198,Design,Michigan,9,2,Dropped Out
+2199,Marketing,Hawaii,3,3,Dropped Out
+2200,Data Science,Hawaii,3,4,Completed
+2201,HR,Hawaii,3,7,Completed
+2202,Design,Washington,6,8,Dropped Out
+2203,Data Science,New York,3,2,Completed
+2204,Data Science,Alaska,9,8,Dropped Out
+2205,Marketing,Washington,3,9,Completed
+2206,HR,Michigan,3,7,Completed
+2207,Engineering,Texas,9,1,Dropped Out
+2208,Engineering,New York,3,6,Completed
+2209,Data Science,New York,3,8,Completed
+2210,Web Dev,Texas,6,5,Dropped Out
+2211,HR,Illinois,3,2,Dropped Out
+2212,Design,Nebraska,3,5,Dropped Out
+2213,Web Dev,Alaska,3,8,Completed
+2214,Web Dev,Alaska,3,2,Dropped Out
+2215,HR,Illinois,9,1,Dropped Out
+2216,Data Science,Nebraska,9,4,Completed
+2217,Data Science,Alaska,3,4,Completed
+2218,Data Science,Michigan,3,9,Completed
+2219,Data Science,California,3,3,Dropped Out
+2220,Engineering,California,9,4,Dropped Out
+2221,Data Science,Alaska,3,3,Completed
+2222,Engineering,New Jersey,3,2,Completed
+2223,Engineering,Alaska,6,4,Dropped Out
+2224,Data Science,Texas,9,8,Completed
+2225,Marketing,Texas,3,1,Completed
+2226,Design,Nebraska,3,8,Dropped Out
+2227,Web Dev,Hawaii,3,8,Dropped Out
+2228,Engineering,New York,3,3,Completed
+2229,HR,Michigan,6,10,Completed
+2230,HR,Illinois,6,10,Dropped Out
+2231,Design,Alaska,6,6,Dropped Out
+2232,HR,Hawaii,3,4,Dropped Out
+2233,Marketing,Hawaii,3,1,Completed
+2234,HR,Michigan,3,1,Completed
+2235,Web Dev,Illinois,3,5,Dropped Out
+2236,Web Dev,Texas,6,8,Completed
+2237,Engineering,Washington,3,1,Dropped Out
+2238,Data Science,Michigan,3,2,Completed
+2239,Marketing,Hawaii,3,7,Completed
+2240,Engineering,California,3,8,Dropped Out
+2241,Marketing,Alaska,3,3,Completed
+2242,Data Science,Nebraska,9,8,Dropped Out
+2243,HR,California,3,1,Completed
+2244,HR,Hawaii,6,9,Dropped Out
+2245,Data Science,New York,3,2,Completed
+2246,Engineering,New Jersey,3,2,Completed
+2247,Data Science,Illinois,9,4,Completed
+2248,Design,Texas,3,10,Dropped Out
+2249,Web Dev,Alaska,6,3,Dropped Out
+2250,Engineering,Nebraska,3,4,Completed
+2251,Marketing,Washington,6,6,Dropped Out
+2252,Design,Texas,6,7,Dropped Out
+2253,Engineering,Alaska,9,5,Dropped Out
+2254,Data Science,Washington,9,2,Dropped Out
+2255,Data Science,Nebraska,6,3,Dropped Out
+2256,Data Science,Hawaii,3,10,Completed
+2257,Data Science,New Jersey,6,3,Completed
+2258,Marketing,California,6,5,Completed
+2259,Design,California,3,5,Dropped Out
+2260,HR,Hawaii,3,4,Completed
+2261,Web Dev,Texas,9,8,Completed
+2262,Marketing,Hawaii,3,6,Dropped Out
+2263,Marketing,Hawaii,3,6,Completed
+2264,HR,Alaska,9,1,Dropped Out
+2265,HR,Alaska,3,6,Dropped Out
+2266,Web Dev,Nebraska,3,3,Dropped Out
+2267,Web Dev,New Jersey,6,6,Completed
+2268,HR,Alaska,3,10,Completed
+2269,Data Science,Nebraska,6,6,Dropped Out
+2270,Marketing,New York,3,2,Completed
+2271,Engineering,Hawaii,3,1,Dropped Out
+2272,Web Dev,Hawaii,3,3,Dropped Out
+2273,Web Dev,Texas,9,5,Completed
+2274,HR,New York,3,4,Dropped Out
+2275,Design,Texas,3,7,Dropped Out
+2276,Engineering,Washington,3,4,Completed
+2277,Engineering,Nebraska,3,8,Completed
+2278,Web Dev,Nebraska,3,7,Completed
+2279,Data Science,Hawaii,3,10,Completed
+2280,Design,Michigan,6,9,Dropped Out
+2281,Engineering,Washington,3,1,Completed
+2282,Web Dev,Nebraska,6,5,Completed
+2283,Engineering,Alaska,6,4,Dropped Out
+2284,Design,Hawaii,3,6,Dropped Out
+2285,Design,Texas,3,1,Dropped Out
+2286,Marketing,New York,6,6,Dropped Out
+2287,HR,Texas,6,1,Completed
+2288,HR,California,3,1,Dropped Out
+2289,Web Dev,Michigan,9,8,Dropped Out
+2290,Design,Nebraska,3,2,Dropped Out
+2291,Marketing,New Jersey,3,10,Completed
+2292,Marketing,Illinois,3,6,Completed
+2293,Engineering,Michigan,9,6,Dropped Out
+2294,Engineering,Hawaii,6,6,Dropped Out
+2295,Marketing,Nebraska,6,8,Completed
+2296,Engineering,New York,3,4,Completed
+2297,Design,Nebraska,3,3,Dropped Out
+2298,Data Science,Illinois,3,6,Completed
+2299,Design,New York,9,4,Dropped Out
+2300,Marketing,Texas,3,2,Dropped Out
+2301,Marketing,New York,3,6,Completed
+2302,Design,Michigan,3,10,Completed
+2303,Engineering,Texas,9,5,Completed
+2304,Engineering,Nebraska,3,9,Completed
+2305,HR,Hawaii,3,6,Completed
+2306,Marketing,Washington,3,3,Dropped Out
+2307,Web Dev,Hawaii,9,5,Dropped Out
+2308,HR,Nebraska,9,10,Dropped Out
+2309,Engineering,Illinois,6,8,Dropped Out
+2310,Design,Washington,3,9,Completed
+2311,Engineering,Nebraska,3,8,Completed
+2312,Design,New Jersey,9,3,Dropped Out
+2313,HR,Michigan,3,9,Completed
+2314,Marketing,New Jersey,3,3,Completed
+2315,Engineering,Texas,3,8,Completed
+2316,Design,California,9,10,Dropped Out
+2317,Marketing,Nebraska,3,9,Completed
+2318,Web Dev,Alaska,6,7,Completed
+2319,Design,Alaska,9,4,Dropped Out
+2320,HR,New York,3,10,Completed
+2321,Web Dev,Hawaii,3,9,Completed
+2322,Web Dev,Hawaii,9,3,Dropped Out
+2323,Data Science,Hawaii,9,3,Completed
+2324,Engineering,New Jersey,9,2,Completed
+2325,Design,Michigan,6,10,Completed
+2326,Web Dev,Nebraska,3,3,Dropped Out
+2327,Data Science,Illinois,9,1,Completed
+2328,HR,New York,3,4,Completed
+2329,Marketing,Texas,9,8,Completed
+2330,Design,Washington,9,5,Dropped Out
+2331,Web Dev,Texas,6,2,Dropped Out
+2332,Engineering,Nebraska,9,3,Dropped Out
+2333,Data Science,California,6,1,Completed
+2334,Web Dev,Hawaii,3,2,Completed
+2335,Engineering,Washington,6,1,Completed
+2336,Web Dev,New Jersey,3,2,Completed
+2337,Design,Nebraska,6,3,Dropped Out
+2338,Design,California,3,1,Dropped Out
+2339,Design,New Jersey,3,9,Dropped Out
+2340,HR,California,9,10,Dropped Out
+2341,HR,Hawaii,9,5,Completed
+2342,Data Science,New Jersey,3,8,Completed
+2343,Design,Michigan,6,5,Dropped Out
+2344,Engineering,Alaska,6,8,Dropped Out
+2345,Web Dev,Texas,9,7,Completed
+2346,Marketing,Michigan,3,4,Dropped Out
+2347,Engineering,Washington,6,7,Completed
+2348,HR,New York,9,6,Completed
+2349,HR,Alaska,3,3,Dropped Out
+2350,Engineering,Michigan,9,9,Completed
+2351,HR,Nebraska,9,10,Completed
+2352,Design,California,9,9,Dropped Out
+2353,Data Science,Washington,3,5,Completed
+2354,Web Dev,Nebraska,3,8,Dropped Out
+2355,Data Science,Alaska,9,7,Dropped Out
+2356,Web Dev,California,3,9,Completed
+2357,Web Dev,Washington,6,7,Completed
+2358,Data Science,New York,3,4,Completed
+2359,Engineering,Alaska,3,4,Dropped Out
+2360,Web Dev,Washington,3,8,Completed
+2361,Data Science,Michigan,6,6,Completed
+2362,Web Dev,Washington,3,9,Completed
+2363,Marketing,Alaska,6,10,Completed
+2364,Engineering,Hawaii,6,7,Dropped Out
+2365,Design,Michigan,6,7,Dropped Out
+2366,Web Dev,Nebraska,6,4,Dropped Out
+2367,Marketing,Alaska,3,3,Dropped Out
+2368,Design,Hawaii,3,8,Completed
+2369,Design,Illinois,3,7,Completed
+2370,Web Dev,New York,6,4,Completed
+2371,Data Science,Hawaii,6,4,Completed
+2372,Web Dev,Illinois,3,1,Dropped Out
+2373,Marketing,Texas,3,7,Dropped Out
+2374,Design,California,6,1,Completed
+2375,Web Dev,Hawaii,3,10,Completed
+2376,Data Science,New Jersey,9,10,Completed
+2377,Web Dev,New York,3,4,Dropped Out
+2378,Engineering,Hawaii,9,3,Dropped Out
+2379,Data Science,Illinois,3,3,Completed
+2380,Marketing,New Jersey,3,1,Dropped Out
+2381,Design,New York,3,4,Dropped Out
+2382,Web Dev,New Jersey,3,1,Completed
+2383,Data Science,Michigan,3,8,Completed
+2384,Engineering,Illinois,3,1,Dropped Out
+2385,Data Science,Washington,6,6,Completed
+2386,HR,Michigan,3,7,Completed
+2387,Engineering,New York,6,10,Completed
+2388,Marketing,New York,3,2,Dropped Out
+2389,Design,Alaska,9,4,Dropped Out
+2390,Marketing,Illinois,6,3,Dropped Out
+2391,Web Dev,Texas,3,9,Completed
+2392,Data Science,Texas,3,7,Completed
+2393,HR,New York,3,2,Dropped Out
+2394,Engineering,Texas,3,6,Completed
+2395,Engineering,California,6,9,Completed
+2396,Data Science,Alaska,6,3,Completed
+2397,HR,New York,9,6,Dropped Out
+2398,Data Science,Texas,6,3,Dropped Out
+2399,Web Dev,Illinois,9,3,Dropped Out
+2400,Marketing,Hawaii,9,4,Dropped Out
+2401,Engineering,Washington,9,9,Dropped Out
+2402,Web Dev,Michigan,3,8,Completed
+2403,Marketing,Michigan,3,1,Dropped Out
+2404,Web Dev,California,3,1,Completed
+2405,HR,New Jersey,6,7,Dropped Out
+2406,Engineering,Illinois,3,3,Completed
+2407,Data Science,New Jersey,3,7,Completed
+2408,Data Science,Alaska,3,9,Completed
+2409,Marketing,Washington,3,3,Completed
+2410,Design,Alaska,6,3,Dropped Out
+2411,HR,New York,3,2,Completed
+2412,Marketing,Illinois,6,10,Dropped Out
+2413,Design,New York,6,1,Dropped Out
+2414,Web Dev,Nebraska,3,9,Dropped Out
+2415,HR,Texas,6,6,Completed
+2416,Web Dev,Michigan,6,6,Completed
+2417,Engineering,Hawaii,3,8,Completed
+2418,HR,New York,3,5,Dropped Out
+2419,Design,New Jersey,3,9,Completed
+2420,Engineering,Nebraska,6,5,Completed
+2421,Data Science,Michigan,6,2,Completed
+2422,Design,New York,3,6,Dropped Out
+2423,Marketing,Nebraska,3,9,Completed
+2424,Data Science,Nebraska,3,3,Completed
+2425,Data Science,Illinois,9,10,Completed
+2426,Marketing,Alaska,3,4,Completed
+2427,HR,Nebraska,9,10,Completed
+2428,Data Science,California,3,8,Completed
+2429,Design,Alaska,6,6,Dropped Out
+2430,Engineering,Michigan,6,7,Dropped Out
+2431,Data Science,Michigan,6,7,Completed
+2432,Design,Michigan,3,4,Dropped Out
+2433,Web Dev,Michigan,6,6,Completed
+2434,Design,California,3,9,Dropped Out
+2435,Engineering,New York,3,3,Completed
+2436,Design,Washington,6,8,Dropped Out
+2437,Marketing,Nebraska,9,7,Completed
+2438,Engineering,Michigan,6,4,Dropped Out
+2439,HR,Alaska,3,10,Completed
+2440,Web Dev,Alaska,6,3,Completed
+2441,Marketing,Nebraska,6,7,Completed
+2442,HR,New York,9,10,Dropped Out
+2443,Design,Hawaii,9,9,Dropped Out
+2444,Engineering,Hawaii,6,10,Completed
+2445,Web Dev,Washington,3,3,Completed
+2446,Marketing,New York,6,10,Completed
+2447,HR,Nebraska,6,9,Completed
+2448,HR,Hawaii,9,8,Dropped Out
+2449,Web Dev,Hawaii,3,3,Completed
+2450,Design,Hawaii,3,8,Dropped Out
+2451,Web Dev,New Jersey,3,4,Dropped Out
+2452,HR,California,6,6,Dropped Out
+2453,Data Science,Nebraska,9,10,Completed
+2454,Marketing,Texas,3,2,Completed
+2455,Web Dev,Illinois,6,8,Completed
+2456,HR,Illinois,6,9,Dropped Out
+2457,Design,New York,6,7,Completed
+2458,HR,Nebraska,3,8,Completed
+2459,Design,Nebraska,9,7,Dropped Out
+2460,Web Dev,Illinois,3,10,Completed
+2461,Design,Washington,6,4,Dropped Out
+2462,Engineering,Illinois,3,1,Dropped Out
+2463,Engineering,Nebraska,3,3,Completed
+2464,Engineering,Hawaii,9,7,Dropped Out
+2465,Data Science,Washington,3,7,Completed
+2466,Web Dev,Michigan,3,3,Dropped Out
+2467,HR,Texas,6,1,Dropped Out
+2468,HR,New Jersey,6,10,Completed
+2469,Data Science,California,6,9,Completed
+2470,Design,Michigan,3,6,Dropped Out
+2471,Data Science,Alaska,3,7,Completed
+2472,Design,Illinois,3,1,Dropped Out
+2473,Design,Texas,3,1,Dropped Out
+2474,Marketing,Illinois,9,4,Dropped Out
+2475,HR,Illinois,3,7,Completed
+2476,Engineering,Michigan,3,8,Completed
+2477,Design,Hawaii,3,10,Completed
+2478,Marketing,Hawaii,3,9,Completed
+2479,HR,New Jersey,6,1,Completed
+2480,Engineering,Washington,6,4,Dropped Out
+2481,Design,Illinois,3,4,Dropped Out
+2482,Design,New York,3,3,Completed
+2483,Data Science,Hawaii,3,7,Completed
+2484,Data Science,Nebraska,6,1,Completed
+2485,HR,Texas,6,9,Dropped Out
+2486,Engineering,New York,3,8,Completed
+2487,Design,Michigan,3,2,Dropped Out
+2488,HR,Michigan,6,2,Dropped Out
+2489,HR,New Jersey,9,8,Dropped Out
+2490,Web Dev,New Jersey,9,1,Completed
+2491,Data Science,Washington,3,7,Completed
+2492,Engineering,Nebraska,3,9,Completed
+2493,Design,Texas,3,3,Dropped Out
+2494,HR,Nebraska,6,7,Completed
+2495,Design,Alaska,9,6,Dropped Out
+2496,Web Dev,New Jersey,3,7,Completed
+2497,Engineering,Washington,3,7,Completed
+2498,HR,California,3,10,Completed
+2499,Design,Illinois,3,1,Dropped Out
+2500,Data Science,Illinois,3,3,Completed
+2501,Web Dev,California,6,10,Dropped Out
+2502,Engineering,Hawaii,3,1,Dropped Out
+2503,Web Dev,Nebraska,3,5,Completed
+2504,Data Science,California,6,3,Dropped Out
+2505,Engineering,Washington,3,1,Dropped Out
+2506,Web Dev,Texas,3,2,Dropped Out
+2507,Marketing,California,3,10,Completed
+2508,Data Science,Washington,9,5,Dropped Out
+2509,Data Science,New Jersey,6,3,Completed
+2510,Data Science,New York,3,6,Completed
+2511,Marketing,Michigan,6,9,Completed
+2512,Marketing,Michigan,3,6,Completed
+2513,Design,Alaska,6,2,Dropped Out
+2514,HR,Nebraska,6,2,Dropped Out
+2515,Web Dev,Texas,9,8,Dropped Out
+2516,Design,New York,3,8,Completed
+2517,Web Dev,New York,9,6,Completed
+2518,HR,New Jersey,9,10,Completed
+2519,Marketing,California,9,7,Dropped Out
+2520,HR,Nebraska,6,1,Completed
+2521,Marketing,Illinois,3,9,Completed
+2522,HR,New York,3,5,Completed
+2523,Design,Washington,3,9,Completed
+2524,Engineering,Illinois,3,2,Completed
+2525,Design,Alaska,6,8,Completed
+2526,Web Dev,California,6,7,Completed
+2527,Design,California,9,4,Dropped Out
+2528,Data Science,Texas,3,3,Completed
+2529,Web Dev,New York,3,4,Dropped Out
+2530,HR,New Jersey,6,4,Completed
+2531,Web Dev,Hawaii,3,10,Completed
+2532,Engineering,Hawaii,3,10,Completed
+2533,Marketing,Michigan,9,8,Dropped Out
+2534,HR,Washington,6,4,Dropped Out
+2535,Web Dev,Illinois,3,5,Dropped Out
+2536,HR,Alaska,9,2,Dropped Out
+2537,HR,Michigan,6,4,Completed
+2538,HR,California,6,7,Completed
+2539,Marketing,Illinois,9,3,Dropped Out
+2540,Design,Nebraska,3,1,Dropped Out
+2541,HR,New York,6,8,Dropped Out
+2542,Data Science,Alaska,3,8,Completed
+2543,Engineering,Nebraska,3,6,Completed
+2544,Marketing,New Jersey,9,7,Dropped Out
+2545,Web Dev,New York,6,10,Completed
+2546,Marketing,Illinois,6,2,Completed
+2547,Web Dev,New York,9,5,Dropped Out
+2548,Marketing,Michigan,9,7,Completed
+2549,Web Dev,Texas,9,9,Dropped Out
+2550,HR,Michigan,3,1,Dropped Out
+2551,Design,New Jersey,3,3,Dropped Out
+2552,Web Dev,Washington,3,6,Completed
+2553,Web Dev,Nebraska,3,7,Completed
+2554,Data Science,Michigan,3,6,Completed
+2555,Web Dev,Texas,6,1,Dropped Out
+2556,Data Science,Washington,6,4,Completed
+2557,Engineering,Michigan,9,6,Completed
+2558,HR,California,6,8,Completed
+2559,Data Science,Texas,6,10,Completed
+2560,Design,Nebraska,3,4,Dropped Out
+2561,HR,Alaska,3,7,Completed
+2562,Data Science,Hawaii,3,3,Completed
+2563,HR,Washington,6,8,Dropped Out
+2564,HR,California,3,1,Completed
+2565,HR,Alaska,6,4,Dropped Out
+2566,Engineering,Illinois,6,8,Completed
+2567,Design,Texas,3,10,Completed
+2568,Marketing,California,3,4,Completed
+2569,Marketing,New York,3,2,Dropped Out
+2570,Data Science,Illinois,3,2,Completed
+2571,HR,Illinois,6,4,Completed
+2572,Data Science,Washington,6,4,Completed
+2573,Engineering,Texas,6,2,Completed
+2574,Engineering,California,9,7,Dropped Out
+2575,Web Dev,New Jersey,6,6,Dropped Out
+2576,Engineering,California,9,3,Dropped Out
+2577,Web Dev,Michigan,3,8,Completed
+2578,Design,Illinois,6,8,Completed
+2579,Data Science,Nebraska,3,1,Completed
+2580,Design,Illinois,3,3,Dropped Out
+2581,Engineering,Illinois,3,5,Completed
+2582,Design,Hawaii,6,2,Dropped Out
+2583,Design,New York,3,5,Dropped Out
+2584,Design,New Jersey,3,10,Completed
+2585,Engineering,Alaska,9,3,Dropped Out
+2586,HR,Alaska,9,9,Completed
+2587,Design,New York,6,1,Dropped Out
+2588,Web Dev,Illinois,6,4,Dropped Out
+2589,Engineering,Alaska,9,10,Completed
+2590,Design,Texas,6,6,Dropped Out
+2591,HR,New Jersey,3,9,Dropped Out
+2592,Engineering,Alaska,9,3,Dropped Out
+2593,Marketing,New York,6,3,Completed
+2594,HR,Michigan,3,5,Completed
+2595,Web Dev,Alaska,3,7,Completed
+2596,Design,New Jersey,3,5,Completed
+2597,Marketing,Washington,9,8,Completed
+2598,Marketing,Washington,3,5,Completed
+2599,Engineering,Texas,9,7,Dropped Out
+2600,Marketing,California,9,6,Completed
+2601,Web Dev,California,6,10,Dropped Out
+2602,Web Dev,Alaska,6,2,Dropped Out
+2603,Data Science,Nebraska,3,3,Completed
+2604,Web Dev,Michigan,3,4,Completed
+2605,HR,New York,3,5,Completed
+2606,Marketing,Michigan,6,9,Completed
+2607,Web Dev,Washington,3,6,Completed
+2608,Engineering,Alaska,3,1,Completed
+2609,Data Science,New Jersey,3,3,Completed
+2610,Marketing,New York,9,7,Dropped Out
+2611,Data Science,Michigan,3,8,Completed
+2612,Marketing,New Jersey,9,7,Completed
+2613,Engineering,New York,3,5,Dropped Out
+2614,Data Science,Michigan,6,10,Completed
+2615,Design,Texas,3,8,Completed
+2616,HR,Washington,6,9,Completed
+2617,HR,Illinois,6,7,Completed
+2618,Marketing,New York,3,9,Completed
+2619,Design,Washington,6,1,Completed
+2620,Data Science,Hawaii,6,9,Completed
+2621,Design,Nebraska,6,3,Dropped Out
+2622,Design,Alaska,6,6,Dropped Out
+2623,Data Science,Hawaii,3,8,Completed
+2624,Engineering,New Jersey,6,3,Dropped Out
+2625,Design,New York,9,4,Dropped Out
+2626,Design,Alaska,9,7,Dropped Out
+2627,Engineering,Alaska,9,7,Dropped Out
+2628,Design,Hawaii,3,4,Dropped Out
+2629,Design,Hawaii,6,9,Completed
+2630,Design,Illinois,6,3,Dropped Out
+2631,HR,Michigan,3,8,Completed
+2632,Web Dev,New York,9,8,Completed
+2633,Engineering,Washington,6,4,Completed
+2634,Design,California,3,7,Dropped Out
+2635,HR,New York,3,4,Completed
+2636,Engineering,New York,9,1,Dropped Out
+2637,Marketing,New York,3,1,Completed
+2638,Marketing,Alaska,3,1,Completed
+2639,Design,New Jersey,3,2,Dropped Out
+2640,HR,Alaska,3,6,Completed
+2641,HR,New Jersey,9,10,Dropped Out
+2642,Engineering,Hawaii,3,5,Dropped Out
+2643,Engineering,California,6,2,Dropped Out
+2644,HR,Alaska,9,8,Dropped Out
+2645,Engineering,New Jersey,6,9,Completed
+2646,HR,Alaska,3,7,Completed
+2647,Web Dev,Nebraska,6,9,Completed
+2648,HR,Alaska,3,4,Completed
+2649,Marketing,California,3,7,Dropped Out
+2650,Engineering,California,6,5,Dropped Out
+2651,HR,New Jersey,9,5,Dropped Out
+2652,HR,New Jersey,6,3,Dropped Out
+2653,Engineering,Hawaii,9,9,Completed
+2654,Web Dev,California,6,10,Completed
+2655,Web Dev,California,6,5,Dropped Out
+2656,Engineering,Illinois,9,6,Completed
+2657,Data Science,New York,3,3,Completed
+2658,Engineering,Texas,3,10,Completed
+2659,Engineering,Alaska,6,7,Completed
+2660,Web Dev,Michigan,6,9,Completed
+2661,Web Dev,Hawaii,3,9,Completed
+2662,Engineering,New York,3,10,Completed
+2663,Engineering,Texas,3,10,Completed
+2664,Engineering,Illinois,6,5,Dropped Out
+2665,Web Dev,Michigan,9,7,Dropped Out
+2666,Engineering,New Jersey,9,3,Dropped Out
+2667,Engineering,California,6,6,Dropped Out
+2668,Design,Nebraska,9,8,Dropped Out
+2669,Data Science,Hawaii,3,8,Completed
+2670,Marketing,Washington,3,2,Completed
+2671,Data Science,California,3,6,Completed
+2672,Design,Nebraska,6,7,Dropped Out
+2673,Marketing,Texas,3,7,Dropped Out
+2674,Engineering,New Jersey,6,3,Completed
+2675,Design,Michigan,6,9,Dropped Out
+2676,Engineering,Texas,3,2,Dropped Out
+2677,Web Dev,California,9,3,Completed
+2678,HR,California,6,2,Completed
+2679,Design,Michigan,3,9,Completed
+2680,Web Dev,Washington,3,4,Completed
+2681,Design,Nebraska,6,2,Dropped Out
+2682,Design,Texas,3,3,Dropped Out
+2683,Web Dev,New Jersey,3,4,Completed
+2684,Marketing,California,6,10,Completed
+2685,Data Science,Texas,9,6,Completed
+2686,Engineering,Washington,3,5,Completed
+2687,Design,Texas,9,3,Dropped Out
+2688,Engineering,Michigan,9,10,Completed
+2689,HR,New Jersey,3,8,Dropped Out
+2690,Web Dev,Illinois,6,8,Dropped Out
+2691,Engineering,Michigan,3,7,Dropped Out
+2692,Web Dev,Texas,3,3,Completed
+2693,Engineering,Illinois,6,1,Completed
+2694,Data Science,California,6,5,Completed
+2695,Data Science,Illinois,3,1,Completed
+2696,Data Science,Washington,9,6,Dropped Out
+2697,Data Science,Alaska,6,7,Completed
+2698,Data Science,Washington,9,5,Dropped Out
+2699,Data Science,Michigan,3,4,Completed
+2700,Web Dev,Alaska,9,2,Completed
+2701,Design,Michigan,3,5,Dropped Out
+2702,Engineering,Hawaii,3,9,Completed
+2703,Data Science,New Jersey,6,4,Completed
+2704,Web Dev,New York,6,2,Completed
+2705,Web Dev,California,6,6,Dropped Out
+2706,Web Dev,California,3,8,Completed
+2707,Design,Hawaii,3,2,Dropped Out
+2708,Engineering,Texas,6,9,Completed
+2709,Design,Nebraska,3,7,Completed
+2710,Marketing,Michigan,6,2,Dropped Out
+2711,Web Dev,New York,3,5,Completed
+2712,Marketing,New York,9,5,Completed
+2713,HR,Washington,6,7,Completed
+2714,Data Science,Washington,6,5,Completed
+2715,Data Science,Nebraska,9,6,Completed
+2716,Design,Texas,6,9,Dropped Out
+2717,Engineering,Hawaii,3,3,Completed
+2718,Marketing,Illinois,3,3,Completed
+2719,Engineering,Washington,6,8,Completed
+2720,Design,Texas,3,10,Completed
+2721,Data Science,New Jersey,6,6,Dropped Out
+2722,Engineering,California,3,10,Completed
+2723,Engineering,California,3,3,Dropped Out
+2724,Data Science,Texas,6,2,Dropped Out
+2725,Marketing,Nebraska,9,2,Dropped Out
+2726,Data Science,Hawaii,6,2,Completed
+2727,Engineering,New York,9,5,Dropped Out
+2728,Marketing,Nebraska,9,5,Dropped Out
+2729,Marketing,Texas,3,1,Dropped Out
+2730,Data Science,Hawaii,3,2,Completed
+2731,Engineering,Hawaii,6,2,Completed
+2732,Design,Michigan,9,4,Dropped Out
+2733,Engineering,Alaska,6,7,Completed
+2734,Web Dev,California,9,3,Dropped Out
+2735,HR,Texas,3,5,Completed
+2736,Design,New York,3,9,Completed
+2737,Marketing,Alaska,6,5,Completed
+2738,Design,New Jersey,3,9,Dropped Out
+2739,Marketing,Washington,3,1,Completed
+2740,Marketing,Michigan,3,9,Completed
+2741,Design,Washington,3,5,Dropped Out
+2742,Marketing,Alaska,6,8,Completed
+2743,Marketing,Alaska,9,5,Dropped Out
+2744,Web Dev,Washington,9,6,Completed
+2745,Engineering,New York,6,8,Completed
+2746,Engineering,New York,3,2,Completed
+2747,HR,Illinois,6,3,Completed
+2748,HR,New Jersey,3,9,Completed
+2749,Web Dev,New York,3,5,Dropped Out
+2750,HR,New Jersey,3,5,Dropped Out
+2751,Design,New Jersey,9,9,Completed
+2752,Data Science,Alaska,9,10,Completed
+2753,Data Science,New Jersey,6,3,Dropped Out
+2754,Data Science,Michigan,6,4,Completed
+2755,Web Dev,Washington,3,7,Completed
+2756,Web Dev,Illinois,6,2,Dropped Out
+2757,Marketing,Texas,6,8,Completed
+2758,Data Science,Nebraska,3,5,Completed
+2759,Design,Illinois,3,1,Dropped Out
+2760,HR,Michigan,9,3,Dropped Out
+2761,Design,Illinois,6,9,Dropped Out
+2762,HR,New Jersey,9,5,Dropped Out
+2763,Data Science,Alaska,9,8,Completed
+2764,Data Science,Nebraska,9,1,Completed
+2765,Data Science,New York,3,7,Completed
+2766,Web Dev,Alaska,3,7,Completed
+2767,HR,New Jersey,3,8,Completed
+2768,Web Dev,New Jersey,3,3,Dropped Out
+2769,Web Dev,Nebraska,6,1,Dropped Out
+2770,Engineering,Nebraska,6,9,Dropped Out
+2771,Design,California,6,1,Dropped Out
+2772,Design,Hawaii,3,6,Dropped Out
+2773,Marketing,Hawaii,9,9,Dropped Out
+2774,Web Dev,Alaska,3,2,Dropped Out
+2775,HR,New York,3,4,Dropped Out
+2776,Engineering,Illinois,6,2,Dropped Out
+2777,Engineering,New Jersey,6,4,Dropped Out
+2778,Design,New Jersey,3,2,Completed
+2779,Web Dev,California,3,1,Dropped Out
+2780,Marketing,Alaska,6,3,Completed
+2781,Web Dev,Alaska,3,8,Completed
+2782,Data Science,Washington,3,5,Dropped Out
+2783,Web Dev,Nebraska,6,4,Completed
+2784,Data Science,New York,3,5,Completed
+2785,Data Science,Nebraska,3,6,Completed
+2786,Marketing,New York,3,6,Completed
+2787,HR,Michigan,9,5,Completed
+2788,Design,Texas,9,6,Completed
+2789,Web Dev,Hawaii,3,9,Completed
+2790,Data Science,Hawaii,3,5,Completed
+2791,Web Dev,New York,3,6,Completed
+2792,HR,Hawaii,3,4,Completed
+2793,Design,Nebraska,6,3,Dropped Out
+2794,HR,New Jersey,6,6,Dropped Out
+2795,Design,Nebraska,3,5,Dropped Out
+2796,Engineering,New York,3,4,Completed
+2797,Design,Alaska,3,5,Dropped Out
+2798,Marketing,Nebraska,3,7,Completed
+2799,HR,Hawaii,3,1,Dropped Out
+2800,Data Science,California,6,1,Dropped Out
+2801,Engineering,Washington,6,1,Completed
+2802,Marketing,New Jersey,6,2,Dropped Out
+2803,Web Dev,Hawaii,3,9,Completed
+2804,HR,California,6,5,Completed
+2805,Data Science,New York,3,9,Completed
+2806,Design,Michigan,3,5,Completed
+2807,Data Science,California,6,7,Completed
+2808,Web Dev,Texas,3,6,Completed
+2809,Engineering,Michigan,6,2,Completed
+2810,Engineering,Illinois,6,3,Dropped Out
+2811,HR,New Jersey,9,5,Dropped Out
+2812,Engineering,Hawaii,9,4,Dropped Out
+2813,HR,Illinois,3,6,Dropped Out
+2814,HR,Nebraska,9,8,Dropped Out
+2815,HR,New York,6,8,Dropped Out
+2816,Design,New Jersey,6,3,Dropped Out
+2817,Marketing,Alaska,3,4,Completed
+2818,HR,Michigan,9,1,Dropped Out
+2819,HR,Alaska,3,2,Completed
+2820,Marketing,Illinois,9,9,Dropped Out
+2821,Data Science,California,3,10,Completed
+2822,HR,California,6,10,Completed
+2823,Design,New York,3,2,Completed
+2824,Engineering,Illinois,3,6,Completed
+2825,Engineering,Washington,3,7,Completed
+2826,Web Dev,New Jersey,3,6,Dropped Out
+2827,Web Dev,Michigan,3,8,Completed
+2828,Engineering,California,3,9,Completed
+2829,Engineering,California,6,8,Dropped Out
+2830,Design,Alaska,9,5,Dropped Out
+2831,Marketing,Alaska,6,8,Dropped Out
+2832,Web Dev,Hawaii,3,10,Completed
+2833,Marketing,Nebraska,3,10,Completed
+2834,Design,Washington,3,9,Dropped Out
+2835,Engineering,Alaska,9,8,Completed
+2836,HR,Alaska,9,2,Dropped Out
+2837,Marketing,New Jersey,3,2,Completed
+2838,Engineering,Hawaii,3,3,Dropped Out
+2839,Engineering,Alaska,9,7,Dropped Out
+2840,Data Science,Michigan,9,9,Completed
+2841,Marketing,New Jersey,9,8,Dropped Out
+2842,HR,Nebraska,9,9,Dropped Out
+2843,Marketing,Illinois,3,6,Completed
+2844,Engineering,New Jersey,3,1,Dropped Out
+2845,HR,Illinois,3,4,Dropped Out
+2846,Design,California,3,6,Dropped Out
+2847,Data Science,Hawaii,3,6,Completed
+2848,Engineering,Nebraska,6,8,Completed
+2849,Web Dev,Hawaii,3,1,Dropped Out
+2850,Web Dev,Nebraska,3,2,Dropped Out
+2851,Data Science,Hawaii,3,2,Completed
+2852,Design,New Jersey,3,6,Dropped Out
+2853,Engineering,Hawaii,3,7,Completed
+2854,Marketing,Texas,9,2,Dropped Out
+2855,Data Science,Nebraska,9,5,Completed
+2856,Design,Illinois,3,6,Completed
+2857,Marketing,Nebraska,6,4,Dropped Out
+2858,Web Dev,California,3,1,Completed
+2859,Web Dev,Michigan,6,3,Dropped Out
+2860,Marketing,Texas,3,10,Dropped Out
+2861,Data Science,New York,3,9,Completed
+2862,Web Dev,Nebraska,9,6,Dropped Out
+2863,Engineering,Alaska,3,2,Dropped Out
+2864,HR,New Jersey,3,9,Completed
+2865,Marketing,New Jersey,3,4,Dropped Out
+2866,Marketing,Hawaii,3,8,Completed
+2867,Web Dev,Hawaii,3,10,Completed
+2868,Data Science,New Jersey,9,7,Completed
+2869,Engineering,Washington,6,3,Dropped Out
+2870,Data Science,Texas,6,8,Completed
+2871,Design,Texas,3,4,Completed
+2872,Design,Illinois,3,2,Completed
+2873,HR,Nebraska,3,5,Dropped Out
+2874,Web Dev,New York,3,1,Dropped Out
+2875,Web Dev,New Jersey,6,8,Dropped Out
+2876,Web Dev,Nebraska,3,8,Completed
+2877,HR,Texas,9,3,Dropped Out
+2878,Design,California,3,1,Dropped Out
+2879,Data Science,New Jersey,3,4,Completed
+2880,HR,Nebraska,3,9,Completed
+2881,HR,Texas,3,9,Completed
+2882,Data Science,Michigan,3,1,Completed
+2883,Web Dev,Texas,3,7,Dropped Out
+2884,Engineering,Hawaii,3,6,Completed
+2885,Data Science,Alaska,6,7,Completed
+2886,Design,Washington,6,7,Completed
+2887,Marketing,Washington,3,8,Completed
+2888,Marketing,Hawaii,3,8,Completed
+2889,HR,Hawaii,6,10,Completed
+2890,Marketing,New Jersey,9,2,Dropped Out
+2891,Engineering,Michigan,6,4,Completed
+2892,Web Dev,Michigan,3,4,Completed
+2893,Design,New Jersey,6,10,Completed
+2894,Engineering,Nebraska,6,8,Completed
+2895,Design,New Jersey,3,3,Dropped Out
+2896,Design,New York,9,3,Dropped Out
+2897,Web Dev,New York,3,2,Dropped Out
+2898,HR,Washington,9,1,Completed
+2899,Marketing,Texas,6,8,Dropped Out
+2900,Web Dev,New Jersey,6,9,Completed
+2901,Engineering,New Jersey,6,9,Completed
+2902,HR,Nebraska,3,8,Completed
+2903,Engineering,Illinois,6,5,Dropped Out
+2904,HR,Washington,9,1,Dropped Out
+2905,Engineering,Washington,6,9,Completed
+2906,Web Dev,Washington,9,6,Dropped Out
+2907,HR,Texas,9,7,Completed
+2908,HR,Hawaii,9,8,Dropped Out
+2909,Design,California,6,5,Dropped Out
+2910,Design,Illinois,6,6,Dropped Out
+2911,Data Science,Texas,3,7,Completed
+2912,Engineering,New York,6,7,Dropped Out
+2913,Design,Nebraska,3,2,Dropped Out
+2914,Data Science,Hawaii,3,1,Completed
+2915,Design,New York,3,8,Completed
+2916,Engineering,Hawaii,9,5,Dropped Out
+2917,HR,Michigan,9,10,Completed
+2918,Marketing,Washington,6,2,Dropped Out
+2919,Engineering,Hawaii,3,3,Dropped Out
+2920,Web Dev,Alaska,6,6,Dropped Out
+2921,Design,Washington,6,10,Dropped Out
+2922,Design,Washington,3,6,Dropped Out
+2923,HR,Nebraska,3,8,Completed
+2924,Web Dev,Illinois,3,5,Completed
+2925,HR,New York,6,5,Completed
+2926,Web Dev,Hawaii,6,7,Dropped Out
+2927,Marketing,Hawaii,3,10,Completed
+2928,Design,Michigan,9,5,Dropped Out
+2929,Design,Washington,3,9,Dropped Out
+2930,Marketing,New Jersey,3,6,Completed
+2931,Data Science,California,3,7,Completed
+2932,HR,New Jersey,3,8,Completed
+2933,Marketing,Hawaii,3,5,Dropped Out
+2934,HR,New Jersey,3,4,Completed
+2935,Engineering,Nebraska,6,8,Completed
+2936,Design,Alaska,3,10,Completed
+2937,HR,Hawaii,6,9,Completed
+2938,Web Dev,Hawaii,6,1,Dropped Out
+2939,HR,Alaska,3,3,Completed
+2940,Engineering,New York,6,4,Dropped Out
+2941,Design,Alaska,3,7,Completed
+2942,Marketing,New Jersey,9,6,Dropped Out
+2943,Engineering,Nebraska,9,10,Completed
+2944,Design,Michigan,3,10,Completed
+2945,HR,New York,9,1,Dropped Out
+2946,Data Science,Texas,6,4,Dropped Out
+2947,Data Science,Michigan,9,6,Completed
+2948,Web Dev,Illinois,6,3,Dropped Out
+2949,Design,Illinois,3,2,Completed
+2950,Data Science,Illinois,9,2,Completed
+2951,Marketing,Illinois,3,10,Completed
+2952,Design,Nebraska,3,4,Dropped Out
+2953,Marketing,Michigan,3,1,Completed
+2954,Marketing,Washington,3,10,Completed
+2955,Data Science,California,6,2,Completed
+2956,Design,New York,6,10,Dropped Out
+2957,HR,Texas,9,2,Dropped Out
+2958,Engineering,New Jersey,3,4,Dropped Out
+2959,Data Science,Hawaii,9,4,Dropped Out
+2960,Data Science,Illinois,9,1,Dropped Out
+2961,HR,Texas,3,7,Dropped Out
+2962,Design,Hawaii,3,7,Completed
+2963,Design,California,9,10,Dropped Out
+2964,Marketing,Texas,6,10,Dropped Out
+2965,HR,Michigan,6,10,Completed
+2966,HR,Texas,6,1,Dropped Out
+2967,Design,Illinois,3,8,Dropped Out
+2968,Marketing,California,3,10,Completed
+2969,Data Science,New Jersey,6,7,Completed
+2970,Web Dev,Washington,3,7,Completed
+2971,Engineering,Alaska,6,6,Completed
+2972,Data Science,Illinois,9,4,Dropped Out
+2973,Design,Hawaii,6,8,Dropped Out
+2974,Engineering,California,9,2,Dropped Out
+2975,Web Dev,Michigan,3,7,Completed
+2976,Web Dev,Nebraska,6,3,Dropped Out
+2977,Marketing,California,6,3,Completed
+2978,Engineering,Hawaii,9,7,Dropped Out
+2979,Marketing,Alaska,6,3,Dropped Out
+2980,Data Science,Alaska,3,5,Completed
+2981,HR,New York,9,8,Completed
+2982,HR,Washington,6,4,Dropped Out
+2983,HR,Hawaii,3,7,Completed
+2984,Engineering,Alaska,6,7,Dropped Out
+2985,HR,New York,9,2,Dropped Out
+2986,Data Science,New York,6,8,Completed
+2987,Marketing,New York,3,10,Completed
+2988,Engineering,California,9,10,Dropped Out
+2989,Marketing,New York,6,9,Completed
+2990,Engineering,Illinois,6,6,Dropped Out
+2991,Marketing,Hawaii,3,5,Completed
+2992,Web Dev,Illinois,3,1,Dropped Out
+2993,Marketing,Nebraska,6,1,Completed
+2994,HR,Alaska,9,9,Completed
+2995,Web Dev,Washington,3,4,Completed
+2996,Marketing,New York,3,1,Completed
+2997,Engineering,Michigan,3,10,Completed
+2998,Engineering,Michigan,6,3,Completed
+2999,Engineering,Alaska,3,6,Dropped Out
+3000,Design,Nebraska,3,8,Completed
+3001,Data Science,Michigan,3,10,Completed
+3002,Engineering,Illinois,6,2,Dropped Out
+3003,Web Dev,Texas,3,8,Completed
+3004,Engineering,California,3,1,Completed
+3005,Design,New Jersey,9,2,Dropped Out
+3006,HR,Michigan,3,8,Completed
+3007,Web Dev,Washington,3,7,Completed
+3008,Design,New York,9,5,Dropped Out
+3009,HR,Washington,3,10,Completed
+3010,Web Dev,Hawaii,6,2,Completed
+3011,Marketing,California,3,9,Completed
+3012,Data Science,Illinois,6,5,Completed
+3013,Data Science,Nebraska,3,8,Completed
+3014,Design,California,9,4,Dropped Out
+3015,HR,New Jersey,3,9,Completed
+3016,Data Science,Texas,3,10,Completed
+3017,HR,Michigan,6,7,Dropped Out
+3018,HR,Nebraska,9,2,Dropped Out
+3019,Design,Nebraska,3,3,Dropped Out
+3020,Design,Michigan,9,2,Dropped Out
+3021,Design,Michigan,3,5,Completed
+3022,Data Science,Michigan,6,2,Completed
+3023,Design,Michigan,3,5,Dropped Out
+3024,Data Science,Michigan,6,9,Completed
+3025,Design,Nebraska,3,2,Dropped Out
+3026,Engineering,Alaska,3,9,Dropped Out
+3027,HR,Alaska,3,7,Completed
+3028,Design,Washington,3,7,Dropped Out
+3029,Web Dev,Alaska,9,5,Dropped Out
+3030,HR,New Jersey,9,8,Completed
+3031,HR,Alaska,6,7,Completed
+3032,Design,Nebraska,3,6,Dropped Out
+3033,Marketing,Michigan,3,2,Completed
+3034,Design,New York,6,6,Dropped Out
+3035,HR,New York,9,2,Dropped Out
+3036,Web Dev,New Jersey,3,1,Dropped Out
+3037,HR,Hawaii,9,9,Completed
+3038,Web Dev,Nebraska,9,5,Completed
+3039,Data Science,Illinois,9,10,Completed
+3040,Engineering,California,3,10,Completed
+3041,HR,Washington,3,4,Dropped Out
+3042,Design,Illinois,3,8,Dropped Out
+3043,Data Science,Nebraska,6,5,Completed
+3044,Engineering,Alaska,3,7,Completed
+3045,Design,Michigan,3,3,Dropped Out
+3046,Marketing,Illinois,6,8,Completed
+3047,Design,California,3,8,Completed
+3048,Web Dev,Hawaii,3,3,Dropped Out
+3049,Web Dev,New York,6,9,Completed
+3050,Marketing,Hawaii,6,8,Completed
+3051,Data Science,California,6,1,Completed
+3052,Engineering,Michigan,3,8,Completed
+3053,Design,Alaska,6,4,Dropped Out
+3054,Web Dev,California,6,6,Completed
+3055,Data Science,Washington,3,10,Completed
+3056,Marketing,California,6,9,Completed
+3057,HR,Nebraska,3,5,Completed
+3058,Web Dev,Alaska,3,7,Completed
+3059,Marketing,Michigan,3,1,Completed
+3060,Design,New York,3,9,Dropped Out
+3061,Engineering,New York,3,6,Dropped Out
+3062,Web Dev,California,9,4,Completed
+3063,Web Dev,Nebraska,3,6,Completed
+3064,Design,Illinois,9,5,Dropped Out
+3065,HR,Hawaii,6,3,Completed
+3066,Data Science,Hawaii,3,7,Completed
+3067,Engineering,Hawaii,3,3,Completed
+3068,Web Dev,Illinois,6,2,Dropped Out
+3069,Engineering,Nebraska,6,4,Completed
+3070,Web Dev,Hawaii,3,7,Completed
+3071,Engineering,Washington,3,5,Completed
+3072,Marketing,Illinois,6,9,Dropped Out
+3073,Web Dev,Illinois,3,10,Completed
+3074,Engineering,Michigan,9,7,Completed
+3075,Data Science,Michigan,6,9,Completed
+3076,Marketing,Alaska,3,9,Completed
+3077,Marketing,Washington,3,2,Completed
+3078,Data Science,Washington,3,1,Completed
+3079,Engineering,Alaska,9,4,Dropped Out
+3080,Design,Washington,3,4,Dropped Out
+3081,Data Science,New Jersey,3,2,Completed
+3082,Engineering,Texas,6,3,Dropped Out
+3083,Data Science,Hawaii,3,3,Completed
+3084,Data Science,Michigan,3,5,Completed
+3085,Web Dev,Alaska,9,1,Dropped Out
+3086,Engineering,Alaska,3,9,Dropped Out
+3087,Design,Washington,9,8,Completed
+3088,Web Dev,Illinois,9,8,Completed
+3089,Data Science,New York,3,3,Completed
+3090,HR,California,3,2,Dropped Out
+3091,Data Science,California,3,1,Dropped Out
+3092,Data Science,Alaska,6,6,Completed
+3093,Engineering,Hawaii,3,10,Completed
+3094,Engineering,New Jersey,9,1,Dropped Out
+3095,Web Dev,Hawaii,6,5,Completed
+3096,Design,Alaska,3,9,Dropped Out
+3097,Web Dev,Hawaii,6,9,Dropped Out
+3098,Marketing,Michigan,3,4,Completed
+3099,Data Science,Hawaii,9,7,Completed
+3100,HR,Washington,6,7,Completed
+3101,Data Science,Washington,3,4,Completed
+3102,Data Science,New Jersey,3,5,Completed
+3103,Web Dev,Michigan,9,9,Dropped Out
+3104,HR,New York,6,7,Completed
+3105,HR,Illinois,9,7,Completed
+3106,HR,Michigan,3,10,Completed
+3107,Web Dev,Nebraska,3,7,Completed
+3108,Data Science,Texas,3,9,Completed
+3109,Web Dev,Alaska,6,5,Dropped Out
+3110,Engineering,Nebraska,3,6,Dropped Out
+3111,Engineering,New Jersey,3,3,Completed
+3112,Web Dev,Nebraska,6,1,Dropped Out
+3113,HR,Washington,6,2,Completed
+3114,Data Science,Hawaii,3,8,Completed
+3115,Web Dev,Illinois,3,1,Dropped Out
+3116,Web Dev,California,6,10,Completed
+3117,Web Dev,Alaska,3,7,Completed
+3118,Marketing,California,3,5,Dropped Out
+3119,Engineering,Hawaii,3,6,Dropped Out
+3120,HR,Washington,6,8,Dropped Out
+3121,Design,Washington,9,4,Dropped Out
+3122,HR,Hawaii,3,6,Dropped Out
+3123,Design,Alaska,3,3,Dropped Out
+3124,Marketing,California,9,7,Completed
+3125,Web Dev,Michigan,9,2,Completed
+3126,Marketing,Washington,6,8,Completed
+3127,Marketing,California,9,7,Dropped Out
+3128,Data Science,New York,6,8,Completed
+3129,Engineering,California,6,2,Completed
+3130,Design,New York,3,3,Dropped Out
+3131,Web Dev,New York,3,4,Completed
+3132,Design,Washington,3,9,Completed
+3133,HR,Alaska,9,5,Dropped Out
+3134,Design,New Jersey,9,6,Dropped Out
+3135,HR,Washington,6,1,Dropped Out
+3136,Engineering,Alaska,3,4,Completed
+3137,HR,Alaska,3,4,Dropped Out
+3138,Design,Nebraska,3,10,Completed
+3139,Design,Hawaii,3,8,Completed
+3140,HR,Hawaii,6,8,Completed
+3141,Marketing,Hawaii,9,10,Completed
+3142,Engineering,Texas,3,6,Completed
+3143,Data Science,Washington,3,8,Completed
+3144,Web Dev,Alaska,6,9,Dropped Out
+3145,Design,Nebraska,3,5,Dropped Out
+3146,Web Dev,New York,9,1,Dropped Out
+3147,Data Science,New Jersey,3,1,Dropped Out
+3148,Web Dev,New Jersey,3,2,Completed
+3149,Data Science,New York,3,2,Completed
+3150,HR,California,3,5,Completed
+3151,Marketing,California,6,7,Completed
+3152,Design,Hawaii,3,7,Dropped Out
+3153,Data Science,Washington,3,4,Completed
+3154,Web Dev,Texas,3,4,Dropped Out
+3155,Design,Nebraska,3,10,Dropped Out
+3156,Marketing,New Jersey,3,3,Completed
+3157,HR,Hawaii,6,2,Dropped Out
+3158,Design,Illinois,6,3,Dropped Out
+3159,Data Science,Hawaii,9,8,Dropped Out
+3160,Marketing,Illinois,3,1,Dropped Out
+3161,Web Dev,Michigan,3,4,Completed
+3162,Marketing,Alaska,3,7,Completed
+3163,Marketing,New York,3,5,Completed
+3164,Engineering,Alaska,6,2,Dropped Out
+3165,Marketing,Hawaii,9,1,Dropped Out
+3166,Marketing,Alaska,6,6,Completed
+3167,Design,Nebraska,3,5,Completed
+3168,Web Dev,Michigan,3,3,Completed
+3169,Design,Texas,9,9,Dropped Out
+3170,Design,Michigan,3,3,Dropped Out
+3171,Data Science,New Jersey,3,2,Completed
+3172,Design,Nebraska,9,5,Dropped Out
+3173,Engineering,Alaska,6,9,Completed
+3174,Engineering,Texas,6,8,Completed
+3175,Data Science,Alaska,3,6,Completed
+3176,HR,Washington,3,3,Dropped Out
+3177,Web Dev,Washington,3,6,Completed
+3178,Web Dev,California,6,5,Completed
+3179,Design,Michigan,3,1,Dropped Out
+3180,Design,Texas,9,5,Dropped Out
+3181,HR,Washington,9,7,Completed
+3182,Design,California,6,9,Completed
+3183,Web Dev,Nebraska,3,1,Dropped Out
+3184,Marketing,Texas,3,3,Dropped Out
+3185,Engineering,California,6,8,Dropped Out
+3186,Marketing,New York,6,6,Dropped Out
+3187,Marketing,Texas,6,5,Completed
+3188,Web Dev,Hawaii,3,10,Completed
+3189,Marketing,California,6,2,Completed
+3190,HR,Alaska,6,3,Dropped Out
+3191,Data Science,Hawaii,3,2,Completed
+3192,Design,New York,6,1,Dropped Out
+3193,Data Science,Washington,6,7,Completed
+3194,Engineering,Illinois,3,3,Dropped Out
+3195,Design,California,3,7,Dropped Out
+3196,Marketing,Nebraska,6,7,Completed
+3197,Engineering,California,3,8,Completed
+3198,Design,Illinois,6,1,Dropped Out
+3199,HR,New York,6,5,Dropped Out
+3200,HR,New York,9,10,Completed
+3201,HR,Hawaii,6,9,Completed
+3202,HR,Texas,3,7,Completed
+3203,Marketing,Nebraska,3,1,Dropped Out
+3204,Data Science,Hawaii,9,8,Dropped Out
+3205,Design,Nebraska,3,3,Dropped Out
+3206,Marketing,Nebraska,6,4,Dropped Out
+3207,HR,Illinois,6,4,Dropped Out
+3208,Data Science,Hawaii,3,10,Completed
+3209,Engineering,Nebraska,3,8,Completed
+3210,Engineering,New Jersey,6,1,Dropped Out
+3211,Engineering,Illinois,9,8,Dropped Out
+3212,HR,New York,3,9,Completed
+3213,Engineering,Illinois,9,9,Completed
+3214,Web Dev,Alaska,6,5,Completed
+3215,Design,Alaska,9,4,Dropped Out
+3216,Design,Nebraska,3,4,Completed
+3217,HR,Hawaii,3,9,Completed
+3218,Web Dev,New York,9,8,Dropped Out
+3219,Marketing,Illinois,9,10,Completed
+3220,Marketing,Hawaii,3,10,Completed
+3221,Engineering,Illinois,6,7,Dropped Out
+3222,Data Science,Illinois,9,3,Dropped Out
+3223,Marketing,New Jersey,3,4,Completed
+3224,Data Science,Alaska,6,9,Completed
+3225,Design,Illinois,9,8,Dropped Out
+3226,Data Science,New Jersey,3,1,Completed
+3227,Design,Alaska,3,3,Dropped Out
+3228,Web Dev,New Jersey,6,10,Dropped Out
+3229,Web Dev,Hawaii,3,2,Dropped Out
+3230,HR,Texas,3,2,Completed
+3231,HR,Alaska,9,8,Completed
+3232,Engineering,Washington,6,6,Dropped Out
+3233,Marketing,Texas,9,6,Dropped Out
+3234,Engineering,Hawaii,9,4,Dropped Out
+3235,Design,Illinois,3,1,Dropped Out
+3236,Engineering,New York,3,7,Completed
+3237,Data Science,Hawaii,3,8,Completed
+3238,Design,New Jersey,3,2,Completed
+3239,HR,New Jersey,6,2,Completed
+3240,Web Dev,New Jersey,6,1,Dropped Out
+3241,HR,New Jersey,3,4,Completed
+3242,Marketing,Hawaii,3,6,Completed
+3243,Design,New York,3,5,Completed
+3244,Design,California,6,4,Dropped Out
+3245,Data Science,New Jersey,3,4,Completed
+3246,Marketing,California,3,10,Completed
+3247,Web Dev,New York,6,7,Dropped Out
+3248,Design,New York,3,7,Completed
+3249,Design,Texas,3,2,Completed
+3250,Data Science,Alaska,6,7,Completed
+3251,Engineering,Washington,3,2,Dropped Out
+3252,Web Dev,Nebraska,6,4,Completed
+3253,HR,Washington,3,1,Completed
+3254,Marketing,Hawaii,3,5,Completed
+3255,Design,Nebraska,3,1,Dropped Out
+3256,Design,New York,9,4,Dropped Out
+3257,HR,Washington,6,9,Dropped Out
+3258,Web Dev,Michigan,9,8,Dropped Out
+3259,Engineering,Alaska,6,6,Completed
+3260,Design,Washington,6,8,Completed
+3261,Web Dev,Alaska,3,5,Dropped Out
+3262,HR,California,3,7,Completed
+3263,Data Science,Hawaii,3,8,Completed
+3264,Engineering,Alaska,3,7,Completed
+3265,Marketing,California,3,4,Completed
+3266,Design,New Jersey,3,5,Completed
+3267,Web Dev,California,3,10,Completed
+3268,Data Science,Hawaii,3,6,Completed
+3269,Marketing,Texas,3,6,Completed
+3270,Web Dev,New Jersey,6,9,Completed
+3271,Web Dev,New York,9,10,Completed
+3272,Marketing,Illinois,3,2,Completed
+3273,Data Science,California,3,6,Completed
+3274,HR,California,3,3,Completed
+3275,Data Science,Alaska,9,2,Completed
+3276,Engineering,New York,3,6,Completed
+3277,Design,Washington,6,4,Dropped Out
+3278,Marketing,Michigan,3,5,Dropped Out
+3279,HR,Nebraska,3,5,Completed
+3280,Marketing,California,3,3,Dropped Out
+3281,Marketing,Washington,3,4,Dropped Out
+3282,Data Science,Michigan,9,3,Dropped Out
+3283,Design,Nebraska,3,7,Completed
+3284,Engineering,Illinois,6,1,Dropped Out
+3285,Web Dev,Alaska,6,6,Dropped Out
+3286,Web Dev,Washington,6,4,Dropped Out
+3287,Marketing,Alaska,3,1,Dropped Out
+3288,Design,Nebraska,3,1,Dropped Out
+3289,HR,Texas,3,5,Completed
+3290,Data Science,California,3,5,Completed
+3291,Design,New Jersey,6,10,Dropped Out
+3292,Design,Michigan,3,7,Completed
+3293,Data Science,New York,6,4,Completed
+3294,Marketing,Hawaii,3,9,Completed
+3295,Design,California,9,4,Dropped Out
+3296,Web Dev,New Jersey,3,7,Completed
+3297,Data Science,Hawaii,3,5,Dropped Out
+3298,HR,Washington,9,5,Dropped Out
+3299,Engineering,Hawaii,3,6,Completed
+3300,Marketing,Illinois,9,8,Dropped Out
+3301,Data Science,California,3,5,Completed
+3302,Engineering,Alaska,3,3,Dropped Out
+3303,Engineering,Texas,6,6,Dropped Out
+3304,HR,New York,9,2,Dropped Out
+3305,Design,Alaska,3,8,Completed
+3306,HR,New Jersey,9,8,Completed
+3307,Design,California,6,3,Completed
+3308,Design,Texas,9,8,Dropped Out
+3309,Data Science,Hawaii,3,9,Completed
+3310,Data Science,California,3,5,Completed
+3311,Marketing,Hawaii,9,5,Completed
+3312,Design,Washington,9,6,Dropped Out
+3313,Engineering,Illinois,3,7,Completed
+3314,Web Dev,Nebraska,3,3,Completed
+3315,Marketing,California,3,5,Dropped Out
+3316,Data Science,New Jersey,6,1,Completed
+3317,HR,Hawaii,3,10,Completed
+3318,Marketing,Alaska,3,5,Dropped Out
+3319,Marketing,Washington,3,4,Completed
+3320,Marketing,New Jersey,6,1,Dropped Out
+3321,Marketing,New York,3,7,Completed
+3322,Web Dev,Nebraska,3,1,Dropped Out
+3323,HR,Washington,6,8,Completed
+3324,HR,Illinois,6,10,Dropped Out
+3325,HR,Nebraska,3,2,Dropped Out
+3326,Design,Hawaii,3,10,Completed
+3327,Engineering,New Jersey,6,5,Completed
+3328,HR,New York,9,6,Dropped Out
+3329,Marketing,Michigan,6,9,Dropped Out
+3330,Marketing,Illinois,9,7,Dropped Out
+3331,HR,Texas,6,6,Dropped Out
+3332,HR,Hawaii,6,5,Dropped Out
+3333,Marketing,Michigan,3,6,Completed
+3334,Design,California,3,4,Dropped Out
+3335,Data Science,New York,3,1,Dropped Out
+3336,Data Science,Alaska,3,9,Completed
+3337,HR,Texas,6,5,Completed
+3338,Web Dev,New Jersey,3,8,Completed
+3339,HR,New York,6,7,Completed
+3340,HR,Nebraska,3,8,Completed
+3341,Data Science,Washington,3,1,Dropped Out
+3342,Marketing,Nebraska,9,9,Completed
+3343,HR,Nebraska,3,1,Completed
+3344,Marketing,California,3,3,Completed
+3345,Marketing,Illinois,3,8,Dropped Out
+3346,Web Dev,Alaska,9,1,Dropped Out
+3347,Marketing,Texas,3,1,Completed
+3348,Data Science,Illinois,6,6,Completed
+3349,Design,New York,3,5,Dropped Out
+3350,Design,Nebraska,6,6,Dropped Out
+3351,Engineering,California,3,3,Completed
+3352,HR,New York,6,10,Completed
+3353,Data Science,Washington,9,10,Completed
+3354,Marketing,Alaska,6,6,Completed
+3355,Design,Texas,6,2,Dropped Out
+3356,Data Science,Washington,6,8,Completed
+3357,Design,California,6,6,Dropped Out
+3358,Marketing,Alaska,3,4,Dropped Out
+3359,Design,New York,6,4,Dropped Out
+3360,HR,Nebraska,3,7,Dropped Out
+3361,HR,Nebraska,3,3,Completed
+3362,Engineering,Hawaii,3,3,Completed
+3363,Engineering,Nebraska,3,6,Completed
+3364,Design,Michigan,3,9,Completed
+3365,Data Science,Nebraska,6,1,Completed
+3366,HR,Michigan,3,5,Dropped Out
+3367,Data Science,New Jersey,3,1,Dropped Out
+3368,Data Science,Michigan,6,1,Completed
+3369,Design,Alaska,3,3,Completed
+3370,Data Science,Washington,6,3,Completed
+3371,HR,Alaska,6,4,Dropped Out
+3372,Marketing,Washington,9,3,Dropped Out
+3373,Engineering,Hawaii,6,6,Dropped Out
+3374,Marketing,New Jersey,3,4,Dropped Out
+3375,Data Science,Washington,3,8,Completed
+3376,Marketing,Washington,3,1,Dropped Out
+3377,HR,California,9,8,Completed
+3378,HR,Illinois,3,1,Dropped Out
+3379,Data Science,Illinois,3,1,Completed
+3380,Design,California,3,7,Completed
+3381,Marketing,Nebraska,9,1,Dropped Out
+3382,Design,California,3,9,Completed
+3383,Design,Washington,9,8,Dropped Out
+3384,Web Dev,Washington,3,1,Completed
+3385,Data Science,California,3,2,Completed
+3386,Engineering,California,3,2,Dropped Out
+3387,HR,Nebraska,9,2,Dropped Out
+3388,HR,Alaska,9,6,Dropped Out
+3389,Data Science,New Jersey,3,4,Completed
+3390,Engineering,New York,3,8,Completed
+3391,HR,Washington,6,1,Dropped Out
+3392,Data Science,New Jersey,3,10,Completed
+3393,HR,California,3,4,Dropped Out
+3394,Design,Nebraska,3,10,Completed
+3395,Marketing,Michigan,3,5,Completed
+3396,Marketing,Nebraska,3,9,Completed
+3397,HR,Texas,3,5,Completed
+3398,Web Dev,Texas,3,3,Completed
+3399,Engineering,New Jersey,9,4,Completed
+3400,Engineering,Illinois,3,10,Completed
+3401,Engineering,Texas,6,7,Completed
+3402,Design,Texas,3,1,Dropped Out
+3403,Engineering,Alaska,6,6,Completed
+3404,Marketing,Michigan,3,8,Completed
+3405,Design,Alaska,6,1,Completed
+3406,Data Science,Michigan,3,8,Completed
+3407,Engineering,Hawaii,9,7,Completed
+3408,Engineering,New York,3,1,Completed
+3409,Data Science,Washington,3,9,Completed
+3410,Engineering,Texas,9,3,Dropped Out
+3411,Data Science,Washington,6,2,Dropped Out
+3412,Design,Texas,3,7,Completed
+3413,Marketing,Alaska,9,3,Dropped Out
+3414,Data Science,New York,3,1,Completed
+3415,Web Dev,Alaska,3,10,Completed
+3416,Data Science,Alaska,9,3,Dropped Out
+3417,Engineering,Michigan,3,6,Completed
+3418,Design,Illinois,9,3,Dropped Out
+3419,HR,Nebraska,3,5,Dropped Out
+3420,Design,New Jersey,6,9,Completed
+3421,HR,Washington,6,7,Dropped Out
+3422,Data Science,Hawaii,9,2,Dropped Out
+3423,Marketing,Texas,6,1,Dropped Out
+3424,Web Dev,Alaska,3,7,Dropped Out
+3425,Design,Illinois,6,4,Completed
+3426,Engineering,Alaska,3,7,Completed
+3427,HR,New York,6,6,Completed
+3428,Engineering,Michigan,9,7,Completed
+3429,Marketing,Hawaii,3,4,Completed
+3430,HR,Nebraska,6,3,Completed
+3431,Design,New York,3,5,Dropped Out
+3432,Data Science,California,3,3,Completed
+3433,Engineering,Hawaii,3,3,Completed
+3434,Marketing,Alaska,6,4,Completed
+3435,Design,New York,3,8,Dropped Out
+3436,Design,Nebraska,6,2,Dropped Out
+3437,Design,Illinois,3,4,Dropped Out
+3438,Design,Illinois,6,3,Dropped Out
+3439,HR,Washington,3,7,Completed
+3440,Design,Nebraska,9,2,Dropped Out
+3441,Engineering,Illinois,3,1,Dropped Out
+3442,Marketing,New York,6,10,Dropped Out
+3443,HR,Washington,3,1,Dropped Out
+3444,Design,Illinois,6,6,Dropped Out
+3445,Web Dev,Hawaii,3,3,Completed
+3446,Web Dev,Michigan,6,7,Completed
+3447,Marketing,California,3,8,Completed
+3448,Data Science,Nebraska,6,5,Completed
+3449,Data Science,New York,3,5,Completed
+3450,HR,Texas,3,2,Completed
+3451,HR,Alaska,3,8,Completed
+3452,HR,New York,3,10,Completed
+3453,Data Science,Illinois,3,1,Completed
+3454,Web Dev,New York,9,10,Dropped Out
+3455,Data Science,Texas,9,9,Completed
+3456,Engineering,Alaska,6,1,Completed
+3457,Design,Washington,3,1,Dropped Out
+3458,HR,Illinois,3,1,Dropped Out
+3459,Web Dev,New Jersey,6,7,Dropped Out
+3460,Marketing,Illinois,3,4,Completed
+3461,Marketing,California,9,7,Completed
+3462,Design,New Jersey,3,5,Dropped Out
+3463,Web Dev,California,9,7,Completed
+3464,Data Science,Texas,3,10,Completed
+3465,Data Science,Nebraska,6,7,Completed
+3466,Engineering,Alaska,3,4,Completed
+3467,Engineering,Michigan,9,2,Dropped Out
+3468,Data Science,Washington,3,8,Completed
+3469,Marketing,Michigan,6,2,Dropped Out
+3470,HR,Hawaii,9,9,Completed
+3471,Marketing,Hawaii,3,5,Completed
+3472,Engineering,Texas,3,9,Completed
+3473,Design,Nebraska,3,9,Completed
+3474,Data Science,Hawaii,3,8,Completed
+3475,Engineering,Illinois,3,8,Completed
+3476,Engineering,New York,3,4,Dropped Out
+3477,HR,California,3,4,Completed
+3478,Data Science,Hawaii,6,2,Dropped Out
+3479,HR,Texas,6,4,Completed
+3480,Data Science,California,3,4,Completed
+3481,HR,Illinois,9,6,Completed
+3482,Marketing,Nebraska,9,3,Dropped Out
+3483,Design,Alaska,6,2,Dropped Out
+3484,Design,Michigan,3,8,Completed
+3485,Data Science,Illinois,3,2,Completed
+3486,Web Dev,Washington,6,8,Completed
+3487,Engineering,New Jersey,6,7,Completed
+3488,Engineering,Texas,3,3,Completed
+3489,Data Science,Michigan,6,6,Completed
+3490,HR,Washington,3,6,Completed
+3491,Web Dev,Alaska,3,10,Completed
+3492,Marketing,Washington,6,5,Completed
+3493,HR,Nebraska,6,8,Completed
+3494,HR,New Jersey,3,5,Completed
+3495,Data Science,California,6,7,Completed
+3496,Data Science,Michigan,9,6,Completed
+3497,Engineering,New Jersey,6,7,Completed
+3498,Data Science,New York,6,9,Completed
+3499,Data Science,Illinois,3,3,Completed
+3500,Data Science,New York,3,10,Completed
+3501,Engineering,Illinois,3,7,Dropped Out
+3502,Marketing,Nebraska,6,10,Completed
+3503,Marketing,New Jersey,6,3,Dropped Out
+3504,Data Science,Alaska,3,2,Completed
+3505,Engineering,Hawaii,3,7,Completed
+3506,Marketing,Washington,3,4,Dropped Out
+3507,HR,Hawaii,3,1,Dropped Out
+3508,Marketing,New Jersey,9,6,Dropped Out
+3509,Marketing,New York,6,6,Completed
+3510,Engineering,Hawaii,3,6,Completed
+3511,HR,Texas,6,2,Completed
+3512,Engineering,Hawaii,6,1,Dropped Out
+3513,Data Science,Illinois,6,3,Completed
+3514,Design,Texas,3,2,Dropped Out
+3515,Marketing,Michigan,3,6,Completed
+3516,Design,Hawaii,3,6,Dropped Out
+3517,Engineering,Texas,9,5,Dropped Out
+3518,Engineering,New Jersey,6,10,Dropped Out
+3519,Engineering,Washington,6,10,Completed
+3520,Design,Michigan,3,5,Completed
+3521,Engineering,Alaska,3,9,Completed
+3522,Data Science,Alaska,3,5,Completed
+3523,Engineering,Nebraska,9,10,Dropped Out
+3524,Web Dev,Hawaii,3,6,Dropped Out
+3525,Design,Washington,3,4,Completed
+3526,Web Dev,California,9,10,Dropped Out
+3527,Engineering,Texas,6,1,Completed
+3528,Data Science,Michigan,6,4,Completed
+3529,Marketing,New Jersey,3,2,Completed
+3530,HR,Hawaii,6,10,Completed
+3531,HR,New Jersey,3,3,Completed
+3532,Engineering,California,6,7,Completed
+3533,Data Science,Nebraska,3,7,Completed
+3534,Design,California,3,1,Dropped Out
+3535,Web Dev,Illinois,6,8,Dropped Out
+3536,Web Dev,New York,6,7,Completed
+3537,Web Dev,Michigan,6,1,Completed
+3538,Design,New York,3,8,Dropped Out
+3539,HR,California,3,2,Completed
+3540,Data Science,Nebraska,6,8,Completed
+3541,Design,Nebraska,6,3,Dropped Out
+3542,Web Dev,Alaska,9,10,Completed
+3543,Engineering,Hawaii,6,7,Dropped Out
+3544,Marketing,Alaska,3,6,Completed
+3545,Design,Michigan,9,5,Dropped Out
+3546,Design,Michigan,3,10,Completed
+3547,Data Science,Michigan,3,2,Completed
+3548,Data Science,New Jersey,3,2,Completed
+3549,Design,Alaska,3,1,Completed
+3550,Web Dev,New Jersey,6,9,Completed
+3551,Marketing,New York,6,8,Dropped Out
+3552,Data Science,Hawaii,6,8,Completed
+3553,Web Dev,California,3,1,Completed
+3554,Engineering,Texas,3,5,Dropped Out
+3555,Data Science,Alaska,3,6,Completed
+3556,Web Dev,Texas,6,2,Completed
+3557,Web Dev,Nebraska,3,10,Completed
+3558,Marketing,Alaska,9,5,Completed
+3559,Marketing,New York,3,6,Dropped Out
+3560,Engineering,Alaska,3,9,Completed
+3561,Web Dev,New Jersey,6,10,Dropped Out
+3562,HR,Hawaii,9,1,Dropped Out
+3563,Web Dev,California,3,10,Completed
+3564,Marketing,Washington,6,3,Completed
+3565,HR,California,9,9,Completed
+3566,Data Science,California,9,1,Completed
+3567,Data Science,Nebraska,6,1,Dropped Out
+3568,Design,New York,6,1,Dropped Out
+3569,Marketing,Texas,3,7,Completed
+3570,Design,New York,9,5,Dropped Out
+3571,HR,Washington,3,6,Dropped Out
+3572,Marketing,Nebraska,9,8,Completed
+3573,Engineering,Hawaii,3,2,Completed
+3574,Web Dev,California,3,2,Dropped Out
+3575,Engineering,New Jersey,6,3,Dropped Out
+3576,HR,Nebraska,3,3,Dropped Out
+3577,Marketing,Michigan,3,3,Completed
+3578,HR,Alaska,6,4,Dropped Out
+3579,Web Dev,New York,6,3,Dropped Out
+3580,Data Science,Nebraska,6,2,Completed
+3581,Data Science,Michigan,3,9,Completed
+3582,HR,Texas,6,6,Completed
+3583,Design,Washington,3,3,Completed
+3584,Marketing,Washington,3,9,Completed
+3585,Marketing,California,6,4,Dropped Out
+3586,Data Science,California,9,4,Dropped Out
+3587,Engineering,Nebraska,3,8,Completed
+3588,Web Dev,Nebraska,6,7,Completed
+3589,Engineering,Hawaii,3,7,Completed
+3590,Engineering,Alaska,3,10,Completed
+3591,HR,Illinois,3,7,Dropped Out
+3592,Data Science,Texas,9,10,Dropped Out
+3593,Data Science,California,9,5,Dropped Out
+3594,Data Science,Illinois,6,7,Completed
+3595,HR,Illinois,6,4,Completed
+3596,Design,Alaska,6,8,Completed
+3597,Engineering,New Jersey,3,9,Completed
+3598,HR,New Jersey,3,3,Completed
+3599,Marketing,California,3,7,Completed
+3600,Web Dev,Michigan,6,10,Dropped Out
+3601,Design,Alaska,9,9,Dropped Out
+3602,Marketing,Alaska,3,1,Completed
+3603,Engineering,New York,3,2,Completed
+3604,Data Science,Illinois,3,7,Completed
+3605,Engineering,New York,9,2,Dropped Out
+3606,HR,Illinois,3,7,Completed
+3607,Web Dev,New Jersey,3,1,Dropped Out
+3608,HR,California,6,3,Dropped Out
+3609,Design,Texas,6,5,Completed
+3610,Design,New Jersey,3,6,Completed
+3611,Web Dev,Alaska,3,9,Completed
+3612,Marketing,Texas,6,9,Dropped Out
+3613,Marketing,Nebraska,3,3,Completed
+3614,Design,Texas,9,8,Dropped Out
+3615,Design,Texas,6,4,Dropped Out
+3616,Data Science,New Jersey,3,7,Completed
+3617,Marketing,Alaska,3,6,Dropped Out
+3618,Web Dev,Texas,3,8,Completed
+3619,Marketing,New Jersey,3,6,Completed
+3620,Data Science,New Jersey,9,4,Completed
+3621,HR,Texas,9,2,Dropped Out
+3622,Design,Illinois,3,7,Dropped Out
+3623,Design,Alaska,3,4,Dropped Out
+3624,Data Science,Washington,3,9,Completed
+3625,Web Dev,Texas,3,9,Completed
+3626,Design,New York,6,7,Dropped Out
+3627,Engineering,New York,3,5,Completed
+3628,Design,Nebraska,9,3,Dropped Out
+3629,Engineering,Alaska,3,3,Completed
+3630,Data Science,New Jersey,6,9,Completed
+3631,Data Science,Hawaii,9,9,Completed
+3632,Design,California,3,4,Dropped Out
+3633,Marketing,Michigan,3,1,Dropped Out
+3634,Engineering,Hawaii,3,10,Completed
+3635,Web Dev,Alaska,3,5,Completed
+3636,Design,Alaska,9,8,Completed
+3637,Web Dev,Texas,9,10,Completed
+3638,Design,Texas,9,4,Dropped Out
+3639,Marketing,Hawaii,9,10,Dropped Out
+3640,Marketing,New Jersey,3,10,Completed
+3641,Marketing,Nebraska,9,4,Dropped Out
+3642,HR,Texas,9,9,Completed
+3643,Marketing,Michigan,3,9,Completed
+3644,Data Science,Michigan,3,7,Completed
+3645,Data Science,Nebraska,6,10,Completed
+3646,HR,Illinois,3,8,Completed
+3647,Engineering,Illinois,3,4,Completed
+3648,Web Dev,Alaska,9,8,Completed
+3649,Design,Texas,9,6,Dropped Out
+3650,Design,New York,3,3,Dropped Out
+3651,HR,Hawaii,3,7,Completed
+3652,Data Science,Washington,9,3,Dropped Out
+3653,Design,Nebraska,6,7,Dropped Out
+3654,Data Science,Alaska,3,5,Completed
+3655,Engineering,New York,6,4,Dropped Out
+3656,Web Dev,Texas,9,3,Dropped Out
+3657,Engineering,New York,9,8,Dropped Out
+3658,HR,New York,3,4,Dropped Out
+3659,Marketing,Nebraska,3,8,Completed
+3660,Marketing,Alaska,9,10,Dropped Out
+3661,Marketing,New Jersey,3,3,Completed
+3662,Engineering,Michigan,6,10,Completed
+3663,Design,Hawaii,3,9,Dropped Out
+3664,Web Dev,Alaska,3,6,Dropped Out
+3665,Marketing,Washington,3,5,Dropped Out
+3666,HR,New York,3,5,Completed
+3667,HR,New Jersey,9,3,Dropped Out
+3668,Marketing,Nebraska,3,2,Dropped Out
+3669,Marketing,California,9,6,Completed
+3670,Web Dev,Hawaii,9,1,Dropped Out
+3671,Marketing,Hawaii,3,7,Completed
+3672,Web Dev,Michigan,6,5,Completed
+3673,HR,California,3,4,Completed
+3674,Marketing,Texas,6,9,Completed
+3675,Engineering,California,6,10,Completed
+3676,Engineering,New York,3,1,Completed
+3677,HR,New York,3,4,Dropped Out
+3678,Web Dev,New York,6,3,Completed
+3679,Engineering,New York,9,6,Dropped Out
+3680,Web Dev,Alaska,3,5,Dropped Out
+3681,Engineering,Hawaii,6,7,Completed
+3682,Engineering,California,3,1,Dropped Out
+3683,Web Dev,Hawaii,9,5,Dropped Out
+3684,Design,Washington,3,2,Dropped Out
+3685,Engineering,California,6,2,Dropped Out
+3686,Marketing,Alaska,3,2,Dropped Out
+3687,HR,Washington,6,9,Dropped Out
+3688,Design,Hawaii,9,10,Completed
+3689,Web Dev,Washington,6,3,Dropped Out
+3690,Design,Michigan,6,4,Completed
+3691,Data Science,Washington,6,5,Completed
+3692,Data Science,California,9,4,Completed
+3693,Engineering,New York,6,4,Dropped Out
+3694,Engineering,New York,9,5,Dropped Out
+3695,Marketing,Texas,6,10,Completed
+3696,HR,Hawaii,6,9,Completed
+3697,Design,Michigan,3,9,Dropped Out
+3698,Data Science,California,6,6,Completed
+3699,Engineering,California,3,3,Completed
+3700,HR,Nebraska,9,6,Dropped Out
+3701,Design,Illinois,6,10,Dropped Out
+3702,Engineering,Hawaii,9,4,Completed
+3703,Engineering,California,3,3,Completed
+3704,Data Science,New Jersey,3,6,Completed
+3705,Data Science,California,9,6,Dropped Out
+3706,Engineering,Nebraska,3,2,Completed
+3707,Web Dev,Washington,3,9,Completed
+3708,Engineering,Alaska,9,8,Completed
+3709,HR,Alaska,6,6,Completed
+3710,Engineering,New Jersey,3,1,Dropped Out
+3711,Marketing,New Jersey,9,2,Dropped Out
+3712,Marketing,Texas,3,4,Dropped Out
+3713,Marketing,Alaska,9,7,Dropped Out
+3714,Web Dev,Washington,3,9,Completed
+3715,Web Dev,Alaska,6,10,Dropped Out
+3716,Engineering,Illinois,3,5,Completed
+3717,Marketing,Hawaii,6,10,Completed
+3718,Web Dev,Alaska,3,2,Dropped Out
+3719,Data Science,New York,9,1,Dropped Out
+3720,Engineering,Texas,3,10,Completed
+3721,HR,Nebraska,3,1,Dropped Out
+3722,Design,New Jersey,6,5,Completed
+3723,Engineering,Illinois,3,7,Completed
+3724,Design,New Jersey,3,9,Completed
+3725,Marketing,Texas,3,9,Dropped Out
+3726,Design,California,3,8,Completed
+3727,Marketing,Illinois,3,1,Completed
+3728,Data Science,Michigan,3,5,Dropped Out
+3729,Design,Illinois,3,6,Dropped Out
+3730,Engineering,Texas,6,6,Dropped Out
+3731,Marketing,Nebraska,6,4,Completed
+3732,Engineering,Illinois,3,1,Completed
+3733,Web Dev,Texas,9,3,Dropped Out
+3734,Marketing,Washington,9,10,Dropped Out
+3735,Design,Hawaii,3,4,Dropped Out
+3736,Marketing,Alaska,3,4,Dropped Out
+3737,Engineering,Washington,9,4,Dropped Out
+3738,Data Science,Texas,3,5,Completed
+3739,Marketing,New York,3,9,Completed
+3740,Design,California,3,4,Completed
+3741,Web Dev,Alaska,6,9,Completed
+3742,HR,New York,3,9,Completed
+3743,Data Science,Nebraska,6,1,Dropped Out
+3744,Web Dev,New Jersey,6,5,Dropped Out
+3745,Marketing,Michigan,6,9,Completed
+3746,Engineering,Alaska,9,4,Completed
+3747,Engineering,Washington,3,5,Completed
+3748,Design,California,6,4,Dropped Out
+3749,Engineering,New York,3,2,Dropped Out
+3750,Data Science,Texas,3,10,Completed
+3751,Engineering,Alaska,3,2,Dropped Out
+3752,Design,New Jersey,3,2,Dropped Out
+3753,HR,Texas,3,1,Completed
+3754,Marketing,New York,3,3,Completed
+3755,Marketing,California,3,10,Completed
+3756,Engineering,Illinois,6,1,Completed
+3757,Web Dev,New Jersey,3,4,Completed
+3758,Marketing,Texas,6,1,Dropped Out
+3759,HR,New Jersey,3,4,Completed
+3760,Engineering,Nebraska,3,3,Completed
+3761,Design,Texas,3,9,Completed
+3762,HR,Alaska,3,1,Completed
+3763,Engineering,Illinois,6,8,Dropped Out
+3764,HR,Illinois,3,9,Completed
+3765,Marketing,Michigan,9,7,Completed
+3766,Design,New Jersey,9,1,Dropped Out
+3767,Engineering,Washington,3,4,Completed
+3768,Data Science,Illinois,6,10,Completed
+3769,Design,Illinois,3,1,Dropped Out
+3770,Data Science,Nebraska,6,4,Dropped Out
+3771,HR,Hawaii,6,3,Completed
+3772,Web Dev,Nebraska,3,2,Dropped Out
+3773,Design,Nebraska,3,1,Dropped Out
+3774,HR,Hawaii,3,6,Completed
+3775,Data Science,New Jersey,3,7,Completed
+3776,Marketing,Texas,6,6,Dropped Out
+3777,Marketing,California,3,9,Completed
+3778,Web Dev,Washington,3,9,Completed
+3779,Design,Illinois,3,2,Dropped Out
+3780,Design,Michigan,6,2,Dropped Out
+3781,Design,Washington,3,9,Dropped Out
+3782,HR,Texas,6,1,Dropped Out
+3783,Web Dev,Hawaii,6,5,Dropped Out
+3784,Design,Washington,6,1,Dropped Out
+3785,HR,Illinois,6,7,Dropped Out
+3786,Marketing,Washington,3,9,Dropped Out
+3787,Data Science,California,3,6,Completed
+3788,HR,Hawaii,6,2,Completed
+3789,Marketing,Washington,9,6,Dropped Out
+3790,Marketing,Illinois,6,9,Completed
+3791,Data Science,Illinois,3,3,Completed
+3792,Marketing,Washington,3,9,Completed
+3793,Web Dev,New Jersey,9,8,Dropped Out
+3794,Data Science,Michigan,3,7,Completed
+3795,Marketing,New York,3,8,Completed
+3796,Engineering,Nebraska,3,10,Completed
+3797,HR,Hawaii,9,6,Completed
+3798,Marketing,New York,3,3,Dropped Out
+3799,Web Dev,Texas,3,7,Completed
+3800,Design,Texas,6,4,Dropped Out
+3801,Marketing,Illinois,3,10,Completed
+3802,Design,Texas,9,5,Dropped Out
+3803,Engineering,New Jersey,6,8,Dropped Out
+3804,Marketing,Michigan,3,7,Completed
+3805,Data Science,Texas,9,7,Completed
+3806,Design,California,9,8,Completed
+3807,Engineering,Michigan,3,10,Completed
+3808,Data Science,New Jersey,3,3,Completed
+3809,Data Science,New York,9,3,Dropped Out
+3810,Data Science,Michigan,3,2,Dropped Out
+3811,Data Science,Michigan,9,1,Dropped Out
+3812,Marketing,New York,9,10,Completed
+3813,HR,New Jersey,3,6,Completed
+3814,Marketing,Texas,9,6,Completed
+3815,Marketing,Illinois,3,10,Completed
+3816,Engineering,Hawaii,6,8,Completed
+3817,Engineering,New York,3,6,Completed
+3818,HR,New York,9,6,Dropped Out
+3819,Engineering,New York,6,1,Dropped Out
+3820,Web Dev,New York,6,7,Dropped Out
+3821,HR,Hawaii,9,7,Completed
+3822,Engineering,Hawaii,6,10,Completed
+3823,HR,Texas,3,9,Completed
+3824,Marketing,Washington,9,7,Dropped Out
+3825,Marketing,Washington,6,8,Completed
+3826,HR,Alaska,9,4,Dropped Out
+3827,Web Dev,New York,9,9,Dropped Out
+3828,Web Dev,New York,3,1,Completed
+3829,HR,Michigan,3,8,Completed
+3830,Engineering,Washington,3,3,Dropped Out
+3831,Design,Texas,6,1,Dropped Out
+3832,Web Dev,Illinois,3,2,Dropped Out
+3833,Data Science,Alaska,6,6,Completed
+3834,Marketing,Alaska,3,5,Dropped Out
+3835,HR,Texas,3,3,Dropped Out
+3836,Data Science,Illinois,3,9,Completed
+3837,HR,Michigan,3,8,Dropped Out
+3838,Marketing,Hawaii,6,3,Dropped Out
+3839,Marketing,Nebraska,3,2,Completed
+3840,Web Dev,Washington,3,8,Completed
+3841,Web Dev,New York,3,5,Dropped Out
+3842,Data Science,Texas,6,9,Completed
+3843,HR,Washington,9,1,Dropped Out
+3844,Marketing,New York,3,10,Completed
+3845,Data Science,Nebraska,6,3,Completed
+3846,Design,Nebraska,3,5,Dropped Out
+3847,Data Science,Hawaii,3,2,Dropped Out
+3848,Engineering,New Jersey,6,3,Dropped Out
+3849,Data Science,Nebraska,3,4,Completed
+3850,Engineering,Washington,6,4,Dropped Out
+3851,Engineering,California,3,9,Completed
+3852,Engineering,California,9,1,Dropped Out
+3853,Design,New York,3,9,Completed
+3854,Data Science,New York,6,9,Completed
+3855,Data Science,New Jersey,9,6,Completed
+3856,Design,California,3,1,Dropped Out
+3857,Marketing,New York,3,6,Dropped Out
+3858,Web Dev,Nebraska,3,8,Dropped Out
+3859,Data Science,New York,6,5,Dropped Out
+3860,Web Dev,Alaska,3,5,Completed
+3861,HR,New Jersey,3,1,Completed
+3862,HR,Texas,6,1,Dropped Out
+3863,Design,Illinois,3,8,Dropped Out
+3864,HR,Michigan,6,5,Dropped Out
+3865,HR,Illinois,3,8,Dropped Out
+3866,Marketing,Illinois,3,10,Dropped Out
+3867,Marketing,Hawaii,6,2,Dropped Out
+3868,Marketing,Texas,6,4,Dropped Out
+3869,HR,New York,3,10,Dropped Out
+3870,Design,Hawaii,3,9,Dropped Out
+3871,Engineering,Illinois,3,3,Dropped Out
+3872,Engineering,Alaska,3,6,Dropped Out
+3873,Web Dev,Michigan,3,7,Completed
+3874,Engineering,Illinois,3,3,Dropped Out
+3875,Engineering,California,6,1,Completed
+3876,Marketing,Texas,6,2,Completed
+3877,Marketing,Texas,3,10,Completed
+3878,HR,Texas,3,7,Completed
+3879,Web Dev,New Jersey,3,7,Completed
+3880,Data Science,New Jersey,6,1,Completed
+3881,Web Dev,Nebraska,9,10,Dropped Out
+3882,Web Dev,Washington,6,7,Dropped Out
+3883,Design,Michigan,6,10,Completed
+3884,HR,Hawaii,9,6,Dropped Out
+3885,Design,New York,3,6,Completed
+3886,Web Dev,Illinois,3,7,Completed
+3887,Web Dev,Washington,6,7,Dropped Out
+3888,Web Dev,New York,3,1,Dropped Out
+3889,Engineering,Hawaii,6,10,Dropped Out
+3890,Design,Washington,6,5,Completed
+3891,Web Dev,New York,6,8,Completed
+3892,Marketing,Alaska,3,8,Completed
+3893,HR,New Jersey,6,3,Dropped Out
+3894,HR,Hawaii,6,3,Dropped Out
+3895,Marketing,Michigan,9,7,Completed
+3896,HR,California,6,4,Dropped Out
+3897,Engineering,Alaska,9,6,Completed
+3898,Engineering,New Jersey,3,9,Completed
+3899,Data Science,Texas,3,10,Completed
+3900,Data Science,New Jersey,3,2,Completed
+3901,Data Science,Washington,3,2,Dropped Out
+3902,HR,Nebraska,9,6,Completed
+3903,Engineering,Alaska,9,3,Dropped Out
+3904,Engineering,Texas,3,1,Dropped Out
+3905,Engineering,Washington,3,2,Completed
+3906,Marketing,Hawaii,3,7,Completed
+3907,Engineering,Michigan,9,4,Dropped Out
+3908,Marketing,New Jersey,3,2,Dropped Out
+3909,Data Science,Hawaii,3,8,Completed
+3910,Data Science,Texas,3,4,Completed
+3911,HR,Washington,3,4,Dropped Out
+3912,Data Science,Nebraska,9,2,Completed
+3913,HR,New Jersey,3,1,Dropped Out
+3914,Web Dev,Michigan,3,1,Completed
+3915,Web Dev,Nebraska,3,3,Completed
+3916,Design,New York,3,6,Completed
+3917,HR,Washington,6,7,Dropped Out
+3918,Design,Hawaii,3,9,Dropped Out
+3919,Design,New Jersey,3,5,Dropped Out
+3920,Web Dev,New Jersey,9,9,Completed
+3921,HR,Texas,3,8,Completed
+3922,Web Dev,Michigan,6,1,Completed
+3923,Design,California,3,3,Dropped Out
+3924,HR,New York,3,8,Dropped Out
+3925,Design,Nebraska,6,9,Dropped Out
+3926,Engineering,Alaska,9,4,Completed
+3927,HR,Alaska,6,6,Dropped Out
+3928,HR,New Jersey,3,4,Dropped Out
+3929,Design,Texas,3,9,Completed
+3930,Engineering,Illinois,3,2,Dropped Out
+3931,Marketing,New Jersey,6,6,Dropped Out
+3932,Web Dev,Alaska,6,3,Dropped Out
+3933,Design,Alaska,3,10,Completed
+3934,HR,New York,6,4,Dropped Out
+3935,Web Dev,Hawaii,6,2,Completed
+3936,Web Dev,Illinois,3,8,Dropped Out
+3937,Web Dev,New Jersey,6,10,Completed
+3938,Marketing,New York,3,8,Completed
+3939,Data Science,Texas,3,1,Completed
+3940,Design,New York,9,10,Completed
+3941,Data Science,New Jersey,3,6,Completed
+3942,Data Science,Washington,3,1,Completed
+3943,Data Science,California,6,6,Completed
+3944,Web Dev,New Jersey,9,7,Completed
+3945,Engineering,Michigan,9,2,Dropped Out
+3946,Web Dev,Alaska,6,9,Completed
+3947,Web Dev,Illinois,3,8,Completed
+3948,HR,Illinois,9,9,Completed
+3949,HR,Hawaii,6,10,Completed
+3950,Data Science,California,3,4,Dropped Out
+3951,Web Dev,Michigan,9,4,Completed
+3952,Data Science,Alaska,3,8,Completed
+3953,HR,Illinois,3,1,Completed
+3954,Engineering,Michigan,9,8,Dropped Out
+3955,Design,New York,6,7,Completed
+3956,Data Science,Hawaii,3,7,Completed
+3957,Engineering,New Jersey,3,9,Completed
+3958,Design,New Jersey,6,10,Completed
+3959,Marketing,Washington,3,7,Completed
+3960,Data Science,Alaska,3,2,Dropped Out
+3961,Data Science,Michigan,6,1,Dropped Out
+3962,Marketing,Nebraska,9,1,Dropped Out
+3963,Marketing,Illinois,6,7,Completed
+3964,Data Science,Texas,6,5,Completed
+3965,Marketing,Texas,6,4,Dropped Out
+3966,Web Dev,New Jersey,6,5,Dropped Out
+3967,Design,Nebraska,3,10,Dropped Out
+3968,Design,Texas,9,10,Dropped Out
+3969,Design,California,3,6,Completed
+3970,Web Dev,California,3,10,Completed
+3971,Marketing,Alaska,3,6,Completed
+3972,Engineering,Nebraska,6,1,Dropped Out
+3973,Marketing,California,3,2,Completed
+3974,Data Science,California,3,3,Completed
+3975,HR,New Jersey,6,4,Dropped Out
+3976,Design,Texas,9,6,Completed
+3977,Marketing,Alaska,6,9,Completed
+3978,Engineering,Michigan,3,2,Dropped Out
+3979,Data Science,New York,3,8,Completed
+3980,Web Dev,Illinois,6,9,Completed
+3981,Web Dev,Illinois,3,2,Dropped Out
+3982,Engineering,Hawaii,6,9,Dropped Out
+3983,Data Science,New York,3,7,Completed
+3984,Design,New York,9,9,Completed
+3985,Marketing,Illinois,3,6,Dropped Out
+3986,Data Science,Illinois,3,2,Completed
+3987,Web Dev,Michigan,9,8,Completed
+3988,Engineering,Nebraska,3,10,Completed
+3989,Engineering,Nebraska,3,9,Completed
+3990,Marketing,Michigan,9,8,Dropped Out
+3991,Engineering,Texas,3,2,Dropped Out
+3992,Engineering,New York,3,8,Completed
+3993,Data Science,Washington,3,3,Dropped Out
+3994,Design,New York,3,3,Dropped Out
+3995,Marketing,Hawaii,3,9,Completed
+3996,Data Science,Illinois,6,9,Completed
+3997,Design,New York,6,9,Completed
+3998,Data Science,Illinois,3,4,Completed
+3999,HR,New York,3,7,Dropped Out
+4000,Data Science,Hawaii,9,8,Completed
+4001,Engineering,Texas,9,5,Completed
+4002,Design,Washington,3,1,Dropped Out
+4003,Marketing,California,9,9,Completed
+4004,Marketing,Michigan,6,6,Dropped Out
+4005,Design,Michigan,3,3,Completed
+4006,Engineering,Washington,3,3,Dropped Out
+4007,Web Dev,New York,3,10,Completed
+4008,Data Science,California,9,1,Dropped Out
+4009,Engineering,Hawaii,6,8,Completed
+4010,HR,Nebraska,6,2,Dropped Out
+4011,Design,New York,3,1,Dropped Out
+4012,Data Science,Texas,6,7,Completed
+4013,Marketing,Illinois,6,9,Dropped Out
+4014,Web Dev,Alaska,9,6,Dropped Out
+4015,HR,New York,3,8,Completed
+4016,Marketing,Alaska,6,8,Completed
+4017,Design,New York,3,9,Dropped Out
+4018,Data Science,Washington,6,7,Completed
+4019,Design,Alaska,6,9,Dropped Out
+4020,Data Science,New York,3,9,Completed
+4021,Engineering,Michigan,6,1,Dropped Out
+4022,Web Dev,Alaska,3,6,Completed
+4023,Engineering,New York,9,8,Dropped Out
+4024,Engineering,Nebraska,3,10,Dropped Out
+4025,Design,Illinois,6,9,Completed
+4026,Web Dev,Nebraska,9,4,Dropped Out
+4027,Data Science,California,3,2,Completed
+4028,Data Science,New York,6,9,Completed
+4029,HR,New Jersey,3,9,Completed
+4030,Marketing,Texas,3,8,Dropped Out
+4031,HR,Nebraska,6,3,Dropped Out
+4032,HR,Alaska,6,5,Dropped Out
+4033,Data Science,Washington,9,2,Dropped Out
+4034,Design,Texas,9,3,Dropped Out
+4035,Engineering,New Jersey,6,1,Dropped Out
+4036,Engineering,Hawaii,6,4,Completed
+4037,Engineering,New York,9,5,Dropped Out
+4038,Web Dev,Washington,3,2,Dropped Out
+4039,Data Science,New York,3,3,Completed
+4040,Design,California,3,6,Dropped Out
+4041,Web Dev,New Jersey,9,6,Dropped Out
+4042,Marketing,New York,6,7,Completed
+4043,Design,Alaska,6,9,Completed
+4044,HR,California,3,4,Dropped Out
+4045,Design,Michigan,9,5,Dropped Out
+4046,Design,Hawaii,3,2,Completed
+4047,Engineering,New Jersey,6,6,Completed
+4048,Design,Illinois,3,4,Dropped Out
+4049,HR,Washington,3,5,Completed
+4050,HR,Nebraska,6,7,Completed
+4051,Data Science,New York,9,6,Dropped Out
+4052,Design,Washington,3,8,Completed
+4053,Engineering,Washington,3,6,Completed
+4054,Design,Illinois,3,10,Completed
+4055,Marketing,Illinois,3,8,Completed
+4056,Marketing,California,3,4,Completed
+4057,Engineering,New Jersey,6,7,Completed
+4058,Data Science,Alaska,9,3,Completed
+4059,Data Science,Hawaii,3,1,Dropped Out
+4060,HR,Illinois,6,9,Dropped Out
+4061,HR,Illinois,3,9,Completed
+4062,Web Dev,Nebraska,3,6,Completed
+4063,Engineering,Michigan,3,2,Completed
+4064,Design,Illinois,6,8,Completed
+4065,Engineering,Michigan,3,10,Completed
+4066,Web Dev,California,3,6,Completed
+4067,HR,Alaska,3,7,Completed
+4068,Engineering,Washington,3,1,Completed
+4069,Engineering,Illinois,3,3,Dropped Out
+4070,HR,New York,9,1,Dropped Out
+4071,Web Dev,Michigan,6,10,Completed
+4072,HR,Nebraska,9,1,Dropped Out
+4073,Data Science,Hawaii,3,1,Completed
+4074,Design,Nebraska,3,4,Dropped Out
+4075,HR,Illinois,3,7,Completed
+4076,Web Dev,New Jersey,3,7,Completed
+4077,Marketing,Washington,6,5,Completed
+4078,Data Science,Alaska,3,6,Completed
+4079,Marketing,New York,3,2,Dropped Out
+4080,HR,New Jersey,6,5,Completed
+4081,Data Science,Nebraska,3,7,Completed
+4082,Design,Michigan,9,9,Completed
+4083,HR,Michigan,3,6,Completed
+4084,Design,New Jersey,6,10,Dropped Out
+4085,Engineering,Michigan,3,4,Completed
+4086,Marketing,Nebraska,9,3,Dropped Out
+4087,Data Science,New Jersey,3,9,Completed
+4088,Design,Nebraska,6,7,Completed
+4089,Web Dev,New York,3,6,Completed
+4090,Design,Washington,6,7,Dropped Out
+4091,Web Dev,Hawaii,3,8,Completed
+4092,HR,New York,3,5,Completed
+4093,Data Science,New York,9,3,Dropped Out
+4094,Design,Michigan,9,3,Dropped Out
+4095,Design,Illinois,3,2,Completed
+4096,Data Science,Texas,9,8,Completed
+4097,Design,Michigan,3,1,Completed
+4098,Web Dev,Illinois,9,8,Completed
+4099,Design,Nebraska,6,3,Dropped Out
+4100,Marketing,Texas,3,9,Completed
+4101,HR,Michigan,9,2,Completed
+4102,Engineering,Texas,9,10,Completed
+4103,Web Dev,Texas,3,9,Completed
+4104,Marketing,California,6,6,Dropped Out
+4105,HR,Washington,3,1,Dropped Out
+4106,Data Science,California,9,5,Completed
+4107,Web Dev,Illinois,6,10,Completed
+4108,Engineering,Alaska,3,9,Completed
+4109,HR,New Jersey,6,6,Dropped Out
+4110,Engineering,Hawaii,6,7,Completed
+4111,Data Science,Alaska,6,4,Completed
+4112,Data Science,New Jersey,3,1,Completed
+4113,Web Dev,Illinois,3,5,Completed
+4114,Design,Illinois,6,2,Dropped Out
+4115,Data Science,Nebraska,3,8,Completed
+4116,HR,Hawaii,3,4,Dropped Out
+4117,Design,Washington,6,1,Dropped Out
+4118,Marketing,Texas,3,10,Completed
+4119,Engineering,California,6,7,Dropped Out
+4120,Design,California,6,2,Dropped Out
+4121,Engineering,Illinois,6,3,Completed
+4122,Design,California,3,9,Completed
+4123,Marketing,Illinois,3,9,Dropped Out
+4124,Data Science,Texas,3,2,Dropped Out
+4125,Marketing,Illinois,9,3,Completed
+4126,Data Science,Nebraska,3,9,Completed
+4127,Data Science,Washington,9,1,Dropped Out
+4128,Engineering,New York,6,2,Dropped Out
+4129,HR,Michigan,9,2,Dropped Out
+4130,Marketing,Washington,3,10,Completed
+4131,Design,Washington,3,3,Dropped Out
+4132,Marketing,Alaska,9,10,Dropped Out
+4133,Engineering,Hawaii,3,3,Completed
+4134,Data Science,Hawaii,3,10,Completed
+4135,Engineering,New Jersey,3,2,Completed
+4136,Web Dev,Michigan,9,8,Completed
+4137,Web Dev,Texas,6,8,Dropped Out
+4138,Design,New York,6,8,Completed
+4139,Engineering,New York,6,2,Dropped Out
+4140,Design,Hawaii,3,9,Completed
+4141,Design,Washington,6,7,Dropped Out
+4142,Web Dev,Nebraska,3,5,Completed
+4143,Design,New Jersey,9,7,Dropped Out
+4144,Web Dev,Illinois,3,8,Completed
+4145,Data Science,New Jersey,3,9,Completed
+4146,Engineering,Alaska,6,2,Dropped Out
+4147,Design,New Jersey,3,6,Completed
+4148,Web Dev,Washington,6,9,Completed
+4149,Marketing,Texas,3,6,Completed
+4150,Design,Washington,3,2,Dropped Out
+4151,HR,Hawaii,3,1,Completed
+4152,Data Science,Texas,6,3,Dropped Out
+4153,Data Science,California,3,5,Completed
+4154,Marketing,Texas,6,7,Completed
+4155,Web Dev,New Jersey,3,10,Completed
+4156,Design,New Jersey,3,10,Dropped Out
+4157,Web Dev,New Jersey,3,3,Completed
+4158,Data Science,California,9,9,Dropped Out
+4159,Web Dev,Hawaii,6,10,Completed
+4160,Data Science,Illinois,3,4,Completed
+4161,Web Dev,Michigan,6,10,Completed
+4162,Marketing,Hawaii,9,2,Dropped Out
+4163,Engineering,New Jersey,3,3,Dropped Out
+4164,Marketing,Hawaii,9,5,Dropped Out
+4165,Marketing,Alaska,3,3,Completed
+4166,Engineering,New York,9,5,Dropped Out
+4167,Engineering,New York,6,4,Dropped Out
+4168,Design,Michigan,3,10,Completed
+4169,Design,Michigan,3,3,Completed
+4170,Marketing,Illinois,9,6,Completed
+4171,Marketing,Alaska,6,8,Dropped Out
+4172,Data Science,Washington,6,4,Dropped Out
+4173,Data Science,Hawaii,3,9,Completed
+4174,Design,Texas,3,6,Completed
+4175,HR,Texas,3,5,Completed
+4176,HR,Washington,3,3,Dropped Out
+4177,Design,New York,6,5,Dropped Out
+4178,Data Science,Washington,9,5,Completed
+4179,Data Science,Hawaii,6,4,Dropped Out
+4180,HR,Alaska,3,6,Completed
+4181,Web Dev,New Jersey,6,3,Completed
+4182,Web Dev,California,9,10,Dropped Out
+4183,Data Science,New Jersey,6,1,Dropped Out
+4184,Web Dev,California,6,7,Dropped Out
+4185,Engineering,Texas,9,7,Dropped Out
+4186,Design,Michigan,6,4,Dropped Out
+4187,Design,Hawaii,3,9,Dropped Out
+4188,Data Science,New Jersey,3,2,Completed
+4189,Marketing,Washington,9,1,Dropped Out
+4190,HR,Alaska,3,3,Completed
+4191,Data Science,Alaska,3,7,Completed
+4192,Web Dev,New York,3,9,Dropped Out
+4193,HR,Alaska,6,2,Dropped Out
+4194,Marketing,Alaska,9,6,Dropped Out
+4195,Web Dev,Michigan,3,3,Completed
+4196,Engineering,Washington,6,5,Dropped Out
+4197,Web Dev,Texas,9,9,Dropped Out
+4198,Engineering,Alaska,3,3,Completed
+4199,HR,Texas,3,1,Dropped Out
+4200,Engineering,Michigan,9,5,Dropped Out
+4201,HR,Alaska,3,1,Completed
+4202,HR,Hawaii,6,8,Dropped Out
+4203,HR,New York,6,7,Dropped Out
+4204,HR,New Jersey,3,2,Dropped Out
+4205,HR,Hawaii,9,9,Dropped Out
+4206,Web Dev,Nebraska,3,5,Completed
+4207,HR,Illinois,3,7,Dropped Out
+4208,Web Dev,Alaska,3,4,Completed
+4209,HR,Texas,3,1,Dropped Out
+4210,Engineering,Illinois,9,8,Dropped Out
+4211,HR,California,6,1,Completed
+4212,Marketing,Alaska,9,3,Dropped Out
+4213,HR,Nebraska,3,6,Completed
+4214,HR,Michigan,6,8,Completed
+4215,Engineering,New York,6,8,Completed
+4216,Design,Nebraska,9,2,Dropped Out
+4217,Engineering,Texas,6,9,Dropped Out
+4218,Marketing,Michigan,3,4,Dropped Out
+4219,Design,New Jersey,3,4,Dropped Out
+4220,Data Science,Michigan,3,2,Dropped Out
+4221,Data Science,Alaska,6,1,Completed
+4222,Marketing,Illinois,9,10,Dropped Out
+4223,Engineering,Illinois,3,7,Dropped Out
+4224,Web Dev,Texas,3,10,Completed
+4225,Marketing,Michigan,3,3,Dropped Out
+4226,Design,Nebraska,6,4,Dropped Out
+4227,Design,Texas,3,9,Dropped Out
+4228,HR,New York,3,6,Completed
+4229,Data Science,Texas,3,1,Dropped Out
+4230,Design,Texas,6,9,Completed
+4231,Marketing,New Jersey,6,9,Completed
+4232,Design,Hawaii,6,5,Dropped Out
+4233,Marketing,Alaska,3,8,Completed
+4234,Web Dev,New Jersey,3,7,Completed
+4235,HR,Illinois,3,8,Completed
+4236,Data Science,Illinois,3,9,Completed
+4237,Design,California,3,2,Completed
+4238,Marketing,California,3,10,Completed
+4239,Engineering,Nebraska,6,5,Dropped Out
+4240,Data Science,Illinois,3,8,Completed
+4241,Web Dev,Hawaii,3,3,Completed
+4242,Marketing,New Jersey,9,6,Dropped Out
+4243,HR,New York,6,6,Dropped Out
+4244,HR,Hawaii,6,7,Dropped Out
+4245,Web Dev,California,9,3,Completed
+4246,Web Dev,Michigan,3,8,Completed
+4247,HR,Hawaii,6,8,Dropped Out
+4248,Design,Hawaii,6,9,Dropped Out
+4249,Design,Hawaii,3,8,Completed
+4250,Marketing,Hawaii,3,3,Dropped Out
+4251,Engineering,Hawaii,3,6,Completed
+4252,Marketing,California,3,9,Completed
+4253,Engineering,Illinois,3,1,Completed
+4254,Web Dev,Texas,3,3,Dropped Out
+4255,Data Science,Hawaii,3,2,Dropped Out
+4256,Marketing,Hawaii,3,8,Completed
+4257,Marketing,Alaska,3,6,Completed
+4258,Engineering,Illinois,3,10,Completed
+4259,Web Dev,Texas,3,8,Completed
+4260,Web Dev,New York,6,2,Dropped Out
+4261,Engineering,New York,3,6,Dropped Out
+4262,Web Dev,Michigan,9,7,Completed
+4263,HR,Washington,9,8,Completed
+4264,Design,New Jersey,6,9,Completed
+4265,HR,Alaska,6,5,Completed
+4266,Data Science,Illinois,3,3,Completed
+4267,Marketing,Illinois,3,2,Dropped Out
+4268,Data Science,Washington,9,8,Dropped Out
+4269,Marketing,Michigan,3,1,Completed
+4270,Design,Nebraska,9,10,Dropped Out
+4271,Web Dev,California,6,6,Completed
+4272,HR,Michigan,3,2,Completed
+4273,Engineering,Texas,3,3,Dropped Out
+4274,HR,Michigan,6,8,Dropped Out
+4275,Design,Washington,3,1,Completed
+4276,Data Science,Washington,3,6,Completed
+4277,Engineering,New Jersey,6,3,Dropped Out
+4278,Web Dev,Alaska,6,6,Dropped Out
+4279,Design,Hawaii,3,3,Dropped Out
+4280,Engineering,New York,3,8,Completed
+4281,Design,Washington,9,5,Dropped Out
+4282,Design,New Jersey,6,4,Completed
+4283,Web Dev,California,6,9,Completed
+4284,Marketing,New York,9,5,Completed
+4285,Engineering,Nebraska,3,4,Dropped Out
+4286,Web Dev,Illinois,3,8,Completed
+4287,Design,California,9,8,Dropped Out
+4288,Web Dev,Nebraska,6,8,Dropped Out
+4289,Marketing,New York,3,4,Completed
+4290,HR,California,3,1,Completed
+4291,Engineering,New Jersey,6,2,Dropped Out
+4292,Marketing,Nebraska,3,4,Completed
+4293,Data Science,Illinois,9,10,Dropped Out
+4294,Engineering,Hawaii,3,2,Completed
+4295,Marketing,New Jersey,3,10,Completed
+4296,Design,Texas,3,3,Dropped Out
+4297,Engineering,Illinois,6,9,Completed
+4298,Engineering,Alaska,9,9,Dropped Out
+4299,Web Dev,Michigan,6,9,Completed
+4300,Design,Alaska,9,7,Dropped Out
+4301,Data Science,Washington,3,4,Completed
+4302,HR,Hawaii,3,1,Dropped Out
+4303,Marketing,Texas,9,3,Dropped Out
+4304,Web Dev,Texas,9,8,Completed
+4305,Marketing,Michigan,9,4,Dropped Out
+4306,Data Science,Nebraska,6,10,Completed
+4307,Data Science,Michigan,3,10,Completed
+4308,Engineering,Washington,3,2,Dropped Out
+4309,Data Science,Alaska,9,8,Completed
+4310,Marketing,Texas,3,7,Completed
+4311,Design,Alaska,3,10,Completed
+4312,Design,Illinois,6,9,Dropped Out
+4313,Engineering,Hawaii,3,2,Dropped Out
+4314,HR,California,9,5,Completed
+4315,Marketing,Washington,3,6,Dropped Out
+4316,Marketing,California,6,2,Completed
+4317,Data Science,Washington,6,2,Completed
+4318,Marketing,New York,6,10,Completed
+4319,Web Dev,Hawaii,3,4,Completed
+4320,HR,Illinois,3,8,Completed
+4321,Data Science,Hawaii,3,5,Completed
+4322,Web Dev,Nebraska,3,9,Completed
+4323,Engineering,Washington,6,4,Dropped Out
+4324,Design,California,3,3,Dropped Out
+4325,Engineering,Washington,3,10,Dropped Out
+4326,Design,Nebraska,3,8,Completed
+4327,Engineering,Washington,6,1,Completed
+4328,Marketing,Hawaii,3,9,Dropped Out
+4329,Web Dev,New Jersey,9,4,Completed
+4330,Design,Washington,6,9,Dropped Out
+4331,Data Science,New York,6,8,Completed
+4332,Web Dev,New York,9,3,Dropped Out
+4333,Data Science,Texas,3,3,Completed
+4334,Web Dev,New York,9,9,Completed
+4335,Web Dev,Washington,6,3,Completed
+4336,Engineering,Washington,9,4,Dropped Out
+4337,Design,New Jersey,9,9,Completed
+4338,Design,New York,3,4,Dropped Out
+4339,Web Dev,Alaska,3,3,Completed
+4340,Marketing,Washington,6,7,Dropped Out
+4341,Marketing,Illinois,6,6,Dropped Out
+4342,Data Science,Illinois,3,1,Dropped Out
+4343,Data Science,California,3,10,Completed
+4344,Engineering,New Jersey,3,8,Completed
+4345,Web Dev,Nebraska,6,1,Dropped Out
+4346,Data Science,Alaska,9,4,Completed
+4347,Data Science,Washington,6,6,Completed
+4348,HR,Hawaii,3,6,Dropped Out
+4349,Web Dev,Michigan,3,7,Completed
+4350,Engineering,Michigan,3,5,Completed
+4351,Data Science,Nebraska,3,5,Completed
+4352,Engineering,Texas,9,4,Dropped Out
+4353,Design,Hawaii,3,6,Dropped Out
+4354,Engineering,Michigan,6,7,Completed
+4355,Marketing,Nebraska,9,10,Completed
+4356,Marketing,Michigan,9,10,Dropped Out
+4357,Engineering,New Jersey,3,1,Completed
+4358,Marketing,California,3,9,Completed
+4359,Design,Texas,3,8,Completed
+4360,Web Dev,New Jersey,6,7,Completed
+4361,Marketing,Hawaii,9,9,Dropped Out
+4362,Marketing,Nebraska,3,3,Dropped Out
+4363,Engineering,Alaska,3,10,Completed
+4364,Design,Hawaii,9,4,Dropped Out
+4365,Web Dev,Hawaii,6,7,Completed
+4366,Engineering,New York,9,6,Dropped Out
+4367,Engineering,Alaska,3,2,Dropped Out
+4368,HR,Illinois,3,2,Dropped Out
+4369,Design,New York,3,10,Completed
+4370,Web Dev,Nebraska,3,7,Dropped Out
+4371,Design,Illinois,6,9,Completed
+4372,Web Dev,Michigan,3,9,Completed
+4373,Design,Michigan,3,7,Dropped Out
+4374,Engineering,Hawaii,9,8,Completed
+4375,Engineering,New York,3,10,Completed
+4376,Data Science,Washington,6,3,Completed
+4377,Marketing,Alaska,3,1,Dropped Out
+4378,HR,Illinois,9,7,Dropped Out
+4379,Design,Alaska,3,8,Completed
+4380,HR,New York,6,2,Dropped Out
+4381,Data Science,Hawaii,3,9,Completed
+4382,Marketing,New Jersey,3,4,Dropped Out
+4383,Design,Michigan,6,10,Completed
+4384,Web Dev,Illinois,3,9,Completed
+4385,Marketing,Illinois,3,3,Completed
+4386,Engineering,Nebraska,9,8,Dropped Out
+4387,Data Science,Illinois,9,2,Dropped Out
+4388,Marketing,New York,3,3,Dropped Out
+4389,Marketing,Illinois,3,1,Completed
+4390,Engineering,Illinois,3,5,Completed
+4391,Design,Alaska,3,4,Completed
+4392,Web Dev,Hawaii,9,1,Dropped Out
+4393,Engineering,California,6,10,Completed
+4394,Web Dev,Illinois,3,9,Dropped Out
+4395,Design,Washington,9,6,Dropped Out
+4396,Marketing,Hawaii,6,6,Completed
+4397,Web Dev,Texas,6,2,Dropped Out
+4398,Data Science,Nebraska,3,7,Completed
+4399,Data Science,Alaska,3,9,Completed
+4400,Engineering,Nebraska,6,6,Dropped Out
+4401,Design,New Jersey,3,8,Completed
+4402,Engineering,Illinois,3,5,Completed
+4403,Engineering,Michigan,3,2,Dropped Out
+4404,HR,Washington,3,4,Completed
+4405,Engineering,Alaska,6,1,Completed
+4406,HR,Nebraska,6,1,Dropped Out
+4407,Data Science,Illinois,3,6,Completed
+4408,Data Science,Michigan,3,2,Completed
+4409,Engineering,Michigan,6,6,Dropped Out
+4410,Data Science,New Jersey,3,1,Completed
+4411,Design,Hawaii,6,10,Dropped Out
+4412,HR,Washington,6,3,Dropped Out
+4413,HR,California,3,9,Completed
+4414,Engineering,Washington,6,2,Dropped Out
+4415,Data Science,New Jersey,6,8,Completed
+4416,Web Dev,New York,3,6,Completed
+4417,HR,Hawaii,3,6,Completed
+4418,Engineering,Alaska,9,7,Completed
+4419,Engineering,Hawaii,3,5,Dropped Out
+4420,Design,New Jersey,9,4,Dropped Out
+4421,Marketing,New Jersey,6,6,Dropped Out
+4422,Marketing,Alaska,3,8,Completed
+4423,HR,Alaska,3,4,Dropped Out
+4424,Design,Alaska,3,5,Completed
+4425,Design,Hawaii,3,7,Dropped Out
+4426,Design,Illinois,6,6,Dropped Out
+4427,HR,Nebraska,9,4,Dropped Out
+4428,Marketing,Texas,9,4,Completed
+4429,Design,Alaska,3,10,Completed
+4430,Data Science,Nebraska,9,4,Dropped Out
+4431,Engineering,Texas,9,1,Completed
+4432,Engineering,Hawaii,9,5,Dropped Out
+4433,Web Dev,Nebraska,3,8,Completed
+4434,Web Dev,Alaska,6,7,Completed
+4435,HR,California,6,5,Dropped Out
+4436,HR,New Jersey,3,3,Completed
+4437,Engineering,Nebraska,9,1,Completed
+4438,Data Science,Michigan,3,7,Completed
+4439,Marketing,Michigan,3,3,Dropped Out
+4440,Marketing,Nebraska,9,4,Dropped Out
+4441,HR,Alaska,3,5,Completed
+4442,Data Science,Washington,9,8,Dropped Out
+4443,HR,Alaska,6,7,Completed
+4444,Marketing,Hawaii,3,9,Completed
+4445,HR,Alaska,3,3,Completed
+4446,Design,Hawaii,6,10,Completed
+4447,HR,Washington,6,1,Completed
+4448,Engineering,California,9,1,Dropped Out
+4449,HR,Hawaii,9,10,Dropped Out
+4450,Engineering,New York,3,1,Completed
+4451,Data Science,Michigan,3,2,Completed
+4452,Marketing,New Jersey,9,2,Completed
+4453,Web Dev,Michigan,6,7,Dropped Out
+4454,Web Dev,Hawaii,3,9,Completed
+4455,Marketing,New York,9,8,Dropped Out
+4456,Web Dev,Illinois,9,4,Dropped Out
+4457,HR,California,6,2,Completed
+4458,Data Science,California,3,3,Completed
+4459,Data Science,Illinois,6,10,Completed
+4460,Marketing,New Jersey,6,5,Completed
+4461,Web Dev,Washington,9,9,Dropped Out
+4462,HR,Texas,9,8,Completed
+4463,Data Science,New York,6,3,Dropped Out
+4464,Data Science,Hawaii,6,9,Completed
+4465,Design,Texas,9,10,Dropped Out
+4466,Design,New Jersey,3,3,Completed
+4467,Data Science,Washington,3,10,Completed
+4468,Marketing,California,9,8,Completed
+4469,Engineering,Hawaii,3,1,Dropped Out
+4470,Engineering,Hawaii,3,4,Dropped Out
+4471,HR,Washington,3,4,Dropped Out
+4472,Data Science,Michigan,3,6,Completed
+4473,Data Science,New York,3,2,Dropped Out
+4474,Data Science,Washington,3,7,Completed
+4475,Marketing,Alaska,9,5,Dropped Out
+4476,Design,Alaska,6,10,Completed
+4477,Data Science,Washington,6,6,Completed
+4478,Data Science,California,3,6,Completed
+4479,Web Dev,Washington,6,6,Completed
+4480,Marketing,Nebraska,6,10,Completed
+4481,HR,New Jersey,6,8,Dropped Out
+4482,Data Science,Alaska,3,10,Completed
+4483,Web Dev,Texas,3,4,Completed
+4484,Engineering,Washington,9,10,Completed
+4485,HR,Alaska,6,8,Completed
+4486,Data Science,New Jersey,6,9,Completed
+4487,Data Science,New Jersey,6,4,Completed
+4488,Web Dev,Texas,3,1,Completed
+4489,Marketing,Hawaii,6,3,Dropped Out
+4490,Data Science,Nebraska,3,1,Completed
+4491,Engineering,Washington,6,7,Completed
+4492,Data Science,Illinois,9,1,Completed
+4493,Engineering,Washington,6,4,Completed
+4494,HR,Hawaii,3,1,Dropped Out
+4495,HR,New York,3,2,Dropped Out
+4496,Design,Michigan,6,1,Dropped Out
+4497,Design,California,9,5,Dropped Out
+4498,Engineering,Hawaii,6,7,Dropped Out
+4499,Marketing,New Jersey,6,3,Completed
+4500,Data Science,Illinois,3,8,Completed
+4501,Data Science,California,6,5,Completed
+4502,Design,Alaska,6,5,Dropped Out
+4503,Engineering,Washington,9,5,Completed
+4504,Data Science,California,3,8,Completed
+4505,Data Science,Alaska,6,2,Completed
+4506,Marketing,Michigan,3,2,Completed
+4507,Web Dev,Alaska,6,8,Completed
+4508,Design,Illinois,9,9,Completed
+4509,Design,New Jersey,3,10,Dropped Out
+4510,Web Dev,Hawaii,3,10,Completed
+4511,Data Science,Texas,6,2,Completed
+4512,Marketing,Hawaii,6,4,Dropped Out
+4513,Marketing,Hawaii,3,8,Completed
+4514,Design,Alaska,3,2,Completed
+4515,Marketing,Washington,6,4,Dropped Out
+4516,HR,California,9,10,Dropped Out
+4517,Web Dev,Texas,3,1,Completed
+4518,Data Science,Texas,9,2,Dropped Out
+4519,HR,California,3,7,Completed
+4520,Web Dev,California,3,1,Completed
+4521,Engineering,New Jersey,3,1,Dropped Out
+4522,Design,Illinois,9,2,Dropped Out
+4523,Marketing,Michigan,3,4,Dropped Out
+4524,Engineering,Illinois,6,7,Completed
+4525,Marketing,California,3,4,Completed
+4526,HR,Washington,9,5,Dropped Out
+4527,Data Science,Nebraska,9,4,Dropped Out
+4528,Data Science,Nebraska,6,4,Completed
+4529,Data Science,Michigan,9,9,Completed
+4530,Marketing,California,6,6,Completed
+4531,Engineering,Nebraska,9,3,Dropped Out
+4532,Data Science,Michigan,3,6,Completed
+4533,Engineering,Texas,3,7,Completed
+4534,Marketing,Michigan,6,7,Completed
+4535,HR,Texas,3,8,Completed
+4536,Engineering,New Jersey,3,4,Completed
+4537,HR,Nebraska,6,1,Dropped Out
+4538,Marketing,Michigan,3,6,Completed
+4539,Marketing,Michigan,6,8,Completed
+4540,Design,Michigan,3,5,Completed
+4541,Marketing,Washington,9,3,Dropped Out
+4542,Marketing,Michigan,9,4,Dropped Out
+4543,Web Dev,Washington,9,8,Dropped Out
+4544,Data Science,Hawaii,3,6,Completed
+4545,Design,New Jersey,6,5,Completed
+4546,Design,Hawaii,9,9,Dropped Out
+4547,Design,New York,9,10,Dropped Out
+4548,Web Dev,Hawaii,6,3,Completed
+4549,HR,California,3,7,Completed
+4550,Marketing,Texas,6,9,Completed
+4551,Data Science,California,6,4,Completed
+4552,Engineering,Illinois,3,10,Completed
+4553,HR,Hawaii,6,10,Completed
+4554,Marketing,Nebraska,9,3,Dropped Out
+4555,Web Dev,Alaska,6,1,Dropped Out
+4556,Marketing,Hawaii,3,9,Completed
+4557,Marketing,New Jersey,6,1,Dropped Out
+4558,Web Dev,Hawaii,9,2,Completed
+4559,Design,Washington,6,9,Completed
+4560,Design,Illinois,6,5,Dropped Out
+4561,Data Science,Michigan,6,4,Completed
+4562,Data Science,Illinois,6,9,Completed
+4563,Design,Illinois,6,9,Dropped Out
+4564,HR,Texas,3,2,Dropped Out
+4565,Engineering,Alaska,3,3,Completed
+4566,Marketing,Illinois,3,3,Completed
+4567,Engineering,Texas,3,5,Completed
+4568,Marketing,Michigan,3,3,Dropped Out
+4569,Design,California,3,10,Completed
+4570,Data Science,Michigan,9,6,Dropped Out
+4571,HR,Nebraska,3,2,Dropped Out
+4572,Data Science,Illinois,3,6,Completed
+4573,Engineering,Illinois,3,6,Dropped Out
+4574,Data Science,California,6,2,Dropped Out
+4575,Design,New Jersey,3,6,Completed
+4576,HR,Illinois,3,6,Completed
+4577,Engineering,Alaska,3,6,Dropped Out
+4578,HR,New York,9,5,Dropped Out
+4579,Marketing,Illinois,9,7,Dropped Out
+4580,Data Science,New York,9,5,Completed
+4581,HR,Michigan,3,1,Dropped Out
+4582,Web Dev,Hawaii,6,9,Completed
+4583,Data Science,New Jersey,6,3,Dropped Out
+4584,Marketing,Texas,3,2,Completed
+4585,HR,Washington,3,10,Dropped Out
+4586,Engineering,New Jersey,3,6,Completed
+4587,Marketing,Washington,6,8,Dropped Out
+4588,Web Dev,Michigan,3,2,Completed
+4589,HR,New Jersey,3,4,Dropped Out
+4590,Design,Texas,3,2,Dropped Out
+4591,Data Science,Washington,6,9,Completed
+4592,Engineering,California,9,10,Dropped Out
+4593,Design,Alaska,6,2,Completed
+4594,HR,New Jersey,6,10,Completed
+4595,HR,Michigan,6,2,Dropped Out
+4596,Marketing,Illinois,3,5,Completed
+4597,HR,Texas,3,5,Dropped Out
+4598,Engineering,Washington,9,7,Dropped Out
+4599,Design,Washington,9,1,Dropped Out
+4600,Engineering,Alaska,6,2,Completed
+4601,Web Dev,Washington,3,6,Completed
+4602,Web Dev,New York,3,2,Completed
+4603,Data Science,Nebraska,3,4,Dropped Out
+4604,Data Science,New York,9,10,Completed
+4605,Web Dev,Washington,6,6,Completed
+4606,HR,Texas,9,7,Completed
+4607,Engineering,New Jersey,6,10,Completed
+4608,Web Dev,Michigan,3,5,Completed
+4609,Data Science,Illinois,3,8,Completed
+4610,Web Dev,New Jersey,3,6,Completed
+4611,HR,California,6,5,Dropped Out
+4612,Web Dev,New Jersey,3,4,Completed
+4613,Engineering,New Jersey,6,6,Completed
+4614,Design,Michigan,6,6,Dropped Out
+4615,HR,Alaska,3,6,Completed
+4616,Data Science,Washington,3,1,Dropped Out
+4617,Engineering,Alaska,3,6,Completed
+4618,Web Dev,California,6,1,Completed
+4619,Web Dev,Hawaii,3,5,Completed
+4620,Design,Illinois,3,7,Completed
+4621,Data Science,New York,9,1,Completed
+4622,Data Science,Illinois,6,1,Completed
+4623,Marketing,Washington,6,6,Completed
+4624,Data Science,Illinois,6,7,Completed
+4625,Design,Nebraska,9,6,Dropped Out
+4626,Marketing,New York,6,5,Dropped Out
+4627,Marketing,California,3,6,Dropped Out
+4628,Web Dev,Washington,3,3,Completed
+4629,Web Dev,Texas,6,9,Dropped Out
+4630,Data Science,California,6,5,Completed
+4631,Marketing,Nebraska,6,2,Completed
+4632,Web Dev,New York,9,10,Completed
+4633,Design,Michigan,9,10,Dropped Out
+4634,Web Dev,Nebraska,3,7,Dropped Out
+4635,HR,California,3,3,Dropped Out
+4636,HR,Washington,3,1,Completed
+4637,Web Dev,Hawaii,6,3,Dropped Out
+4638,Marketing,Washington,3,9,Completed
+4639,Marketing,New York,3,5,Completed
+4640,Engineering,Hawaii,3,7,Completed
+4641,HR,Alaska,3,3,Completed
+4642,Design,New York,3,4,Completed
+4643,Marketing,New York,3,1,Dropped Out
+4644,Data Science,Nebraska,6,3,Completed
+4645,HR,Washington,3,7,Completed
+4646,Design,California,3,4,Dropped Out
+4647,Design,Michigan,9,2,Dropped Out
+4648,Marketing,Illinois,9,5,Dropped Out
+4649,Design,New Jersey,3,5,Completed
+4650,Marketing,Michigan,3,2,Completed
+4651,Web Dev,Illinois,6,6,Dropped Out
+4652,HR,Alaska,3,10,Completed
+4653,Engineering,California,3,4,Completed
+4654,Web Dev,Washington,3,1,Completed
+4655,HR,Texas,3,3,Completed
+4656,Marketing,New York,6,9,Completed
+4657,HR,Michigan,9,10,Dropped Out
+4658,Marketing,Illinois,6,7,Dropped Out
+4659,Web Dev,Texas,6,6,Dropped Out
+4660,Data Science,Michigan,3,1,Completed
+4661,Data Science,California,6,9,Completed
+4662,HR,Washington,3,9,Completed
+4663,Data Science,Hawaii,3,1,Dropped Out
+4664,Marketing,Michigan,6,6,Dropped Out
+4665,Design,Michigan,9,7,Completed
+4666,Marketing,Washington,3,2,Completed
+4667,Design,Alaska,9,10,Dropped Out
+4668,Web Dev,Nebraska,3,8,Dropped Out
+4669,Engineering,Michigan,3,8,Completed
+4670,Design,Washington,3,6,Dropped Out
+4671,Data Science,Nebraska,6,9,Completed
+4672,Marketing,Washington,9,3,Dropped Out
+4673,Web Dev,Washington,6,2,Dropped Out
+4674,Data Science,Alaska,3,2,Completed
+4675,Web Dev,Washington,3,6,Completed
+4676,Engineering,California,6,7,Dropped Out
+4677,Marketing,Michigan,3,6,Completed
+4678,HR,Illinois,3,3,Dropped Out
+4679,Marketing,Illinois,9,5,Dropped Out
+4680,Engineering,Illinois,6,8,Completed
+4681,Marketing,Washington,3,6,Completed
+4682,HR,Texas,3,2,Dropped Out
+4683,Design,Nebraska,3,7,Completed
+4684,Web Dev,Nebraska,6,8,Dropped Out
+4685,HR,Washington,9,4,Completed
+4686,Data Science,California,6,1,Completed
+4687,Engineering,California,3,2,Completed
+4688,Design,New York,3,4,Completed
+4689,Data Science,Washington,9,7,Completed
+4690,Data Science,New Jersey,9,2,Dropped Out
+4691,Engineering,Alaska,6,6,Completed
+4692,Design,Illinois,3,2,Dropped Out
+4693,Data Science,Alaska,6,7,Dropped Out
+4694,Data Science,Illinois,9,2,Dropped Out
+4695,Design,Hawaii,6,3,Dropped Out
+4696,Marketing,Hawaii,6,9,Dropped Out
+4697,Data Science,Washington,3,4,Completed
+4698,Web Dev,Hawaii,3,5,Completed
+4699,Design,Texas,3,9,Dropped Out
+4700,Data Science,New York,9,7,Completed
+4701,Engineering,California,6,8,Dropped Out
+4702,HR,Texas,6,3,Dropped Out
+4703,Web Dev,Alaska,3,4,Completed
+4704,HR,Alaska,9,7,Completed
+4705,HR,Hawaii,9,4,Dropped Out
+4706,Data Science,California,3,2,Completed
+4707,Web Dev,New York,9,10,Dropped Out
+4708,Web Dev,Illinois,3,6,Completed
+4709,Marketing,Texas,3,9,Completed
+4710,HR,New York,3,2,Completed
+4711,Web Dev,Michigan,9,1,Dropped Out
+4712,Marketing,Nebraska,9,8,Completed
+4713,Design,Hawaii,3,1,Completed
+4714,Marketing,Illinois,6,1,Dropped Out
+4715,Engineering,Michigan,6,3,Dropped Out
+4716,Data Science,Illinois,9,5,Dropped Out
+4717,Design,Illinois,3,9,Completed
+4718,Design,Hawaii,6,10,Dropped Out
+4719,Engineering,Illinois,6,2,Dropped Out
+4720,Marketing,New York,3,1,Dropped Out
+4721,Data Science,New York,3,1,Completed
+4722,Marketing,Michigan,6,8,Completed
+4723,Web Dev,Alaska,3,10,Completed
+4724,Marketing,California,9,10,Completed
+4725,Design,Texas,3,10,Completed
+4726,Data Science,Texas,9,2,Dropped Out
+4727,Marketing,New Jersey,3,9,Dropped Out
+4728,Data Science,Hawaii,3,9,Completed
+4729,Data Science,Washington,3,2,Completed
+4730,Web Dev,Washington,6,3,Dropped Out
+4731,Web Dev,Michigan,6,2,Completed
+4732,Design,Illinois,3,6,Dropped Out
+4733,Engineering,Illinois,3,7,Completed
+4734,Data Science,Hawaii,6,6,Dropped Out
+4735,Engineering,Nebraska,3,3,Completed
+4736,Design,Alaska,6,3,Dropped Out
+4737,Data Science,New Jersey,3,2,Completed
+4738,Data Science,New York,6,2,Dropped Out
+4739,HR,Illinois,6,5,Completed
+4740,Engineering,New Jersey,9,8,Dropped Out
+4741,Marketing,Texas,6,6,Dropped Out
+4742,Web Dev,Nebraska,3,9,Completed
+4743,Marketing,New York,3,5,Completed
+4744,Engineering,Hawaii,6,10,Completed
+4745,Web Dev,New Jersey,6,4,Completed
+4746,Marketing,Michigan,9,9,Dropped Out
+4747,HR,New York,6,10,Dropped Out
+4748,Web Dev,Hawaii,6,5,Dropped Out
+4749,Data Science,Washington,3,1,Dropped Out
+4750,Marketing,Hawaii,3,5,Completed
+4751,Web Dev,Hawaii,3,5,Completed
+4752,HR,New York,3,5,Dropped Out
+4753,Web Dev,Nebraska,6,2,Dropped Out
+4754,Web Dev,New York,3,6,Completed
+4755,HR,California,3,5,Completed
+4756,Marketing,Alaska,3,2,Dropped Out
+4757,Design,Nebraska,3,10,Completed
+4758,Marketing,Michigan,3,8,Completed
+4759,Engineering,Nebraska,6,6,Dropped Out
+4760,HR,Texas,3,10,Dropped Out
+4761,Marketing,Michigan,6,3,Dropped Out
+4762,Web Dev,Washington,6,9,Dropped Out
+4763,HR,New York,9,4,Dropped Out
+4764,Data Science,Hawaii,3,3,Completed
+4765,Marketing,New York,3,7,Completed
+4766,HR,Texas,3,8,Dropped Out
+4767,Marketing,New Jersey,3,7,Completed
+4768,HR,Texas,9,1,Dropped Out
+4769,Web Dev,California,6,1,Dropped Out
+4770,Data Science,Hawaii,6,5,Completed
+4771,Data Science,Hawaii,3,8,Completed
+4772,Engineering,Illinois,6,10,Completed
+4773,HR,New Jersey,3,3,Completed
+4774,Marketing,Illinois,6,8,Completed
+4775,Data Science,Washington,6,3,Dropped Out
+4776,Data Science,Alaska,3,4,Completed
+4777,Design,Alaska,3,10,Completed
+4778,Design,New York,9,7,Completed
+4779,Data Science,Alaska,3,3,Dropped Out
+4780,HR,Hawaii,3,4,Completed
+4781,Engineering,Texas,3,8,Completed
+4782,Data Science,New Jersey,3,4,Completed
+4783,Web Dev,New York,6,9,Dropped Out
+4784,Marketing,New York,6,4,Dropped Out
+4785,Engineering,New Jersey,6,4,Completed
+4786,Web Dev,Hawaii,3,5,Dropped Out
+4787,Engineering,Washington,6,1,Completed
+4788,Web Dev,Washington,9,7,Completed
+4789,Marketing,New York,3,9,Completed
+4790,Marketing,Washington,3,9,Dropped Out
+4791,Design,Hawaii,9,1,Dropped Out
+4792,HR,California,3,6,Completed
+4793,Web Dev,California,3,3,Dropped Out
+4794,Design,Illinois,3,4,Dropped Out
+4795,Web Dev,Nebraska,3,8,Dropped Out
+4796,Design,Michigan,3,4,Completed
+4797,Marketing,Alaska,3,8,Completed
+4798,Engineering,Washington,6,4,Dropped Out
+4799,Design,California,3,9,Completed
+4800,Web Dev,Texas,9,6,Dropped Out
+4801,Web Dev,New Jersey,3,1,Completed
+4802,HR,Nebraska,9,10,Dropped Out
+4803,Marketing,Illinois,9,2,Dropped Out
+4804,Web Dev,Michigan,6,7,Dropped Out
+4805,Data Science,California,9,10,Completed
+4806,Engineering,Illinois,6,7,Dropped Out
+4807,Design,Nebraska,9,3,Dropped Out
+4808,HR,New Jersey,3,1,Dropped Out
+4809,Engineering,Alaska,3,8,Completed
+4810,Marketing,California,6,10,Dropped Out
+4811,HR,New Jersey,3,10,Completed
+4812,Design,Michigan,9,7,Dropped Out
+4813,Design,Washington,9,10,Dropped Out
+4814,Data Science,Nebraska,3,8,Completed
+4815,Marketing,Michigan,9,1,Completed
+4816,HR,Alaska,3,3,Dropped Out
+4817,HR,New Jersey,3,2,Dropped Out
+4818,Web Dev,Hawaii,6,1,Completed
+4819,Data Science,Alaska,3,5,Completed
+4820,Data Science,New York,6,3,Completed
+4821,HR,California,6,10,Completed
+4822,HR,Washington,3,8,Completed
+4823,Engineering,Nebraska,6,6,Dropped Out
+4824,Engineering,Texas,6,10,Dropped Out
+4825,Engineering,New Jersey,3,9,Completed
+4826,Data Science,Hawaii,3,9,Completed
+4827,Web Dev,Texas,9,6,Dropped Out
+4828,Design,California,9,2,Dropped Out
+4829,Engineering,California,3,9,Completed
+4830,Web Dev,Nebraska,3,2,Dropped Out
+4831,Marketing,Hawaii,9,3,Dropped Out
+4832,Engineering,California,6,6,Dropped Out
+4833,Design,Texas,3,2,Dropped Out
+4834,Marketing,Hawaii,6,5,Completed
+4835,Marketing,Texas,3,2,Dropped Out
+4836,Design,Alaska,6,4,Dropped Out
+4837,Engineering,Michigan,3,3,Completed
+4838,Data Science,Hawaii,3,5,Completed
+4839,Design,Illinois,3,6,Dropped Out
+4840,Design,Michigan,9,7,Dropped Out
+4841,Design,Michigan,6,10,Completed
+4842,Marketing,Hawaii,6,8,Dropped Out
+4843,Web Dev,Washington,6,9,Completed
+4844,Data Science,California,3,4,Completed
+4845,Engineering,Alaska,9,4,Dropped Out
+4846,Engineering,Washington,3,7,Completed
+4847,Web Dev,Washington,9,10,Completed
+4848,Design,Illinois,3,10,Completed
+4849,Data Science,New Jersey,3,9,Completed
+4850,Engineering,Hawaii,6,2,Dropped Out
+4851,HR,Texas,6,6,Completed
+4852,Engineering,California,9,10,Completed
+4853,Design,Washington,6,10,Completed
+4854,HR,Alaska,3,8,Completed
+4855,Web Dev,New Jersey,9,5,Dropped Out
+4856,Data Science,Illinois,3,5,Completed
+4857,Web Dev,New York,9,8,Completed
+4858,Web Dev,California,6,1,Dropped Out
+4859,Data Science,New York,3,6,Completed
+4860,Data Science,Michigan,3,10,Completed
+4861,Engineering,Washington,3,9,Completed
+4862,Engineering,Nebraska,3,6,Completed
+4863,Data Science,California,3,7,Completed
+4864,HR,Texas,3,4,Dropped Out
+4865,Marketing,New Jersey,3,10,Completed
+4866,Engineering,Alaska,6,1,Dropped Out
+4867,Marketing,California,9,9,Completed
+4868,HR,Texas,3,6,Dropped Out
+4869,Data Science,Hawaii,3,3,Completed
+4870,HR,New York,3,4,Completed
+4871,Engineering,Hawaii,6,10,Completed
+4872,Web Dev,New Jersey,9,6,Completed
+4873,Data Science,Illinois,6,6,Completed
+4874,Design,Washington,9,9,Dropped Out
+4875,Marketing,California,6,4,Dropped Out
+4876,HR,Nebraska,6,5,Completed
+4877,Data Science,New York,3,5,Completed
+4878,HR,New York,9,3,Dropped Out
+4879,Data Science,California,9,2,Dropped Out
+4880,Engineering,Michigan,6,8,Completed
+4881,Engineering,Hawaii,9,10,Completed
+4882,Engineering,New York,3,9,Completed
+4883,HR,Texas,9,10,Dropped Out
+4884,Design,Alaska,3,9,Dropped Out
+4885,Engineering,Washington,3,5,Completed
+4886,Data Science,New York,3,9,Completed
+4887,Engineering,Texas,9,4,Completed
+4888,Web Dev,New Jersey,9,2,Dropped Out
+4889,Engineering,New Jersey,9,3,Dropped Out
+4890,HR,Washington,9,1,Dropped Out
+4891,Design,Michigan,3,5,Completed
+4892,Web Dev,Nebraska,9,1,Dropped Out
+4893,HR,Washington,9,1,Dropped Out
+4894,HR,Illinois,6,7,Completed
+4895,HR,Michigan,3,2,Completed
+4896,Data Science,New York,6,8,Completed
+4897,HR,Washington,9,6,Dropped Out
+4898,Data Science,Hawaii,9,4,Dropped Out
+4899,HR,New Jersey,9,9,Completed
+4900,Marketing,Texas,9,10,Completed
+4901,Web Dev,Washington,9,8,Completed
+4902,Marketing,Hawaii,6,10,Completed
+4903,HR,Michigan,6,3,Dropped Out
+4904,Web Dev,Illinois,3,3,Completed
+4905,Web Dev,Texas,6,4,Dropped Out
+4906,Design,Alaska,6,9,Dropped Out
+4907,Marketing,Illinois,9,9,Dropped Out
+4908,Design,New York,3,5,Dropped Out
+4909,Web Dev,Hawaii,3,9,Completed
+4910,Data Science,Washington,3,6,Completed
+4911,Web Dev,Washington,6,8,Dropped Out
+4912,Design,California,6,8,Completed
+4913,Marketing,New Jersey,3,10,Dropped Out
+4914,HR,New York,3,7,Completed
+4915,HR,Hawaii,3,4,Completed
+4916,Marketing,Washington,3,4,Dropped Out
+4917,HR,Alaska,3,6,Dropped Out
+4918,HR,Texas,3,9,Completed
+4919,Design,New York,3,7,Completed
+4920,Marketing,Michigan,3,5,Dropped Out
+4921,Engineering,Alaska,3,5,Dropped Out
+4922,Data Science,Texas,9,8,Completed
+4923,Data Science,Nebraska,3,6,Completed
+4924,HR,New Jersey,3,1,Completed
+4925,Data Science,New York,3,1,Completed
+4926,Marketing,Hawaii,3,9,Completed
+4927,Marketing,Illinois,3,8,Completed
+4928,Web Dev,Texas,3,6,Completed
+4929,Web Dev,Michigan,6,1,Completed
+4930,Data Science,Washington,6,2,Completed
+4931,Engineering,Illinois,6,10,Completed
+4932,Web Dev,Alaska,6,3,Dropped Out
+4933,Web Dev,New Jersey,3,10,Completed
+4934,Marketing,Hawaii,9,3,Completed
+4935,Engineering,Illinois,3,2,Completed
+4936,HR,Michigan,6,2,Dropped Out
+4937,Data Science,Texas,3,6,Completed
+4938,Web Dev,Hawaii,9,7,Completed
+4939,Engineering,Nebraska,6,4,Dropped Out
+4940,Engineering,Washington,3,1,Completed
+4941,Data Science,New Jersey,6,6,Completed
+4942,Engineering,Illinois,3,7,Dropped Out
+4943,Engineering,New Jersey,6,4,Completed
+4944,Engineering,New Jersey,6,6,Completed
+4945,Web Dev,New Jersey,3,9,Completed
+4946,Data Science,Texas,3,4,Dropped Out
+4947,Engineering,New Jersey,3,10,Completed
+4948,Engineering,Nebraska,6,4,Dropped Out
+4949,Web Dev,Alaska,3,10,Completed
+4950,Data Science,Michigan,6,5,Completed
+4951,Marketing,Hawaii,9,3,Dropped Out
+4952,Web Dev,Nebraska,3,10,Completed
+4953,Data Science,Hawaii,9,2,Dropped Out
+4954,Engineering,Michigan,6,9,Completed
+4955,Data Science,Alaska,3,1,Completed
+4956,Data Science,New York,3,5,Completed
+4957,HR,Hawaii,6,5,Dropped Out
+4958,Data Science,Hawaii,3,8,Completed
+4959,Marketing,Alaska,3,6,Completed
+4960,Data Science,Illinois,3,6,Completed
+4961,Marketing,Nebraska,6,6,Dropped Out
+4962,Engineering,Illinois,6,4,Dropped Out
+4963,Marketing,Illinois,6,1,Dropped Out
+4964,Engineering,Illinois,3,3,Completed
+4965,Engineering,New Jersey,9,10,Completed
+4966,Marketing,Washington,9,6,Completed
+4967,Web Dev,Hawaii,3,5,Completed
+4968,Design,Illinois,3,10,Dropped Out
+4969,Data Science,Nebraska,9,1,Dropped Out
+4970,HR,Washington,9,5,Dropped Out
+4971,Design,Washington,6,2,Dropped Out
+4972,Data Science,Illinois,9,1,Dropped Out
+4973,Data Science,Texas,6,4,Dropped Out
+4974,Engineering,Illinois,3,6,Completed
+4975,Data Science,Texas,6,7,Completed
+4976,HR,Illinois,6,9,Completed
+4977,Data Science,Nebraska,9,5,Completed
+4978,Marketing,Texas,3,8,Dropped Out
+4979,Design,New Jersey,6,8,Completed
+4980,Marketing,Washington,6,9,Completed
+4981,HR,Illinois,3,3,Dropped Out
+4982,Data Science,Washington,3,3,Completed
+4983,HR,Illinois,9,9,Completed
+4984,Engineering,Hawaii,3,7,Dropped Out
+4985,Marketing,Hawaii,6,4,Completed
+4986,Marketing,California,9,1,Dropped Out
+4987,Web Dev,Illinois,3,7,Dropped Out
+4988,Data Science,California,9,10,Completed
+4989,Engineering,Alaska,6,6,Dropped Out
+4990,Marketing,Alaska,3,3,Completed
+4991,Marketing,Washington,3,5,Completed
+4992,Engineering,Texas,9,3,Dropped Out
+4993,HR,Illinois,3,8,Completed
+4994,HR,Michigan,3,5,Completed
+4995,Data Science,Illinois,3,10,Completed
+4996,Web Dev,Illinois,3,10,Completed
+4997,Marketing,Michigan,3,6,Completed
+4998,Web Dev,Alaska,9,2,Dropped Out
+4999,HR,California,9,8,Dropped Out
+5000,HR,Washington,3,9,Completed
