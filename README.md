@@ -4,98 +4,77 @@
 This project analyzes internship program data to identify the key factors that influence completion rates and to generate data-driven recommendations for improving overall program effectiveness. The analysis focuses on departmental performance, mentor interaction impact, preferred internship duration, and performance metrics to help optimize intern success and reduce dropout rates.
 
 ## Dataset Description
-The synthetic dataset contains 1,000 internship records with the following attributes:
+The synthetic dataset contains 5,000 internship records with the following attributes:
 
 Core Attributes
-•	intern_id: Unique identifier for each intern
-•	department: Engineering, Data Science, Marketing, Design, Business, Research
-•	duration_weeks: Program duration (8, 12, 16, 24 weeks)
-•	academic_background: Education level of interns
-•	mentor_interaction: Mentor support level (Low, Medium, High)
-
-Performance Metrics
-•	weekly_hours: Average weekly working hours
-•	final_project_score: Final project score (0–100)
-•	mentor_feedback_score: Mentor evaluation score (1–10)
-•	gpa: Academic GPA
-•	age: Intern age
+- intern_id: Unique identifier for each intern
+- department: Engineering, Data Science, Marketing, Design, HR, Web Dev.
+- location: Illinois, Alaska, California, Michigan, Nebraska, New Jersey, New York, Texas, Washington, Hawaii
+- duration: Internship Program duration (3, 6, 9 months)
+- mentor_meetings: Number of Mentor meetings (1-10)
+- status: Internship completion status
 
 Outcome Metrics
-•	completion_status: Completed or Dropped Out
-•	completion_date: Date of completion
-•	dropout_week: Week of dropout
-•	dropout_reason: Reason for leaving the program
+- completion_status: Completed or Dropped Out
+- completion_date: Date of completion
+- dropout_week: Week of dropout
 
 ## Business Problem
-The objective is to understand what drives internship completion rates in order to:
-•	Improve overall program effectiveness
-•	Reduce dropout rates
-•	Strengthen mentorship structures
-•	Optimize resource allocation
-•	Enhance intern learning experiences and outcomes
+The objective is to understand what drives internship completion rates to:
+- Improve overall program effectiveness
+- Reduce dropout rates
+- Strengthen mentorship structures
+- Optimize resource allocation
+- Enhance intern learning experiences and outcomes
 
 ## Technologies Used
-•	Microsoft Excel
-•	Power BI Desktop
+- Microsoft Excel
+- Power BI Desktop
 
 ## Key Features of the Analysis
 
 Data Analysis
-•	Completion rate analysis by department, mentorship level, and duration
-•	Comparison of performance metrics between completed and dropped interns
-•	Correlation analysis to identify strong predictors of success
-•	Dropout pattern analysis, including reasons and timing
+- Completion rate analysis by department, mentorship level, and duration
+- Departmental comparison metrics between completed and dropped interns
+- Correlation analysis to identify strong predictors of success
 
 Visualizations
-•	Department-wise completion rates
-•	Mentor interaction impact
-•	Performance metric distributions
-•	Dropout reasons and weekly dropout patterns
-•	Monthly enrollment and completion trends
-•	Correlation heatmaps
+- Department-wise completion rates
+- Mentor interaction impact
+- Impact of Geographical location on completion rate
+- Internship duration and completion trends
 
 ## Key Findings
 
-Completion Rates
-•	Overall Completion Rate: 77.3%
-•	Highest Completion: Engineering (85.0%)
-•	Lowest Completion: Business (72.0%)
-•	Mentor Impact: High mentor interaction increases completion rates by 17.8% compared to low interaction
+- **Completion Status**:
+Approximately 58% of interns completed the internship. Among them, the Data Science department had the highest number of successful completions, while the Design department had the lowest.
 
-Performance Insights
-•	Completed interns work 10+ more hours/week
-•	Completed interns score 20+ points higher on final projects
-•	Mentor feedback scores show strong positive correlation with completion
+- **Departmental Factor**:
+The completion rate in the Data Science department increases as mentor interaction increases. In contrast, the Design department shows no significant improvement in completion rate despite higher mentor interaction.
 
-Dropout Patterns
-•	Most common dropout reason: Academic challenges
-•	Average dropout occurs around week 8–10
-•	Performance-related dropouts tend to occur earlier than personal-reason dropouts
+- **Internship Duration**:
+Interns across most departments prefer a 3-month internship duration.
+
+- **Mentor Impact**:
+The interns of the Data Science department achieved a high completion rate of 80.6% with a low number of mentor meetings; meanwhile, the interns of the Design department achieved the lowest completion rate of 36.5% with a high number of mentor meetings.
+
+- **Geographic Location**:
+The geographic location of interns has minimal impact on their performance.
+
+- **Focus Area**:
+The Design department emerged as a key improvement area, with the lowest completion rate at 36.5%. In contrast, the Data Science department set the benchmark with a completion rate of 80.6%.
+
 
 ## Data-Driven Recommendations
-1. Strengthen Mentor Programs
-•	Increase high-quality mentor interactions across all departments
-•	Provide mentor training for consistent guidance
-•	Establish structured weekly check-ins
-2. Implement Department-Focused Strategies
-•	Prioritize improvement in the Business department, which has the lowest completion rate
-•	Use the Engineering department as a benchmark to replicate successful practices
-•	Tailor support based on departmental needs
-3. Introduce an Early-Intervention System
-•	Monitor weekly hours and project performance
-•	Set automated alerts for interns at risk of dropping out
-•	Provide targeted support during critical weeks (6–10)
-4. Optimize Internship Duration
-•	Consider standardizing programs around 12–16 weeks, which aligns with most intern preferences
-•	Offer flexible options while ensuring consistent structure
-•	Conduct mid-program evaluations to adjust support
+- **Improve Design Department Support**: Provide targeted training and structured guidance to address the department’s low completion rate (36.5%).
+- **Strengthen Mentor Engagement**: Standardize regular mentor–intern interactions, as high mentor support boosts completion rates to 77.7%.
+- **Adopt a 3-Month Internship Model**: Offer 3-month internships as the default option since most interns prefer this duration.
+- **Use Data Science as a Benchmark**: Replicate the successful practices of the Data Science department, which leads with an 80.6% completion rate.
+- **Maintain Equal Access Regardless of Location**: Continue remote-friendly processes, as geographic location has minimal impact on intern performance.
+- **Increase Overall Completion Support**: Introduce milestone tracking and early interventions to raise the overall completion rate beyond 58%.
+
 
 ## Business Impact
-Implementing these data-driven strategies could:
-•	Increase overall completion rates by 5–10%
-•	Reduce dropout rates by 15–20%
-•	Improve the effectiveness of mentor programs
-•	Ensure more efficient resource allocation
-
-## Why This Matters
-“Understanding the dynamics of internship performance is essential for developing future talent. This analysis provides a clear blueprint for designing more effective, engaging, and successful internship programs that benefit both organizations and aspiring professionals.”
+- This project delivered meaningful insights into intern performance across departments, mentorship effectiveness, and program structure.
+- By strengthening mentor engagement, standardizing the preferred 3-month internship duration, and addressing the Design department’s low completion rate through targeted support, the organization can significantly enhance intern outcomes.
+- Implementing these data-driven strategies could potentially raise overall completion rates by 8–12% and reduce departmental performance gaps by up to 25%.
